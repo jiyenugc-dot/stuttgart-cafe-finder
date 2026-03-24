@@ -101,19 +101,45 @@ class Listing:
         return hashlib.md5(f"{self.platform}:{self.url}".encode()).hexdigest()
 
     def matches_criteria(self) -> bool:
+        # Price check
         if self.price_eur and self.price_eur > SEARCH_CONFIG["max_rent_eur"]:
             return False
+        # Area check
         if self.area_sqm:
             if self.area_sqm < SEARCH_CONFIG["min_area_sqm"] * 0.8:
                 return False
             if self.area_sqm > SEARCH_CONFIG["max_area_sqm"] * 1.3:
                 return False
+        # District check
         if self.district:
             district_lower = self.district.lower()
             valid = [d.lower() for d in SEARCH_CONFIG["districts"]]
             if not any(d in district_lower for d in valid):
                 if not any(p in district_lower for p in ["mitte", "süd", "west", "ost"]):
                     return False
+
+        # ── Exclude irrelevant property types ──
+        # If the title/description clearly indicates office, medical, warehouse etc.
+        # we skip it — we only want gastro, retail, or generic commercial spaces
+        full_text = f"{self.title} {self.description or ''}".lower()
+        exclude_keywords = [
+            "bürofläche", "büroräume", "büroetage", "bürohaus", "bürokomplex",
+            "büroeinheit", "büro zu vermieten", "office", "coworking", "co-working",
+            "praxisfläche", "praxisräume", "arztpraxis", "zahnarzt", "kanzlei",
+            "anwaltskanzlei", "steuerbüro", "therapiepraxis",
+            "lagerfläche", "lagerhalle", "lagerraum", "werkstatt",
+            "produktionsfläche", "produktionshalle", "industriehalle",
+            "stellplatz", "tiefgarage", "parkplatz", "garagenplatz",
+            "boardinghouse", "monteurzimmer", "pension",
+        ]
+        if any(kw in full_text for kw in exclude_keywords):
+            # Exception: if it ALSO mentions gastro/café/laden, keep it
+            gastro_keywords = ["gastro", "café", "cafe", "restaurant", "imbiss",
+                               "küche", "gastronomie", "laden", "ladenlokal",
+                               "einzelhandel", "bistro", "bar", "bäckerei"]
+            if not any(gk in full_text for gk in gastro_keywords):
+                return False
+
         return True
 
     def basic_score(self) -> int:
