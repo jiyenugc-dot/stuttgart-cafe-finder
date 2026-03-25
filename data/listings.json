@@ -9,7 +9,10 @@
     "0cec7de523e7009e431e43759eeef8a5": "2026-03-25T10:11:10.145734",
     "45cc0c4adf01464f064735cf2d19f36b": "2026-03-25T10:11:10.147998",
     "70164e725d5902154a969ccbf066eedf": "2026-03-25T10:11:10.149135",
-    "4506d6a819666f00d296ab52d531c341": "2026-03-25T10:11:10.152536"
+    "4506d6a819666f00d296ab52d531c341": "2026-03-25T10:11:10.152536",
+    "f9ff100288a29ff0a1e9af030ba69bcf": "2026-03-25T19:36:48.230780",
+    "20cb82a4884a5aca90344a30985a867c": "2026-03-25T19:36:48.235836",
+    "c07b9498e390c45b504707a6119b1269": "2026-03-25T19:36:48.241920"
   },
   "listings": [
     {
@@ -141,6 +144,45 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-03-25T10:11:10.152536"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Trendy Hotspot",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/trendy-hotspot/3298501378-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nDieses sehr angesagte Shoppingcenter befindet sich in absolut zentraler...",
+      "listing_id": "9b7791a60c93",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-03-25T19:36:48.230780"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "BISTRO in zentraler Lage Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bistro-in-zentraler-lage-stuttgart/3300256609-277-9281",
+      "price_eur": 1200.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Das Objekt ist voll ausgestattet und ist so zu übergeben. Es kann auch in ein Gastronomieobjekt,...",
+      "listing_id": "3498deb177d5",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-03-25T19:36:48.235836"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in Stuttgart-Ost zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-ost-zur-untermiete/3362926288-277-9291",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
+      "listing_id": "46f0ab27abaf",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-03-25T19:36:48.241920"
     }
   ]
 }

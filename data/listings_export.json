@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T10:11:14.187961",
-  "total_listings": 10,
+  "last_updated": "2026-03-25T19:36:52.200145",
+  "total_listings": 13,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -153,6 +153,45 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-03-25T10:11:10.152536"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Trendy Hotspot",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/trendy-hotspot/3298501378-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nDieses sehr angesagte Shoppingcenter befindet sich in absolut zentraler...",
+      "listing_id": "9b7791a60c93",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-03-25T19:36:48.230780"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "BISTRO in zentraler Lage Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bistro-in-zentraler-lage-stuttgart/3300256609-277-9281",
+      "price_eur": 1200.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Das Objekt ist voll ausgestattet und ist so zu übergeben. Es kann auch in ein Gastronomieobjekt,...",
+      "listing_id": "3498deb177d5",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-03-25T19:36:48.235836"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in Stuttgart-Ost zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-ost-zur-untermiete/3362926288-277-9291",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
+      "listing_id": "46f0ab27abaf",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-03-25T19:36:48.241920"
     }
   ]
 }
