@@ -13,7 +13,8 @@
     "f9ff100288a29ff0a1e9af030ba69bcf": "2026-03-25T19:36:48.230780",
     "20cb82a4884a5aca90344a30985a867c": "2026-03-25T19:36:48.235836",
     "c07b9498e390c45b504707a6119b1269": "2026-03-25T19:36:48.241920",
-    "8c52c0dd51342f9e10dbd1602df65f1e": "2026-03-26T10:15:49.133251"
+    "8c52c0dd51342f9e10dbd1602df65f1e": "2026-03-26T10:15:49.133251",
+    "acab6c2205e72a2815f789d4b9dadc13": "2026-03-26T19:57:37.889169"
   },
   "listings": [
     {
@@ -197,6 +198,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-03-26T10:15:49.133251"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage/3298502173-277-9283",
+      "price_eur": null,
+      "area_sqm": 91.0,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Weitere Angaben:\nZimmer: 1\nObjektzustand: gepflegt\nLadenfläche: ca. 91 m²\nVerkaufsfläche: ca. 91 m²",
+      "listing_id": "a0745aa16599",
+      "ai_score": 8,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-03-26T19:57:37.889169"
     }
   ]
 }
