@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T19:36:52.200145",
-  "total_listings": 13,
+  "last_updated": "2026-03-26T10:15:53.660731",
+  "total_listings": 14,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -192,6 +192,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-03-25T19:36:48.241920"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top-Lage – Möbliertes Büro mit Balkon, meist allein, All-Incl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage-moebliertes-buero-mit-balkon-meist-allein-all-incl-/3363357375-277-9287",
+      "price_eur": 490.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Helles, abschließbares Büro in Top-Lage Stuttgart-Mitte (Neckartor), Hauptbahnhof & Schlossgarten...",
+      "listing_id": "8c27def72153",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-26T10:15:49.133251"
     }
   ]
 }
