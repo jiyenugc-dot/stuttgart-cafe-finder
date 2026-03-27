@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T19:57:43.184550",
-  "total_listings": 15,
+  "last_updated": "2026-03-27T10:07:34.431416",
+  "total_listings": 16,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -218,6 +218,19 @@
       "ai_score": 8,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-03-26T19:57:37.889169"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 2 Person in Regus Königstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-koenigstrasse/3204515246-277-9283",
+      "price_eur": 669.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nFinden Sie ein Zuhause für...",
+      "listing_id": "a041305670fb",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-27T10:07:30.446443"
     }
   ]
 }
