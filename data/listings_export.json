@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T10:07:34.431416",
-  "total_listings": 16,
+  "last_updated": "2026-03-27T19:32:52.138437",
+  "total_listings": 18,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -231,6 +231,32 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-03-27T10:07:30.446443"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3364934506-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "daa416efdfea",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-03-27T19:32:48.141294"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-zur-untermiete/3364628077-277-9289",
+      "price_eur": 575.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Wir vermieten 2 wunderschöne und helle über Glaswände abgetrennte Arbeitsplätze in unserem Büro im...",
+      "listing_id": "f183e1682c28",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-27T19:32:48.161980"
     }
   ]
 }
