@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T09:05:14.334267",
-  "total_listings": 18,
+  "last_updated": "2026-03-29T18:03:07.800912",
+  "total_listings": 20,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -257,6 +257,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-03-27T19:32:48.161980"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Untervermietung: Büro 50 m² in Top-Lage Stuttgart beim Gerber",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/untervermietung-buero-50-m-in-top-lage-stuttgart-beim-gerber/3367028054-277-9599",
+      "price_eur": 1200.0,
+      "area_sqm": 50.0,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Als Immobilienmakler mit Schwerpunkt auf Bestandsimmobilien im Wohnbereich biete ich einen Teil...",
+      "listing_id": "1302d262ce0c",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-29T18:03:02.484821"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Make Up Bereich / Kosmetikbereich Untermiete Kosmetikstudio",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/make-up-bereich-kosmetikbereich-untermiete-kosmetikstudio/3366394554-277-9286",
+      "price_eur": 300.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Wir vermieten einen vollständig ausgestatteten Make-up Bereich in unserem Kosmetikstudio.\nKann auch...",
+      "listing_id": "d0d0b934c124",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-03-29T18:03:02.501848"
     }
   ]
 }
