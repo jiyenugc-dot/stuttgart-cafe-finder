@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T10:48:56.833598",
-  "total_listings": 20,
+  "last_updated": "2026-03-30T19:59:53.651038",
+  "total_listings": 22,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -283,6 +283,32 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-03-29T18:03:02.501848"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3367965189-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "793ece0a4283",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-03-30T19:59:48.505242"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Eventlocation Stuttgart-Ost **Gablenberg**",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/eventlocation-stuttgart-ost-gablenberg-/3026793460-277-9285",
+      "price_eur": 400.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "EVENTRAUM STUTTGART – IHRE LOCATION FÜR UNVERGESSLICHE EVENTS\n\nWillkommen im Eventraum Stuttgart,...",
+      "listing_id": "a0822832d9aa",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-03-30T19:59:48.519445"
     }
   ]
 }
