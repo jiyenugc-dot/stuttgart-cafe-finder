@@ -24,7 +24,9 @@
     "46253995da524adad58d10f8ad3413ed": "2026-03-30T19:59:48.519445",
     "e1692b943be5ab7af55b79c7191ff03f": "2026-03-31T10:35:52.080505",
     "3e8c17212fa427f61b4ded43cfc4d4c5": "2026-03-31T10:35:52.082731",
-    "60d5e2351d20ad070391c3dd8af54053": "2026-03-31T10:35:52.083684"
+    "60d5e2351d20ad070391c3dd8af54053": "2026-03-31T10:35:52.083684",
+    "8b3ee678067e8888cbb2e3660a69c2ab": "2026-03-31T19:58:46.504613",
+    "933ab811063f7938059d516c239b2d74": "2026-03-31T19:58:46.519352"
   },
   "listings": [
     {
@@ -351,6 +353,32 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-03-31T10:35:52.083684"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusiver Studio-/Salonraum im Barbershop zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusiver-studio-salonraum-im-barbershop-zu-vermieten/3368997692-277-9599",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Exklusiver Studio-/Salonraum im Barbershop zu vermieten\n\nZur Vermietung steht ein hochwertig...",
+      "listing_id": "d38af256011a",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-31T19:58:46.504613"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "DHL Paketshop Partner:in mit eigenem Laden gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/dhl-paketshop-partner-in-mit-eigenem-laden-gesucht/3252398311-277-9284",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Jetzt anrufen unter 0961 3818 2882.\n\nDu hast schon ein Geschäft, z.B. einen Kiosk oder...",
+      "listing_id": "d8b5b074625f",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-03-31T19:58:46.519352"
     }
   ]
 }
