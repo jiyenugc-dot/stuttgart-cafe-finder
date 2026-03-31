@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T19:59:53.651038",
-  "total_listings": 22,
+  "last_updated": "2026-03-31T10:35:56.716176",
+  "total_listings": 25,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -309,6 +309,45 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-03-30T19:59:48.519445"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 2 Person in Regus Friedrichstrasse",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-friedrichstrasse/3204514927-277-9289",
+      "price_eur": 489.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nUnser dynamischer...",
+      "listing_id": "153b0af7ae6c",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-31T10:35:52.080505"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuttgart West: Privates Büro mit Küche, Besprechungszimmer & Kaffee-Flatrate",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuttgart-west-privates-buero-mit-kueche-besprechungszimmer-kaffee-flatrate/3368297018-277-9284",
+      "price_eur": 485.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223411 BW)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "4714a2bbbb91",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-03-31T10:35:52.082731"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Traum-Aussichtsbüro mit Vollausstattung – nette Kollegen inklusive",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/traum-aussichtsbuero-mit-vollausstattung-nette-kollegen-inklusive/3368275651-277-9287",
+      "price_eur": 1100.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 225441 CJ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "a2f37cb59363",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-03-31T10:35:52.083684"
     }
   ]
 }
