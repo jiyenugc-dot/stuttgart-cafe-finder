@@ -26,7 +26,9 @@
     "3e8c17212fa427f61b4ded43cfc4d4c5": "2026-03-31T10:35:52.082731",
     "60d5e2351d20ad070391c3dd8af54053": "2026-03-31T10:35:52.083684",
     "8b3ee678067e8888cbb2e3660a69c2ab": "2026-03-31T19:58:46.504613",
-    "933ab811063f7938059d516c239b2d74": "2026-03-31T19:58:46.519352"
+    "933ab811063f7938059d516c239b2d74": "2026-03-31T19:58:46.519352",
+    "600391d8111755bb1d0dbd576a2c5c34": "2026-04-01T10:38:06.163211",
+    "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376"
   },
   "listings": [
     {
@@ -379,6 +381,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-03-31T19:58:46.519352"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 2 Person in Regus City Plaza",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-city-plaza/3204514725-277-9599",
+      "price_eur": 709.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nBauen Sie Ihr...",
+      "listing_id": "ceadd19493ec",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-01T10:38:06.163211"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Bäckerei Produktion",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/baeckerei-produktion/3369296308-277-9287",
+      "price_eur": 1000.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Es wird ein vollständig ausgestatteter Produktionsplatz für die Herstellung von Backwaren...",
+      "listing_id": "0ef570ec0518",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-01T10:38:06.178376"
     }
   ]
 }
