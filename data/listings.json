@@ -28,7 +28,8 @@
     "8b3ee678067e8888cbb2e3660a69c2ab": "2026-03-31T19:58:46.504613",
     "933ab811063f7938059d516c239b2d74": "2026-03-31T19:58:46.519352",
     "600391d8111755bb1d0dbd576a2c5c34": "2026-04-01T10:38:06.163211",
-    "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376"
+    "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376",
+    "42512d84f916f70617daf724c99a9553": "2026-04-01T20:01:50.320627"
   },
   "listings": [
     {
@@ -407,6 +408,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-01T10:38:06.178376"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum in Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-stuttgart-mitte-/3369821088-277-9287",
+      "price_eur": 850.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Büroraum – flexibel & voll ausgestattet (ab April)\n\nDu suchst einen ruhigen und funktionalen...",
+      "listing_id": "32c60263e6ce",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-01T20:01:50.320627"
     }
   ]
 }

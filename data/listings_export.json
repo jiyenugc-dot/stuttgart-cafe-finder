@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T10:38:10.979532",
-  "total_listings": 29,
+  "last_updated": "2026-04-01T20:01:54.486828",
+  "total_listings": 30,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -400,6 +400,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-01T10:38:06.178376"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum in Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-stuttgart-mitte-/3369821088-277-9287",
+      "price_eur": 850.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Büroraum – flexibel & voll ausgestattet (ab April)\n\nDu suchst einen ruhigen und funktionalen...",
+      "listing_id": "32c60263e6ce",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-01T20:01:50.320627"
     }
   ]
 }
