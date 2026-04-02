@@ -29,7 +29,8 @@
     "933ab811063f7938059d516c239b2d74": "2026-03-31T19:58:46.519352",
     "600391d8111755bb1d0dbd576a2c5c34": "2026-04-01T10:38:06.163211",
     "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376",
-    "42512d84f916f70617daf724c99a9553": "2026-04-01T20:01:50.320627"
+    "42512d84f916f70617daf724c99a9553": "2026-04-01T20:01:50.320627",
+    "f81a31e995b32f9c7e6d3c76fc5a6d2a": "2026-04-02T19:53:35.037632"
   },
   "listings": [
     {
@@ -421,6 +422,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-01T20:01:50.320627"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Modernes 1-zimmer-Apartment in Stuttgart city center ab 01.06.202",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/modernes-1-zimmer-apartment-in-stuttgart-city-center-ab-01-06-202/3357502316-277-9295",
+      "price_eur": 900.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Modernes 1-Zimmer-Apartment in Stuttgart West | ab 01.06.2026\nBeschreibung:\nIch vermiete ein helles...",
+      "listing_id": "a0d5243745ac",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-02T19:53:35.037632"
     }
   ]
 }
