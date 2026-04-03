@@ -30,7 +30,8 @@
     "600391d8111755bb1d0dbd576a2c5c34": "2026-04-01T10:38:06.163211",
     "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376",
     "42512d84f916f70617daf724c99a9553": "2026-04-01T20:01:50.320627",
-    "f81a31e995b32f9c7e6d3c76fc5a6d2a": "2026-04-02T19:53:35.037632"
+    "f81a31e995b32f9c7e6d3c76fc5a6d2a": "2026-04-02T19:53:35.037632",
+    "dc948ae69c987f41b8f003261506a09d": "2026-04-03T10:02:23.788787"
   },
   "listings": [
     {
@@ -435,6 +436,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-04-02T19:53:35.037632"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Cafébar S-Süd: KEINE ABLÖSE – Voll möbliert!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-bar-s-sued-keine-abloese-voll-moebliert-/3370985970-277-9292",
+      "price_eur": 1300.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Objektbeschreibung:\nNutzen Sie diese seltene Gelegenheit im begehrten Stuttgarter Süden!\nZur...",
+      "listing_id": "ab8b91a623eb",
+      "ai_score": 8,
+      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich. Achtung: Ablöse erforderlich.",
+      "found_at": "2026-04-03T10:02:23.788787"
     }
   ]
 }
