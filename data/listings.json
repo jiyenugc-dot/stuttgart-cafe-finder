@@ -31,7 +31,8 @@
     "fb0819b043cee81949e10ab91b42de1b": "2026-04-01T10:38:06.178376",
     "42512d84f916f70617daf724c99a9553": "2026-04-01T20:01:50.320627",
     "f81a31e995b32f9c7e6d3c76fc5a6d2a": "2026-04-02T19:53:35.037632",
-    "dc948ae69c987f41b8f003261506a09d": "2026-04-03T10:02:23.788787"
+    "dc948ae69c987f41b8f003261506a09d": "2026-04-03T10:02:23.788787",
+    "3f83f43313c6109e64870a3e050c4c8e": "2026-04-06T10:40:38.951157"
   },
   "listings": [
     {
@@ -449,6 +450,19 @@
       "ai_score": 8,
       "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich. Achtung: Ablöse erforderlich.",
       "found_at": "2026-04-03T10:02:23.788787"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ladenfläche In Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche-in-stuttgart/3373584588-277-9290",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Hochwertiger Friseursalon in Stuttgart sucht Nachmieter.\n\n- Verfügbar ab Juli oder August 2026\n-...",
+      "listing_id": "eba1d7c953e2",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-West.",
+      "found_at": "2026-04-06T10:40:38.951157"
     }
   ]
 }
