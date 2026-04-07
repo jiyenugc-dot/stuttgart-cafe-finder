@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T19:56:32.722991",
-  "total_listings": 33,
+  "last_updated": "2026-04-07T10:38:13.980803",
+  "total_listings": 36,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -452,6 +452,45 @@
       "ai_score": 6,
       "ai_summary": "Stuttgart-West.",
       "found_at": "2026-04-06T10:40:38.951157"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3373614906-277-9283",
+      "price_eur": 1990.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 ZE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "018f6c02f363",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-04-07T10:38:08.396707"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3374742450-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "807c8622f5ee",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-07T10:38:08.401478"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete/3374679536-277-9290",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "In unserer neu gegründeten Praxisgemeinschaft für Psychotherapie ist ab dem 15.04. ein Raum zur...",
+      "listing_id": "7b88e075d14c",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-07T10:38:08.412800"
     }
   ]
 }
