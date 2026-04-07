@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T10:38:13.980803",
-  "total_listings": 36,
+  "last_updated": "2026-04-07T20:00:22.896196",
+  "total_listings": 37,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -491,6 +491,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-04-07T10:38:08.412800"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Wohnung / Gewerbefläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-gewerbeflaeche-/3375312750-277-9295",
+      "price_eur": 1600.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Zur Vermietung steht eine hochwertig sanierte und vielseitig nutzbare Einheit im Herzen von...",
+      "listing_id": "1b2fb8ecf8e5",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-04-07T20:00:18.136569"
     }
   ]
 }
