@@ -38,7 +38,9 @@
     "72cb46546a6e46a46c96d716f8a86079": "2026-04-07T10:38:08.412800",
     "5e28695b54b6cf0b64c24b509f183782": "2026-04-07T20:00:18.136569",
     "e11c3296bd9f2d8c4810a2e31749f2bb": "2026-04-08T10:42:27.931850",
-    "230385c0c48980c39412d20d71527dc8": "2026-04-08T10:42:27.939155"
+    "230385c0c48980c39412d20d71527dc8": "2026-04-08T10:42:27.939155",
+    "8e516ef204fc4f86c258f4b3cd1b4519": "2026-04-09T10:46:42.565975",
+    "6a5f052c1f5e45e9d69eb19fe2d2f353": "2026-04-09T10:46:42.596972"
   },
   "listings": [
     {
@@ -547,6 +549,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-08T10:42:27.939155"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 4 Person in Regus City Plaza",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-4-person-in-regus-city-plaza/3204514746-277-9599",
+      "price_eur": 1289.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Buchen Sie ein voll ausgestattetes Büro für vier Personen und wir stellen sicher, dass alles...",
+      "listing_id": "c5f273b1a259",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-04-09T10:46:42.565975"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helle Büros in Stuttgart ALL IN MIETE nur noch 2 verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-bueros-in-stuttgart-all-in-miete-nur-noch-2-verfuegbar/3376419053-277-9282",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Helle Büros in Stuttgart-Zuffenhausen – All-in-Miete | Nur noch 2 verfügbar!\n\nJetzt schnell sein:...",
+      "listing_id": "939da4cab2fa",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-04-09T10:46:42.596972"
     }
   ]
 }
