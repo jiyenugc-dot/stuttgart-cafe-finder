@@ -40,7 +40,8 @@
     "e11c3296bd9f2d8c4810a2e31749f2bb": "2026-04-08T10:42:27.931850",
     "230385c0c48980c39412d20d71527dc8": "2026-04-08T10:42:27.939155",
     "8e516ef204fc4f86c258f4b3cd1b4519": "2026-04-09T10:46:42.565975",
-    "6a5f052c1f5e45e9d69eb19fe2d2f353": "2026-04-09T10:46:42.596972"
+    "6a5f052c1f5e45e9d69eb19fe2d2f353": "2026-04-09T10:46:42.596972",
+    "e28b4ea688193d79c1844479dd1c13b5": "2026-04-09T20:09:11.335299"
   },
   "listings": [
     {
@@ -575,6 +576,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-04-09T10:46:42.596972"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuhlmiete in Stuttgart-West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-in-stuttgart-west/3376807865-277-9290",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Friseurstuhl zu vermieten - Kreatives Kollektiv\nim Herzen von Stuttgart .\nDu bist Friseur*in,...",
+      "listing_id": "942e937f0ecb",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-West.",
+      "found_at": "2026-04-09T20:09:11.335299"
     }
   ]
 }
