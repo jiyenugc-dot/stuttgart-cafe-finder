@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T09:33:13.340757",
-  "total_listings": 43,
+  "last_updated": "2026-04-12T19:28:44.989926",
+  "total_listings": 45,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -582,6 +582,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-10T10:35:32.503878"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3380372112-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "92fabfec54d7",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-12T19:28:40.876475"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kosmetikstudio zu übernehmen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetikstudio-zu-uebernehmen/3375817557-277-9286",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Kosmetikstudio im Zentrum von Stuttgart zur Übernahme(mit Mietvertrag).\n\nAufgrund eines Umzugs wird...",
+      "listing_id": "77ce7c7e0963",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-04-12T19:28:40.882391"
     }
   ]
 }
