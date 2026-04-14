@@ -45,7 +45,8 @@
     "ae9077db6319ce6860a45d63a30414a9": "2026-04-10T10:35:32.503878",
     "8884040f388ebf9cbbfbe257d5cdce60": "2026-04-12T19:28:40.876475",
     "75accfa32c9a709b28aa62f1437d8fe5": "2026-04-12T19:28:40.882391",
-    "c9eef265c10d9fb78d133f185903483a": "2026-04-14T10:52:11.843747"
+    "c9eef265c10d9fb78d133f185903483a": "2026-04-14T10:52:11.843747",
+    "c2c426d6a73b20b124ee871b17b974d9": "2026-04-14T20:15:40.293645"
   },
   "listings": [
     {
@@ -645,6 +646,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-04-14T10:52:11.843747"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kellerraum in Stuttgart Ost zu vermieten!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kellerraum-in-stuttgart-ost-zu-vermieten-/3382010043-277-9282",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Ich vermiete einen sehr kleinen Kellerraum,\nin Stuttgart-Ost (Nähe Ostendplatz).\n\nDer Raum eignet...",
+      "listing_id": "e2ac44215c5d",
+      "ai_score": 6,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-04-14T20:15:40.293645"
     }
   ]
 }

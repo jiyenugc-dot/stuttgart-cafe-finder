@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T10:52:15.648109",
-  "total_listings": 46,
+  "last_updated": "2026-04-14T20:15:43.999834",
+  "total_listings": 47,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -621,6 +621,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-04-14T10:52:11.843747"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kellerraum in Stuttgart Ost zu vermieten!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kellerraum-in-stuttgart-ost-zu-vermieten-/3382010043-277-9282",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Ich vermiete einen sehr kleinen Kellerraum,\nin Stuttgart-Ost (Nähe Ostendplatz).\n\nDer Raum eignet...",
+      "listing_id": "e2ac44215c5d",
+      "ai_score": 6,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-04-14T20:15:40.293645"
     }
   ]
 }
