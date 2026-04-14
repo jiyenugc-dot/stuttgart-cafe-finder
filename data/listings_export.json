@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T20:14:27.533406",
-  "total_listings": 45,
+  "last_updated": "2026-04-14T10:52:15.648109",
+  "total_listings": 46,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -608,6 +608,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-04-12T19:28:40.882391"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3381346391-277-9288",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223235 UB)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "d0342ba62aa5",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-14T10:52:11.843747"
     }
   ]
 }

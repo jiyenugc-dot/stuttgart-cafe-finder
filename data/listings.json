@@ -44,7 +44,8 @@
     "e28b4ea688193d79c1844479dd1c13b5": "2026-04-09T20:09:11.335299",
     "ae9077db6319ce6860a45d63a30414a9": "2026-04-10T10:35:32.503878",
     "8884040f388ebf9cbbfbe257d5cdce60": "2026-04-12T19:28:40.876475",
-    "75accfa32c9a709b28aa62f1437d8fe5": "2026-04-12T19:28:40.882391"
+    "75accfa32c9a709b28aa62f1437d8fe5": "2026-04-12T19:28:40.882391",
+    "c9eef265c10d9fb78d133f185903483a": "2026-04-14T10:52:11.843747"
   },
   "listings": [
     {
@@ -631,6 +632,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-04-12T19:28:40.882391"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3381346391-277-9288",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223235 UB)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "d0342ba62aa5",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-14T10:52:11.843747"
     }
   ]
 }
