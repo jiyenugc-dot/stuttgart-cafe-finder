@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T10:46:25.940015",
-  "total_listings": 47,
+  "last_updated": "2026-04-15T20:11:14.078215",
+  "total_listings": 48,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -634,6 +634,19 @@
       "ai_score": 6,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-04-14T20:15:40.293645"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "ladenfläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche/3382734941-277-9292",
+      "price_eur": 500.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Vermiete ein Zimmer Raum warm keine Stromkosten und keine Nebenkosten für 400 euro. Für...",
+      "listing_id": "29c917e2d920",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-15T20:11:09.647794"
     }
   ]
 }

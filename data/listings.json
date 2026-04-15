@@ -46,7 +46,8 @@
     "8884040f388ebf9cbbfbe257d5cdce60": "2026-04-12T19:28:40.876475",
     "75accfa32c9a709b28aa62f1437d8fe5": "2026-04-12T19:28:40.882391",
     "c9eef265c10d9fb78d133f185903483a": "2026-04-14T10:52:11.843747",
-    "c2c426d6a73b20b124ee871b17b974d9": "2026-04-14T20:15:40.293645"
+    "c2c426d6a73b20b124ee871b17b974d9": "2026-04-14T20:15:40.293645",
+    "8d136c91f19f65292caef6d578ae053b": "2026-04-15T20:11:09.647794"
   },
   "listings": [
     {
@@ -659,6 +660,19 @@
       "ai_score": 6,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-04-14T20:15:40.293645"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "ladenfläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche/3382734941-277-9292",
+      "price_eur": 500.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Vermiete ein Zimmer Raum warm keine Stromkosten und keine Nebenkosten für 400 euro. Für...",
+      "listing_id": "29c917e2d920",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-15T20:11:09.647794"
     }
   ]
 }
