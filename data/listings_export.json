@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T19:31:48.622078",
-  "total_listings": 48,
+  "last_updated": "2026-04-20T11:53:55.617598",
+  "total_listings": 50,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -647,6 +647,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-15T20:11:09.647794"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerbefläche / Kleinbüro kernsaniert erstbezug",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerbeflaeche-kleinbuero-kernsaniert-erstbezug/3387299558-277-9281",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Objektbeschreibung\nDiese modern gestaltete Gewerbeeinheit präsentiert sich nach umfassender...",
+      "listing_id": "d088855d8609",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-20T11:53:50.940949"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helles Atelier im Lehenviertel Stuttgart - Offene Arbeitsplätze 1",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-atelier-im-lehenviertel-stuttgart-offene-arbeitsplaetze-1/3381342010-277-9281",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "(Objekt-Nr.: 220228 DN)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene Arbeitsplätze...",
+      "listing_id": "5e9894efaa56",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-20T11:53:50.945555"
     }
   ]
 }
