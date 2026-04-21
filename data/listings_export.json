@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T20:06:57.488722",
-  "total_listings": 50,
+  "last_updated": "2026-04-21T10:55:14.377654",
+  "total_listings": 51,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -673,6 +673,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-20T11:53:50.945555"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuttgart: Moderner Büroraum S ab - All-Inclusive, 24/7 Zugang, Dachterrasse",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuttgart-moderner-bueroraum-s-ab-all-inclusive-24-7-zugang-dachterrasse/3386964407-277-9289",
+      "price_eur": 869.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218355 AGZ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
+      "listing_id": "25186f98bd90",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-04-21T10:55:09.351797"
     }
   ]
 }
