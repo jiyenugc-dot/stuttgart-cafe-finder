@@ -50,7 +50,8 @@
     "8d136c91f19f65292caef6d578ae053b": "2026-04-15T20:11:09.647794",
     "f031793f8e3506158ad25eed9acf01b6": "2026-04-20T11:53:50.940949",
     "538a63f761bac66bd4b8c350804710e4": "2026-04-20T11:53:50.945555",
-    "a0384851b2bbaab1faa675bc51c6bfe0": "2026-04-21T10:55:09.351797"
+    "a0384851b2bbaab1faa675bc51c6bfe0": "2026-04-21T10:55:09.351797",
+    "76b2befd33a26251e12e324f266de3b9": "2026-04-22T20:14:30.154917"
   },
   "listings": [
     {
@@ -715,6 +716,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
       "found_at": "2026-04-21T10:55:09.351797"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuhlmiete (Friseur)",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-friseur-/3389215541-277-9283",
+      "price_eur": 999.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Ich biete dir die Möglichkeit, einen Stuhl in meinem Friseurstudio zu mieten. Das Studio ist seit...",
+      "listing_id": "10232016f7ef",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-22T20:14:30.154917"
     }
   ]
 }

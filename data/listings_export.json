@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T10:52:37.591357",
-  "total_listings": 51,
+  "last_updated": "2026-04-22T20:14:33.733164",
+  "total_listings": 52,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -686,6 +686,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
       "found_at": "2026-04-21T10:55:09.351797"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuhlmiete (Friseur)",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-friseur-/3389215541-277-9283",
+      "price_eur": 999.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Ich biete dir die Möglichkeit, einen Stuhl in meinem Friseurstudio zu mieten. Das Studio ist seit...",
+      "listing_id": "10232016f7ef",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-22T20:14:30.154917"
     }
   ]
 }
