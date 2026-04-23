@@ -51,7 +51,10 @@
     "f031793f8e3506158ad25eed9acf01b6": "2026-04-20T11:53:50.940949",
     "538a63f761bac66bd4b8c350804710e4": "2026-04-20T11:53:50.945555",
     "a0384851b2bbaab1faa675bc51c6bfe0": "2026-04-21T10:55:09.351797",
-    "76b2befd33a26251e12e324f266de3b9": "2026-04-22T20:14:30.154917"
+    "76b2befd33a26251e12e324f266de3b9": "2026-04-22T20:14:30.154917",
+    "0aa70a8e25853c2d33f0f36c3afa9349": "2026-04-23T20:15:00.674272",
+    "873905795ab37ef4f414d93209cbffbb": "2026-04-23T20:15:00.688161",
+    "3dc9d79717b1ddaebe04b38c3997b5b0": "2026-04-23T20:15:00.695095"
   },
   "listings": [
     {
@@ -729,6 +732,45 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-22T20:14:30.154917"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3390201471-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "d7f9a58fd0bd",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-23T20:15:00.674272"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Produktionsstandort für Backwaren",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsstandort-fuer-backwaren/3390100456-277-9287",
+      "price_eur": 1000.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Laufende Pinsa-Produktion sucht Nachfolger!\nZum Verkauf steht ein etablierter und laufender Betrieb...",
+      "listing_id": "d53ea904bbae",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-23T20:15:00.688161"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Vollausgestattetes Tattoo Studio im Zentrum Stuttgarts",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/vollausgestattetes-tattoo-studio-im-zentrum-stuttgarts/3390085478-277-9286",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Tattoo Studio in Toplage am Olgaeck Stuttgart abzugeben\n\nEin vollständig eingerichtetes Tattoo...",
+      "listing_id": "564dfd089e0d",
+      "ai_score": 5,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-04-23T20:15:00.695095"
     }
   ]
 }
