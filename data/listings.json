@@ -54,7 +54,8 @@
     "76b2befd33a26251e12e324f266de3b9": "2026-04-22T20:14:30.154917",
     "0aa70a8e25853c2d33f0f36c3afa9349": "2026-04-23T20:15:00.674272",
     "873905795ab37ef4f414d93209cbffbb": "2026-04-23T20:15:00.688161",
-    "3dc9d79717b1ddaebe04b38c3997b5b0": "2026-04-23T20:15:00.695095"
+    "3dc9d79717b1ddaebe04b38c3997b5b0": "2026-04-23T20:15:00.695095",
+    "0e3577cca6e712a255d6a0cd51092e75": "2026-04-25T17:46:56.613071"
   },
   "listings": [
     {
@@ -771,6 +772,19 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-04-23T20:15:00.695095"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerbefläche zu vermieten |Kosmetik|Massage|Beauty",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerbeflaeche-zu-vermieten-kosmetik-massage-beauty/3391461345-277-9281",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Zur Vermietung steht eine stilvolle und hochwertig ausgestattete Gewerbefläche, perfekt geeignet...",
+      "listing_id": "7387a2ffb025",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-Süd.",
+      "found_at": "2026-04-25T17:46:56.613071"
     }
   ]
 }
