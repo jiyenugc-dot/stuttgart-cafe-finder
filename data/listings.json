@@ -56,7 +56,13 @@
     "873905795ab37ef4f414d93209cbffbb": "2026-04-23T20:15:00.688161",
     "3dc9d79717b1ddaebe04b38c3997b5b0": "2026-04-23T20:15:00.695095",
     "0e3577cca6e712a255d6a0cd51092e75": "2026-04-25T17:46:56.613071",
-    "f22ed205d0712f168872a39c33286079": "2026-04-27T18:10:35.423584"
+    "f22ed205d0712f168872a39c33286079": "2026-04-27T18:10:35.423584",
+    "cd88aa8201c1ba66a0094f0cbb833361": "2026-04-28T09:29:21.572295",
+    "a534e4db720024e757c3b06b05191f53": "2026-04-28T09:29:21.573490",
+    "44ce060ad6c6c274c4ca4cb59cab40aa": "2026-04-28T09:29:21.575992",
+    "f35741ea45a1405c2ce511f965071831": "2026-04-28T09:29:21.577175",
+    "1efcacb4c41d355367f2de3c4146b275": "2026-04-28T09:29:21.581881",
+    "f47675bd968ddeb32ef89843f796346c": "2026-04-28T09:29:21.585279"
   },
   "listings": [
     {
@@ -799,6 +805,84 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-27T18:10:35.423584"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Industrie-Flair trifft offene Arbeitsplätze in Stuttgart Ost",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/industrie-flair-trifft-offene-arbeitsplaetze-in-stuttgart-ost/3393978175-277-9282",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 219225 CE)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene...",
+      "listing_id": "5caed2fa6664",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-04-28T09:29:21.572295"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Abgeschlossener Büro- und Seminarraum im Stuttgarter Westen – flexibel, möbliert",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/abgeschlossener-buero-und-seminarraum-im-stuttgarter-westen-flexibel-moebliert/3393974050-277-9290",
+      "price_eur": 300.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 225070 EL)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum 1...",
+      "listing_id": "5e4a122d96ba",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-28T09:29:21.573490"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Möbliertes Gemeinschaftsbüro inkl. Parkplatz – flexibel und sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-gemeinschaftsbuero-inkl-parkplatz-flexibel-und-sofort-verfuegbar/3393963050-277-9288",
+      "price_eur": 1364.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 217011 DY)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "bc1b3223609e",
+      "ai_score": 8,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-04-28T09:29:21.575992"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helles Büro M mit privater Terrasse in Stuttgart – All-Inclusive & 24/7 Zugriff",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-buero-m-mit-privater-terrasse-in-stuttgart-all-inclusive-24-7-zugriff/3393961825-277-9283",
+      "price_eur": 1569.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218337 APG)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum M...",
+      "listing_id": "73517c1c175d",
+      "ai_score": 10,
+      "ai_summary": "Fairer Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-04-28T09:29:21.577175"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zentrales, helles Büro für 2–4 Personen in Stuttgart – flexibel verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-helles-buero-fuer-2-4-personen-in-stuttgart-flexibel-verfuegbar/3393203556-277-9289",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 219767 LC)\nObjektkategorie: Eigene Bürofläche\nTitel des Angebots: Büroraum\nFlexible...",
+      "listing_id": "e06b5d645cbe",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-28T09:29:21.581881"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum zur Untermiete für Therapeuten, Coaches, ähnliches",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete-fuer-therapeuten-coaches-aehnliches/3394130897-277-9295",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Hi,\n\nich bin Psychologin und möchte eine paartherapeutische Praxis in Stuttgart gründen. Ich suche...",
+      "listing_id": "ed56021ea743",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-04-28T09:29:21.585279"
     }
   ]
 }
