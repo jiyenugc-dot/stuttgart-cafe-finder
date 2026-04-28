@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T09:29:26.246273",
-  "total_listings": 63,
+  "last_updated": "2026-04-28T18:22:02.593638",
+  "total_listings": 64,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -842,6 +842,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-04-28T09:29:21.585279"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ladenlokal Reisebüro zu übergeben",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenlokal-reisebuero-zu-uebergeben-/3394478384-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Preis: VHB\nOrt: Stuttgart-Plieningen\n\nBeschreibung\n\nNach über 30 Jahren Betrieb gebe ich mein...",
+      "listing_id": "4c3a5c7a172b",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-04-28T18:21:57.826609"
     }
   ]
 }
