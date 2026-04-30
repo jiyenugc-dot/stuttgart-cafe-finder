@@ -64,7 +64,8 @@
     "1efcacb4c41d355367f2de3c4146b275": "2026-04-28T09:29:21.581881",
     "f47675bd968ddeb32ef89843f796346c": "2026-04-28T09:29:21.585279",
     "935d6537f3cb959dd09b168ee2e94ffd": "2026-04-28T18:21:57.826609",
-    "f03f968af1e24c24285286fd1f9ddb56": "2026-04-30T09:21:02.006606"
+    "f03f968af1e24c24285286fd1f9ddb56": "2026-04-30T09:21:02.006606",
+    "cc491813a11748e3d6794d93d6929e6a": "2026-04-30T18:15:59.501904"
   },
   "listings": [
     {
@@ -911,6 +912,19 @@
       "ai_score": 9,
       "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
       "found_at": "2026-04-30T09:21:02.006606"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Mieter in Bürogemeinschaft gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/mieter-in-buerogemeinschaft-gesucht/3395921283-277-9596",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Für unsere Büroräumlichkeiten in der Tübinger Str. suchen wir Interessenten zur Miete ab...",
+      "listing_id": "179dca32a6a1",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-04-30T18:15:59.501904"
     }
   ]
 }
