@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T18:18:10.465116",
-  "total_listings": 64,
+  "last_updated": "2026-04-30T09:21:06.862708",
+  "total_listings": 65,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -855,6 +855,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-04-28T18:21:57.826609"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Cafébar in Stuttgart-Süd zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-bar-in-stuttgart-sued-zu-vermieten/3395690904-277-9292",
+      "price_eur": 1350.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Objektbeschreibung:\nNutzen Sie diese seltene Gelegenheit im begehrten Stuttgarter Süden!\nZur...",
+      "listing_id": "5e636b161588",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-04-30T09:21:02.006606"
     }
   ]
 }
