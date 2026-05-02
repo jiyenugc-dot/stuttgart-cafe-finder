@@ -65,7 +65,8 @@
     "f47675bd968ddeb32ef89843f796346c": "2026-04-28T09:29:21.585279",
     "935d6537f3cb959dd09b168ee2e94ffd": "2026-04-28T18:21:57.826609",
     "f03f968af1e24c24285286fd1f9ddb56": "2026-04-30T09:21:02.006606",
-    "cc491813a11748e3d6794d93d6929e6a": "2026-04-30T18:15:59.501904"
+    "cc491813a11748e3d6794d93d6929e6a": "2026-04-30T18:15:59.501904",
+    "5839da082c7e3a60bd9217bc040d1e4f": "2026-05-02T17:52:15.646854"
   },
   "listings": [
     {
@@ -925,6 +926,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-30T18:15:59.501904"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kosmetikraum zur Zwischenmiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetikraum-zur-zwischenmiete/3397697400-277-9597",
+      "price_eur": 625.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Süd",
+      "description": "Hallo Zusammen, aufgrund meiner baldigen Babypause suche ich eine nette Dame, welche für circa 6...",
+      "listing_id": "5ffb91f6db39",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-02T17:52:15.646854"
     }
   ]
 }

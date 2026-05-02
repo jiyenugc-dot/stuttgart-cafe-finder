@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T08:24:50.804441",
-  "total_listings": 66,
+  "last_updated": "2026-05-02T17:52:21.435489",
+  "total_listings": 67,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -881,6 +881,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-04-30T18:15:59.501904"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kosmetikraum zur Zwischenmiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetikraum-zur-zwischenmiete/3397697400-277-9597",
+      "price_eur": 625.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Süd",
+      "description": "Hallo Zusammen, aufgrund meiner baldigen Babypause suche ich eine nette Dame, welche für circa 6...",
+      "listing_id": "5ffb91f6db39",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-02T17:52:15.646854"
     }
   ]
 }
