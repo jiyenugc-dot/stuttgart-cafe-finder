@@ -66,7 +66,8 @@
     "935d6537f3cb959dd09b168ee2e94ffd": "2026-04-28T18:21:57.826609",
     "f03f968af1e24c24285286fd1f9ddb56": "2026-04-30T09:21:02.006606",
     "cc491813a11748e3d6794d93d6929e6a": "2026-04-30T18:15:59.501904",
-    "5839da082c7e3a60bd9217bc040d1e4f": "2026-05-02T17:52:15.646854"
+    "5839da082c7e3a60bd9217bc040d1e4f": "2026-05-02T17:52:15.646854",
+    "fc24397fd2adc7ed8e1104f6213af094": "2026-05-03T17:52:19.814164"
   },
   "listings": [
     {
@@ -939,6 +940,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-02T17:52:15.646854"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top Lage in Stuttgart West - nähe Zentrum, ideal für Studenten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage-in-stuttgart-west-naehe-zentrum-ideal-fuer-studenten/3398822480-277-9284",
+      "price_eur": 700.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Einzug: 15.05.\n\n1-Zimmer-Wohnung in Bestlage direkt am Berliner Platz, vollständig möbliert und...",
+      "listing_id": "da6ea3f0359c",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-03T17:52:19.814164"
     }
   ]
 }
