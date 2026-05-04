@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-03T17:52:25.181905",
-  "total_listings": 68,
+  "last_updated": "2026-05-04T09:27:51.379064",
+  "total_listings": 69,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -907,6 +907,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-03T17:52:19.814164"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helle Gewerbefläche / Büro / Showroom Ludwigsburg /Weststadt",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-gewerbeflaeche-buero-showroom-ludwigsburg-weststadt/3399251294-277-9598",
+      "price_eur": 1850.0,
+      "area_sqm": null,
+      "district": "70569 Stuttgart-​Süd",
+      "description": "Ich biete hier attraktive Gewerberäume zur Untermiete oder kompletten Übernahme an. Die Räume sind...",
+      "listing_id": "d7ab8939775b",
+      "ai_score": 5,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
+      "found_at": "2026-05-04T09:27:47.645496"
     }
   ]
 }
