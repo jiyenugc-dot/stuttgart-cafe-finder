@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T09:27:51.379064",
-  "total_listings": 69,
+  "last_updated": "2026-05-04T18:21:42.381150",
+  "total_listings": 70,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -920,6 +920,19 @@
       "ai_score": 5,
       "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
       "found_at": "2026-05-04T09:27:47.645496"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-stuttgart/3399493208-277-9599",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Heller Praxisraum in Stuttgart Zentrum zu vermieten geeignet für Tätigkeiten im Bereich Kosmetik,...",
+      "listing_id": "9bf543a05f61",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-04T18:21:38.664013"
     }
   ]
 }

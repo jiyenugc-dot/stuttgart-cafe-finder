@@ -68,7 +68,8 @@
     "cc491813a11748e3d6794d93d6929e6a": "2026-04-30T18:15:59.501904",
     "5839da082c7e3a60bd9217bc040d1e4f": "2026-05-02T17:52:15.646854",
     "fc24397fd2adc7ed8e1104f6213af094": "2026-05-03T17:52:19.814164",
-    "1b0237fdbb578715a331431b4454cee7": "2026-05-04T09:27:47.645496"
+    "1b0237fdbb578715a331431b4454cee7": "2026-05-04T09:27:47.645496",
+    "e000152acc40b19bebca9d816c487898": "2026-05-04T18:21:38.664013"
   },
   "listings": [
     {
@@ -967,6 +968,19 @@
       "ai_score": 5,
       "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
       "found_at": "2026-05-04T09:27:47.645496"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-stuttgart/3399493208-277-9599",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Heller Praxisraum in Stuttgart Zentrum zu vermieten geeignet für Tätigkeiten im Bereich Kosmetik,...",
+      "listing_id": "9bf543a05f61",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-04T18:21:38.664013"
     }
   ]
 }
