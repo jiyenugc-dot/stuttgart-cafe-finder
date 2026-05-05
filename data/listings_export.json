@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T18:21:42.381150",
-  "total_listings": 70,
+  "last_updated": "2026-05-05T09:12:01.729046",
+  "total_listings": 72,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -933,6 +933,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-04T18:21:38.664013"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Bürolösungen mit Dachterrasse für 1-2 Arbeitsplätze in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-bueroloesungen-mit-dachterrasse-fuer-1-2-arbeitsplaetze-in-stuttgart/3399179557-277-9283",
+      "price_eur": 1490.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AAN)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "0ef13aefd6d3",
+      "ai_score": 10,
+      "ai_summary": "Fairer Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-05-05T09:11:57.608090"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Mieter in Bürogemeinschaft gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/mieter-in-buerogemeinschaft-gesucht/3400018006-277-9596",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Für unsere Büroräumlichkeiten in der Tübinger Str. suchen wir Interessenten zur Miete ab...",
+      "listing_id": "4594632cc7d2",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-05T09:11:57.614094"
     }
   ]
 }
