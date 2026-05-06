@@ -71,7 +71,10 @@
     "1b0237fdbb578715a331431b4454cee7": "2026-05-04T09:27:47.645496",
     "e000152acc40b19bebca9d816c487898": "2026-05-04T18:21:38.664013",
     "3da37e0d9e1251174408b3b2224dad3d": "2026-05-05T09:11:57.608090",
-    "2f9c83f84bd66161cd03840aa665af0e": "2026-05-05T09:11:57.614094"
+    "2f9c83f84bd66161cd03840aa665af0e": "2026-05-05T09:11:57.614094",
+    "12a8d46361edb91b2a18c5c7c7312bcd": "2026-05-06T18:23:52.780323",
+    "23eeb5a3db354ba1f6032340487647d0": "2026-05-06T18:23:52.787069",
+    "2a3aca3a089fc0ffbcd2408f5403eb7e": "2026-05-06T18:23:52.800665"
   },
   "listings": [
     {
@@ -1009,6 +1012,45 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-05T09:11:57.614094"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Café / Bäckerei zu Vermieten (Bad Cannstatt / Anna Klinik )",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-baeckerei-zu-vermieten-bad-cannstatt-anna-klinik-/3401522519-277-9292",
+      "price_eur": 1300.0,
+      "area_sqm": 65.0,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "TOP Lage in Stuttgart – Voll ausgestatteter Laden (65 m²) – Perfekt für Café/Bäckerei oder...",
+      "listing_id": "0988e9ad4795",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-05-06T18:23:52.780323"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete/3401515428-277-9295",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Ich suche eine/n Untermieter/in für unsere psychotherapeutische...",
+      "listing_id": "6e4af4cd4f24",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-06T18:23:52.787069"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-bueroetage-mit-aufzug-in-der-marienstrasse-top-lage/3401340529-277-9288",
+      "price_eur": 1150.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche in bester Lage.\n\nDie Einheit befindet...",
+      "listing_id": "1ae652792ac3",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-06T18:23:52.800665"
     }
   ]
 }

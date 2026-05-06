@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T09:31:11.124347",
-  "total_listings": 72,
+  "last_updated": "2026-05-06T18:23:57.040270",
+  "total_listings": 75,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -959,6 +959,45 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-05T09:11:57.614094"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Café / Bäckerei zu Vermieten (Bad Cannstatt / Anna Klinik )",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-baeckerei-zu-vermieten-bad-cannstatt-anna-klinik-/3401522519-277-9292",
+      "price_eur": 1300.0,
+      "area_sqm": 65.0,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "TOP Lage in Stuttgart – Voll ausgestatteter Laden (65 m²) – Perfekt für Café/Bäckerei oder...",
+      "listing_id": "0988e9ad4795",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-05-06T18:23:52.780323"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete/3401515428-277-9295",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Ich suche eine/n Untermieter/in für unsere psychotherapeutische...",
+      "listing_id": "6e4af4cd4f24",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-06T18:23:52.787069"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-bueroetage-mit-aufzug-in-der-marienstrasse-top-lage/3401340529-277-9288",
+      "price_eur": 1150.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche in bester Lage.\n\nDie Einheit befindet...",
+      "listing_id": "1ae652792ac3",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-06T18:23:52.800665"
     }
   ]
 }
