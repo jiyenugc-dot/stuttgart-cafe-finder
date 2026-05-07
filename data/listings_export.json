@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T09:41:06.777247",
-  "total_listings": 75,
+  "last_updated": "2026-05-07T18:49:11.397566",
+  "total_listings": 77,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -998,6 +998,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-06T18:23:52.800665"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Lieferservice Restaurant Gastronomie  in Top Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/lieferservice-restaurant-gastronomie-in-top-lage/3402228512-277-9598",
+      "price_eur": 1800.0,
+      "area_sqm": null,
+      "district": "70569 Stuttgart-​Süd",
+      "description": "Wir vermieten unseren erfolgreichen Restaurant-Lieferservice in sehr guter Lage mit großem...",
+      "listing_id": "45e5fc6a2203",
+      "ai_score": 8,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd. Gastro-Nutzung möglich.",
+      "found_at": "2026-05-07T18:49:06.695029"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Junglez: Etablierte Schankwirtschaft zur Übernahme",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/junglez-etablierte-schankwirtschaft-zur-uebernahme/3402067740-277-9295",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Ich verkaufe meinen Laden, das Junglez in der Bebelstraße 83. Seit Oktober 2023 führe ich den...",
+      "listing_id": "6eca542eba20",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-West.",
+      "found_at": "2026-05-07T18:49:06.706318"
     }
   ]
 }
