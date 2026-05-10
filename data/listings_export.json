@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T08:59:21.863836",
-  "total_listings": 77,
+  "last_updated": "2026-05-10T17:57:04.373073",
+  "total_listings": 78,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1024,6 +1024,19 @@
       "ai_score": 6,
       "ai_summary": "Stuttgart-West.",
       "found_at": "2026-05-07T18:49:06.706318"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Platz in Atelier in Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/platz-in-atelier-in-stuttgart-west-/3404671304-277-9284",
+      "price_eur": 300.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Wir haben ein schönes kleines Atelier im Stuttgarter Westen und suchen eine 3. Person, die einen...",
+      "listing_id": "ad0254440352",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-10T17:57:00.213568"
     }
   ]
 }
