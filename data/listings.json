@@ -77,7 +77,8 @@
     "2a3aca3a089fc0ffbcd2408f5403eb7e": "2026-05-06T18:23:52.800665",
     "0ce6105e3cb778c79bd1a7e0e25c5c0d": "2026-05-07T18:49:06.695029",
     "323cd4ab794bceb7f07232e052a40035": "2026-05-07T18:49:06.706318",
-    "f823fea5e1fc418fbd351e0e9b67988e": "2026-05-10T17:57:00.213568"
+    "f823fea5e1fc418fbd351e0e9b67988e": "2026-05-10T17:57:00.213568",
+    "506e4a3a1301180e50693f85b8d0aa43": "2026-05-11T10:40:37.386051"
   },
   "listings": [
     {
@@ -1093,6 +1094,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-10T17:57:00.213568"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum für Architekten/IT-Startups - direkt am HBF Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-fuer-architekten-it-startups-direkt-am-hbf-stuttgart/3405251932-277-9281",
+      "price_eur": 350.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Büroraum für Architekten, ITler & Startups 350€ all-in mitten in Stuttgart-Zentrum am...",
+      "listing_id": "d474d01d1e83",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-11T10:40:37.386051"
     }
   ]
 }

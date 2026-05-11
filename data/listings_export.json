@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T17:57:04.373073",
-  "total_listings": 78,
+  "last_updated": "2026-05-11T10:40:41.335070",
+  "total_listings": 79,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1037,6 +1037,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-10T17:57:00.213568"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum für Architekten/IT-Startups - direkt am HBF Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-fuer-architekten-it-startups-direkt-am-hbf-stuttgart/3405251932-277-9281",
+      "price_eur": 350.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Büroraum für Architekten, ITler & Startups 350€ all-in mitten in Stuttgart-Zentrum am...",
+      "listing_id": "d474d01d1e83",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-11T10:40:37.386051"
     }
   ]
 }
