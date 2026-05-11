@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T10:40:41.335070",
-  "total_listings": 79,
+  "last_updated": "2026-05-11T19:02:27.336547",
+  "total_listings": 81,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1050,6 +1050,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-11T10:40:37.386051"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "SPÄTKAUF / KIOSK STGT WEST",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/spaetkauf-kiosk-stgt-west/3405675667-277-9284",
+      "price_eur": 1500.0,
+      "area_sqm": 40.0,
+      "district": "70176 Stuttgart-​West",
+      "description": "Zu vermieten ist ein kleiner Gewerberaum mit ca. 40 m² in guter Lage.\n\nDas Objekt eignet sich ideal...",
+      "listing_id": "f3b93f3878df",
+      "ai_score": 6,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-05-11T19:02:22.357575"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Untermieterin für Beautydienstleistungen gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/untermieterin-fuer-beautydienstleistungen-gesucht/3405532588-277-9599",
+      "price_eur": 550.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Arbeitsplatz im Beauty Studio in Stuttgart zu vermieten\n\nFür mein Beauty Studio Senem Beauty in der...",
+      "listing_id": "2422578b08fb",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-11T19:02:22.377731"
     }
   ]
 }
