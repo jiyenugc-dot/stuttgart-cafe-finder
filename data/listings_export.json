@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T19:02:27.336547",
-  "total_listings": 81,
+  "last_updated": "2026-05-12T09:45:44.118376",
+  "total_listings": 83,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1076,6 +1076,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-11T19:02:22.377731"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3405077914-277-9283",
+      "price_eur": 1990.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AAX)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "40f11c55a8f3",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-05-12T09:45:39.567329"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3406090904-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "576f06fb8576",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-12T09:45:39.582305"
     }
   ]
 }
