@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T09:48:53.199067",
-  "total_listings": 83,
+  "last_updated": "2026-05-13T19:00:40.574873",
+  "total_listings": 85,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1102,6 +1102,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-12T09:45:39.582305"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "KOSMETIK STUDIO STUTTGART ZUR UNTERMIETE",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetik-studio-stuttgart-zur-untermiete/3407202216-277-9295",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Modern, gepflegt und in einer top Lage mitten in Stuttgart-West! Super angebunden mit öffentlichen...",
+      "listing_id": "4e47cbcd0e7e",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-13T19:00:36.401127"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Studiofläche mit 65 m² in Stuttgart Süd",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/studioflaeche-mit-65-m-in-stuttgart-sued/3407133006-277-9281",
+      "price_eur": 990.0,
+      "area_sqm": 65.0,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Um uns zu vergrößern verlassen wir unseren geliebten Strohberg und suchen Nachmieter für diese...",
+      "listing_id": "11a14d870025",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-13T19:00:36.407990"
     }
   ]
 }
