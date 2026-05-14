@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T09:37:57.356827",
-  "total_listings": 85,
+  "last_updated": "2026-05-14T18:58:13.837781",
+  "total_listings": 86,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1128,6 +1128,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-13T19:00:36.407990"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top Gewerbefläche in Stuttgart-Stöckach-komplett kernsaniert!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-gewerbeflaeche-in-stuttgart-stoeckach-komplett-kernsaniert-/3407862367-277-9291",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Zur Übernahme steht eine hochwertige und komplett kernsanierte Ladenfläche in absoluter Top-Lage in...",
+      "listing_id": "cebdf1e9e57b",
+      "ai_score": 5,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-05-14T18:58:10.081944"
     }
   ]
 }

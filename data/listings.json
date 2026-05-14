@@ -84,7 +84,8 @@
     "1212df004c75c6910a3bf5ff3a8da238": "2026-05-12T09:45:39.567329",
     "ca796e6af4926d01c94cd23c8afeef4e": "2026-05-12T09:45:39.582305",
     "58eab03040de93ced27d770551d63b60": "2026-05-13T19:00:36.401127",
-    "069d5a842f92461543cf44a0d3e611c6": "2026-05-13T19:00:36.407990"
+    "069d5a842f92461543cf44a0d3e611c6": "2026-05-13T19:00:36.407990",
+    "01f7e44b17c95e26bce4ae059b0be8ae": "2026-05-14T18:58:10.081944"
   },
   "listings": [
     {
@@ -1191,6 +1192,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-13T19:00:36.407990"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top Gewerbefläche in Stuttgart-Stöckach-komplett kernsaniert!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-gewerbeflaeche-in-stuttgart-stoeckach-komplett-kernsaniert-/3407862367-277-9291",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Zur Übernahme steht eine hochwertige und komplett kernsanierte Ladenfläche in absoluter Top-Lage in...",
+      "listing_id": "cebdf1e9e57b",
+      "ai_score": 5,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-05-14T18:58:10.081944"
     }
   ]
 }
