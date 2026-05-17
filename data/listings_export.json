@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T09:09:18.521548",
-  "total_listings": 86,
+  "last_updated": "2026-05-17T18:01:55.769550",
+  "total_listings": 87,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1141,6 +1141,19 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-05-14T18:58:10.081944"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Partner für eine Bürogemeinschaft in Stuttgart im Zentrum gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/partner-fuer-eine-buerogemeinschaft-in-stuttgart-im-zentrum-gesucht/3410865326-277-9283",
+      "price_eur": 350.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Gesucht: Unternehmer / Selbständiger zur Bürogemeinschaft in Stuttgart Zentrum\n\nIch suche...",
+      "listing_id": "84d6c8219900",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-17T18:01:51.855904"
     }
   ]
 }
