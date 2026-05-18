@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T18:01:55.769550",
-  "total_listings": 87,
+  "last_updated": "2026-05-18T11:10:15.553120",
+  "total_listings": 88,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1154,6 +1154,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-17T18:01:51.855904"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroräume in zentraler Innenstadtlage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraeume-in-zentraler-innenstadtlage/3316550673-277-9596",
+      "price_eur": 535.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "In unserem Büro sind ab Juni Flächen zur Untervermietung verfügbar. Es handelt sich um moderne...",
+      "listing_id": "785950809a09",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-18T11:10:11.516158"
     }
   ]
 }
