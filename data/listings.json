@@ -89,7 +89,9 @@
     "909266ae578a242d82caa99538766a76": "2026-05-17T18:01:51.855904",
     "868240f8c76b3696d0adf27ecadb6af0": "2026-05-18T11:10:11.516158",
     "98d271602fcc5fa61b32a11ad52a5031": "2026-05-19T10:39:33.216844",
-    "ee82a5d79a14cdc089dd539d60c86b3a": "2026-05-19T10:39:33.221554"
+    "ee82a5d79a14cdc089dd539d60c86b3a": "2026-05-19T10:39:33.221554",
+    "6e66729144966b3e98ac05a66833cb53": "2026-05-19T19:08:00.034909",
+    "bb19c56c8274e30048ec17b418357d29": "2026-05-19T19:08:00.040857"
   },
   "listings": [
     {
@@ -1261,6 +1263,32 @@
       "ai_score": 6,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-05-19T10:39:33.221554"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Toplage Stgt.-Mitte–möbl. Büro m.Balkon, All-Incl. allein. Nutzg.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/toplage-stgt-mitte-moebl-buero-m-balkon-all-incl-allein-nutzg-/3413338247-277-9287",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Stuttgart-Mitte (Neckartor) – Voll ausgestattetes Büro zur alleinigen Nutzung\nIn zentraler Lage von...",
+      "listing_id": "687d8d5eead6",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-19T19:08:00.034909"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro in Bürogemeinschaft-Gemeinsam Arbeiten im Stuttgarter Westen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-in-buerogemeinschaft-gemeinsam-arbeiten-im-stuttgarter-westen/3413210835-277-9599",
+      "price_eur": 1400.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Gemeinsam Arbeiten im Stuttgarter Westen\n\nWir sind eine kleine Bürogemeinschaft aus einem...",
+      "listing_id": "f076b166c9eb",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-05-19T19:08:00.040857"
     }
   ]
 }
