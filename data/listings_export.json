@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T18:55:51.824007",
-  "total_listings": 88,
+  "last_updated": "2026-05-19T10:39:38.011639",
+  "total_listings": 90,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1167,6 +1167,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-18T11:10:11.516158"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3412580900-277-9288",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223235 VF)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "2ebccdacc000",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-19T10:39:33.216844"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Lagerräume mit XXL Garage & Starkstrom + hohe Decke - 40 qm",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/lagerraeume-mit-xxl-garage-starkstrom-hohe-decke-40-qm/3412869575-277-9286",
+      "price_eur": 700.0,
+      "area_sqm": 40.0,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Die voll ausgestattete Basis für Ihr „Stilles Gewerbe“ – Sicher, Renoviert, Kraftvoll. In der...",
+      "listing_id": "27bc7d23a893",
+      "ai_score": 6,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-05-19T10:39:33.221554"
     }
   ]
 }

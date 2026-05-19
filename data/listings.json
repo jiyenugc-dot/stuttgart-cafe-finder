@@ -87,7 +87,9 @@
     "069d5a842f92461543cf44a0d3e611c6": "2026-05-13T19:00:36.407990",
     "01f7e44b17c95e26bce4ae059b0be8ae": "2026-05-14T18:58:10.081944",
     "909266ae578a242d82caa99538766a76": "2026-05-17T18:01:51.855904",
-    "868240f8c76b3696d0adf27ecadb6af0": "2026-05-18T11:10:11.516158"
+    "868240f8c76b3696d0adf27ecadb6af0": "2026-05-18T11:10:11.516158",
+    "98d271602fcc5fa61b32a11ad52a5031": "2026-05-19T10:39:33.216844",
+    "ee82a5d79a14cdc089dd539d60c86b3a": "2026-05-19T10:39:33.221554"
   },
   "listings": [
     {
@@ -1233,6 +1235,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-18T11:10:11.516158"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3412580900-277-9288",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223235 VF)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "2ebccdacc000",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-19T10:39:33.216844"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Lagerräume mit XXL Garage & Starkstrom + hohe Decke - 40 qm",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/lagerraeume-mit-xxl-garage-starkstrom-hohe-decke-40-qm/3412869575-277-9286",
+      "price_eur": 700.0,
+      "area_sqm": 40.0,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Die voll ausgestattete Basis für Ihr „Stilles Gewerbe“ – Sicher, Renoviert, Kraftvoll. In der...",
+      "listing_id": "27bc7d23a893",
+      "ai_score": 6,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-05-19T10:39:33.221554"
     }
   ]
 }
