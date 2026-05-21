@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T10:43:00.639487",
-  "total_listings": 93,
+  "last_updated": "2026-05-21T19:03:49.033519",
+  "total_listings": 95,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1232,6 +1232,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-21T10:42:56.388705"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-bueroetage-mit-aufzug-in-der-marienstrasse-top-lage/3414855578-277-9599",
+      "price_eur": 1250.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche in bester Lage.\n\nDie Einheit befindet...",
+      "listing_id": "ba1de2bee1fc",
+      "ai_score": 8,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-05-21T19:03:44.255914"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Freier Platz in 3-er Bürogemeinschaft in S-West - 220 Euro/Monat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/freier-platz-in-3-er-buerogemeinschaft-in-s-west-220-euro-monat/3414636494-277-9284",
+      "price_eur": 220.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo!\nIn unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "f8a5e1c11e4e",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-21T19:03:44.262894"
     }
   ]
 }
