@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T19:30:32.921508",
-  "total_listings": 92,
+  "last_updated": "2026-05-21T10:43:00.639487",
+  "total_listings": 93,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1219,6 +1219,19 @@
       "ai_score": 7,
       "ai_summary": "Fairer Preis. zentrale Lage.",
       "found_at": "2026-05-19T19:08:00.040857"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Raumvermietung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raumvermietung/3414241044-277-9295",
+      "price_eur": 60.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Infos siehe Foto slides.\n\nDu hast Interesse?\n\nwww.coame.de/studio",
+      "listing_id": "b141b4acbe15",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-21T10:42:56.388705"
     }
   ]
 }
