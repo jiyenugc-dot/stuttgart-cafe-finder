@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T19:03:49.033519",
-  "total_listings": 95,
+  "last_updated": "2026-05-22T10:27:00.641779",
+  "total_listings": 97,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1258,6 +1258,32 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-21T19:03:44.262894"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helle Büro Räume Stuttgart Zuffenhausen All-inclusive-Miete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-buero-raeume-stuttgart-zuffenhausen-all-inclusive-miete/3415208787-277-9282",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "All-inclusive-Miete\n\nSie suchen einen professionellen Standort für Ihr Unternehmen, Startup oder...",
+      "listing_id": "b725147dd4fc",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-05-22T10:26:56.514237"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum in Bürogemeinschaft in zentraler Lage in Stuttgart-West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-buerogemeinschaft-in-zentraler-lage-in-stuttgart-west/3415061466-277-9288",
+      "price_eur": 570.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "In unserer Bürogemeinschaft im Stuttgarter Westen (Haltestelle S-Bahn Feuersee in unmittelbarer...",
+      "listing_id": "4a70d33bfef9",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-22T10:26:56.527049"
     }
   ]
 }
