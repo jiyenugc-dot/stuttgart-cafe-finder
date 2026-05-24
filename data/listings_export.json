@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24T09:23:52.451142",
-  "total_listings": 97,
+  "last_updated": "2026-05-24T18:03:32.131094",
+  "total_listings": 98,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1284,6 +1284,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-22T10:26:56.527049"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerberaum - Büro in Stuttgarter Zentrallage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerberaum-buero-in-stuttgarter-zentrallage/3416694505-277-9287",
+      "price_eur": 375.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Vielseitig als Gewerbe- oder Büroraum (z.b. homeoffice) nutzbar. Zentrallage unweit des...",
+      "listing_id": "4bad46c7363f",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-24T18:03:27.352941"
     }
   ]
 }
