@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T18:47:47.120004",
-  "total_listings": 98,
+  "last_updated": "2026-05-26T19:23:30.030274",
+  "total_listings": 99,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1297,6 +1297,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-24T18:03:27.352941"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Schreibtischplätze mit Weinbergblick in Toplage Stuttgart – All-In",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/schreibtischplaetze-mit-weinbergblick-in-toplage-stuttgart-all-in/3418220389-277-9282",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 221680 CG)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots:...",
+      "listing_id": "0235111c68c1",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-05-26T19:23:16.571276"
     }
   ]
 }
