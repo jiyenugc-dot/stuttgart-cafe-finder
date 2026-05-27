@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:23:30.030274",
-  "total_listings": 99,
+  "last_updated": "2026-05-27T10:58:42.753297",
+  "total_listings": 103,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1310,6 +1310,58 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-05-26T19:23:16.571276"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3417276729-277-9283",
+      "price_eur": 1990.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 ABP)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "9f5a5c31c063",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-05-27T10:58:39.005030"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum Alte Weinsteige – inkl. NK, Strom & Internet",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-alte-weinsteige-inkl-nk-strom-internet/3419140668-277-9281",
+      "price_eur": 490.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Zur Vermietung steht ein freier Büroraum in einer ruhigen 3er-Bürogemeinschaft in der Alten...",
+      "listing_id": "2e131ce2f958",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-27T10:58:39.008100"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Untermieter als Freiberufler gesucht ab sofort!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/untermieter-als-freiberufler-gesucht-ab-sofort-/3419083018-277-9596",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Für unsere Büroräumlichkeiten in der Tübinger Str. suchen wir Interessenten zur Untermiete ab...",
+      "listing_id": "b67e51c0a3fa",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-27T10:58:39.014282"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ladenfläche, Frisörsalon, Bürofläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche-frisoersalon-bueroflaeche/3418966565-277-9292",
+      "price_eur": 900.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Attraktive Ladenfläche im Stuttgarter Süden zu vermieten – vielseitig nutzbar\n\nIm beliebten...",
+      "listing_id": "d2687e5b6c2e",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-27T10:58:39.026345"
     }
   ]
 }
