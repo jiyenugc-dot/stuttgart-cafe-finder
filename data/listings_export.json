@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T10:58:42.753297",
-  "total_listings": 103,
+  "last_updated": "2026-05-27T19:29:33.519991",
+  "total_listings": 105,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1362,6 +1362,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-05-27T10:58:39.026345"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Moderne Büroflächen & Content Studios zentral in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-bueroflaechen-content-studios-zentral-in-stuttgart/3419556913-277-9596",
+      "price_eur": 500.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Moderne, voll möblierte Büro- & Studioräume in zentraler Lage in Stuttgart.\nMehrere Räume verfügbar...",
+      "listing_id": "19cf8961d938",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-05-27T19:29:29.072105"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "NACHMIETER GESUCHT KIOSK AM MARIENPLATZ STUTTGART",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-kiosk-am-marienplatz-stuttgart/3419535594-277-9599",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Einmalige Chance!\nKiosk in absoluter Bestlage direkt am Marienplatz Stuttgart-Süd abzugeben –...",
+      "listing_id": "200a29c4678a",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-05-27T19:29:29.076745"
     }
   ]
 }
