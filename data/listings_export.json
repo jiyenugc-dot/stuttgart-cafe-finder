@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T19:39:28.463250",
-  "total_listings": 106,
+  "last_updated": "2026-05-29T10:51:21.631503",
+  "total_listings": 107,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1401,6 +1401,19 @@
       "ai_score": 8,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-05-28T10:59:16.269190"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Beratungsbüro / Büroraum  Stuttgart Mitte an der Königstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/beratungsbuero-bueroraum-stuttgart-mitte-an-der-koenigstrasse/3420698030-277-9283",
+      "price_eur": 390.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Ich suche eine passende Person oder ein kleines Unternehmen zur Untermiete für ein zentral...",
+      "listing_id": "3b527ec1dfc8",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-29T10:51:17.111003"
     }
   ]
 }
