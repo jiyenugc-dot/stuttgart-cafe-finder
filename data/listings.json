@@ -106,7 +106,9 @@
     "f26caa8560ecf143e88ad08260793d00": "2026-05-27T19:29:29.072105",
     "460beddad65d3205bc4418e61b3b50f1": "2026-05-27T19:29:29.076745",
     "5f82cbf3b761aef0716eac15bf520a06": "2026-05-28T10:59:16.269190",
-    "7a6d96e8e6ea3a7fef4621a295765618": "2026-05-29T10:51:17.111003"
+    "7a6d96e8e6ea3a7fef4621a295765618": "2026-05-29T10:51:17.111003",
+    "968c392766840737380523fa803b79c7": "2026-05-29T19:35:31.156351",
+    "78abab29113880437e37fcb7d9f4c7b0": "2026-05-29T19:35:31.162053"
   },
   "listings": [
     {
@@ -1499,6 +1501,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-29T10:51:17.111003"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3420896360-277-9284",
+      "price_eur": 220.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "ecac5289846e",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-29T19:35:31.156351"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Abstell-/Kellerraum 82qm mit sep. Zugang, Toilette Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/abstell-kellerraum-82qm-mit-sep-zugang-toilette-stuttgart-west/3420892063-277-9295",
+      "price_eur": 800.0,
+      "area_sqm": 82.0,
+      "district": "70193 Stuttgart-​West",
+      "description": "Zur Vermietung kommt ein geräumiger Kellerraum mit 82qm in der Forststraße 191 in Stuttgart West....",
+      "listing_id": "9f1fe0f8f6a6",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-05-29T19:35:31.162053"
     }
   ]
 }
