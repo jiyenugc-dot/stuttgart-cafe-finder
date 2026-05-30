@@ -108,7 +108,8 @@
     "5f82cbf3b761aef0716eac15bf520a06": "2026-05-28T10:59:16.269190",
     "7a6d96e8e6ea3a7fef4621a295765618": "2026-05-29T10:51:17.111003",
     "968c392766840737380523fa803b79c7": "2026-05-29T19:35:31.156351",
-    "78abab29113880437e37fcb7d9f4c7b0": "2026-05-29T19:35:31.162053"
+    "78abab29113880437e37fcb7d9f4c7b0": "2026-05-29T19:35:31.162053",
+    "f5d32fd36f0ca7bdf4235d14c14dd491": "2026-05-30T18:06:30.015079"
   },
   "listings": [
     {
@@ -1527,6 +1528,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-05-29T19:35:31.162053"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Untermieter im zentralen Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/untermieter-im-zentralen-stuttgart-west/3421448016-277-9291",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Ich suche für mein Kosmetikstudio ein Untermieter. Die Fläche kann als Massage Raum, Kosmetik...",
+      "listing_id": "2995d11f59a0",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-05-30T18:06:30.015079"
     }
   ]
 }
