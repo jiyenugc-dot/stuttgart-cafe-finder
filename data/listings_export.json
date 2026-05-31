@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T09:48:45.842858",
-  "total_listings": 110,
+  "last_updated": "2026-05-31T18:08:27.065074",
+  "total_listings": 111,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1453,6 +1453,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-05-30T18:06:30.015079"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Friseurstuhl für selbstständige Tätigkeit zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/friseurstuhl-fuer-selbststaendige-taetigkeit-zu-vermieten/3422632301-277-9599",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Friseurstuhl zu vermieten ab sofort in Stuttgart-Mitte, bitte bei seriösem Interesse, einen...",
+      "listing_id": "589172e67b0e",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-05-31T18:08:22.284708"
     }
   ]
 }
