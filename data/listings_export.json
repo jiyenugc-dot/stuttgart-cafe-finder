@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T18:08:27.065074",
-  "total_listings": 111,
+  "last_updated": "2026-06-01T12:43:30.693990",
+  "total_listings": 112,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1466,6 +1466,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-05-31T18:08:22.284708"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "CoWorking - Arbeitsplatz / Geschäftsadresse in Büro in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-stuttgart/3423260985-277-9281",
+      "price_eur": 155.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "88408ef6c136",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-01T12:43:25.813169"
     }
   ]
 }
