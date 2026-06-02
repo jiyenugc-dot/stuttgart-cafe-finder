@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T11:23:00.921052",
-  "total_listings": 112,
+  "last_updated": "2026-06-02T20:09:37.195540",
+  "total_listings": 113,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1479,6 +1479,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-06-01T12:43:25.813169"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ladenlokal in Stuttgart-Stöckach – Top Lage, 40 m zur U-Bahn",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenlokal-in-stuttgart-stoeckach-top-lage-40-m-zur-u-bahn/3424340562-277-9291",
+      "price_eur": 1250.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Geschäftslokal in Top-Lage zu übernehmen – Stuttgart Stockach\n\nTop-Lage in Stuttgart-Stockach, nur...",
+      "listing_id": "6f1637bf0bd0",
+      "ai_score": 6,
+      "ai_summary": "Fairer Preis.",
+      "found_at": "2026-06-02T20:09:33.709134"
     }
   ]
 }
