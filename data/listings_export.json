@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T11:59:48.303545",
-  "total_listings": 113,
+  "last_updated": "2026-06-03T20:20:13.240784",
+  "total_listings": 114,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1492,6 +1492,19 @@
       "ai_score": 6,
       "ai_summary": "Fairer Preis.",
       "found_at": "2026-06-02T20:09:33.709134"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3425201005-277-9290",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "021a2217bf53",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-03T20:20:08.593613"
     }
   ]
 }
