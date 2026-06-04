@@ -113,7 +113,8 @@
     "ee1de74bbaf7cc819ad0391a798d93e4": "2026-05-31T18:08:22.284708",
     "5b21dbc6f3a54410c0e5451f84142e1d": "2026-06-01T12:43:25.813169",
     "730363e96dc40ffca1f1187f428153ca": "2026-06-02T20:09:33.709134",
-    "04878e29c38aa0a973316dc626136fb4": "2026-06-03T20:20:08.593613"
+    "04878e29c38aa0a973316dc626136fb4": "2026-06-03T20:20:08.593613",
+    "05aa167ad946c1e7bac3114e11dba882": "2026-06-04T19:27:07.793357"
   },
   "listings": [
     {
@@ -1597,6 +1598,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-03T20:20:08.593613"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Tattoo Studio Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/tattoo-studio-stuttgart/3425978838-277-9286",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Zum Verkauf steht ein hochwertig ausgestattetes, modernes Studio in Stuttgart (derzeit als...",
+      "listing_id": "3967bf134484",
+      "ai_score": 5,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-06-04T19:27:07.793357"
     }
   ]
 }
