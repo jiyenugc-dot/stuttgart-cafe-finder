@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T10:51:58.082236",
-  "total_listings": 115,
+  "last_updated": "2026-06-05T19:00:50.929128",
+  "total_listings": 116,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1518,6 +1518,19 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-06-04T19:27:07.793357"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Toplage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/toplage/3312686400-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nn einem gut frequentierten Einkaufscenter steht eine attraktive Ladenfläche zur...",
+      "listing_id": "871877c26bc3",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-05T19:00:47.252971"
     }
   ]
 }

@@ -114,7 +114,8 @@
     "5b21dbc6f3a54410c0e5451f84142e1d": "2026-06-01T12:43:25.813169",
     "730363e96dc40ffca1f1187f428153ca": "2026-06-02T20:09:33.709134",
     "04878e29c38aa0a973316dc626136fb4": "2026-06-03T20:20:08.593613",
-    "05aa167ad946c1e7bac3114e11dba882": "2026-06-04T19:27:07.793357"
+    "05aa167ad946c1e7bac3114e11dba882": "2026-06-04T19:27:07.793357",
+    "3471faacecc460745efd1f8d25eaa5b2": "2026-06-05T19:00:47.252971"
   },
   "listings": [
     {
@@ -1611,6 +1612,19 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-06-04T19:27:07.793357"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Toplage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/toplage/3312686400-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nn einem gut frequentierten Einkaufscenter steht eine attraktive Ladenfläche zur...",
+      "listing_id": "871877c26bc3",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-05T19:00:47.252971"
     }
   ]
 }
