@@ -115,7 +115,8 @@
     "730363e96dc40ffca1f1187f428153ca": "2026-06-02T20:09:33.709134",
     "04878e29c38aa0a973316dc626136fb4": "2026-06-03T20:20:08.593613",
     "05aa167ad946c1e7bac3114e11dba882": "2026-06-04T19:27:07.793357",
-    "3471faacecc460745efd1f8d25eaa5b2": "2026-06-05T19:00:47.252971"
+    "3471faacecc460745efd1f8d25eaa5b2": "2026-06-05T19:00:47.252971",
+    "6264bad487b465ce0cb5f41d4cb9f392": "2026-06-06T09:28:36.661498"
   },
   "listings": [
     {
@@ -1625,6 +1626,19 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-06-05T19:00:47.252971"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Rohdiamant in Toplage – Verwirklichen Sie Ihre Geschäftsidee in Stuttgart-Ost!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/rohdiamant-in-toplage-verwirklichen-sie-ihre-geschaeftsidee-in-stuttgart-ost-/3374831657-277-9597",
+      "price_eur": 720.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Süd",
+      "description": "Diese vielseitig nutzbare Gewerbeeinheit in attraktiver Lage von Stuttgart-Ost bietet eine...",
+      "listing_id": "50ffdfafdaa7",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-06T09:28:36.661498"
     }
   ]
 }
