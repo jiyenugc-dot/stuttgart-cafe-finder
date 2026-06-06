@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T09:28:40.863340",
-  "total_listings": 117,
+  "last_updated": "2026-06-06T18:13:40.911538",
+  "total_listings": 119,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1544,6 +1544,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-06-06T09:28:36.661498"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Repräsentativ und Angesagt",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/repraesentativ-und-angesagt/3338354404-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nMitten im urbanen Hotspot, dort wo Lifestyle, Trends und Kaufkraft...",
+      "listing_id": "0b38dd5e9716",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-06T18:13:35.986971"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Hervorragende Verkaufsfläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hervorragende-verkaufsflaeche/3338333265-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nNutzen Sie die einmalige Gelegenheit, Ihre Marke in einem der beliebtesten und...",
+      "listing_id": "75ae9f48108e",
+      "ai_score": 8,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-06T18:13:35.987912"
     }
   ]
 }
