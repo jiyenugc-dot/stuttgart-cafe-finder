@@ -118,7 +118,8 @@
     "3471faacecc460745efd1f8d25eaa5b2": "2026-06-05T19:00:47.252971",
     "6264bad487b465ce0cb5f41d4cb9f392": "2026-06-06T09:28:36.661498",
     "64fc29f082428d4a862760d5b21bce07": "2026-06-06T18:13:35.986971",
-    "d0780c912c345b791bde568265a1b39a": "2026-06-06T18:13:35.987912"
+    "d0780c912c345b791bde568265a1b39a": "2026-06-06T18:13:35.987912",
+    "3e84bd13d5f188fa4d082571696cdfbf": "2026-06-07T10:08:03.768637"
   },
   "listings": [
     {
@@ -1667,6 +1668,19 @@
       "ai_score": 8,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-06-06T18:13:35.987912"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Arbeitsplatz in Bürogemeinschaft in Stuttgart-West zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/arbeitsplatz-in-buerogemeinschaft-in-stuttgart-west-zu-vermieten/2551366367-277-9284",
+      "price_eur": 260.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "In unserer Bürogemeinschaft (Architekten, Bauleiter, Energieberater, Grafikdesigner,...",
+      "listing_id": "01a2cb91e220",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-07T10:08:03.768637"
     }
   ]
 }
