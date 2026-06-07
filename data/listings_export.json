@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T10:08:08.723887",
-  "total_listings": 120,
+  "last_updated": "2026-06-07T18:10:41.228436",
+  "total_listings": 121,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1583,6 +1583,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-07T10:08:03.768637"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Feinkost-, Obst & Gemüsemarkt in Top-Lage Stuttgart-Gablenberg",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/feinkost-obst-gemuesemarkt-in-top-lage-stuttgart-gablenberg/3429318567-277-9285",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "Zum Verkauf steht ein erfolgreich geführter Feinkost-, Obst- und Gemüsemarkt in hervorragender Lage...",
+      "listing_id": "67d473470d7f",
+      "ai_score": 5,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-06-07T18:10:37.496680"
     }
   ]
 }
