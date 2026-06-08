@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T12:03:36.841842",
-  "total_listings": 121,
+  "last_updated": "2026-06-08T19:26:18.335923",
+  "total_listings": 124,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1596,6 +1596,45 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-06-07T18:10:37.496680"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3430143848-277-9284",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "ec8d9fbc2692",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-08T19:26:14.791541"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Flexible Gewerbefläche in der Olgastraße – ideal für Büro, Praxis",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/flexible-gewerbeflaeche-in-der-olgastrasse-ideal-fuer-buero-praxis/3430129361-277-9287",
+      "price_eur": 700.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Ab Juli stehen in einem bestehenden Ladengeschäft in der Olgastraße in Stuttgart-Mitte drei...",
+      "listing_id": "209ab2c30815",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-08T19:26:14.797626"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Sofort beziehbares Einzelzimmer-Büro in Stuttgart-Ost - privat, ruhig",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/sofort-beziehbares-einzelzimmer-buero-in-stuttgart-ost-privat-ruhig/3430380011-277-9285",
+      "price_eur": 380.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 224149 IE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "730edc6701f2",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-08T19:26:14.803499"
     }
   ]
 }

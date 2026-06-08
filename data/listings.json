@@ -120,7 +120,10 @@
     "64fc29f082428d4a862760d5b21bce07": "2026-06-06T18:13:35.986971",
     "d0780c912c345b791bde568265a1b39a": "2026-06-06T18:13:35.987912",
     "3e84bd13d5f188fa4d082571696cdfbf": "2026-06-07T10:08:03.768637",
-    "b10a49c0cad4678a48f1c46f1dbc4978": "2026-06-07T18:10:37.496680"
+    "b10a49c0cad4678a48f1c46f1dbc4978": "2026-06-07T18:10:37.496680",
+    "c7ee38bff8ffb39ad445022d43bc6347": "2026-06-08T19:26:14.791541",
+    "cf34b6a7402c95bf292572204b60e801": "2026-06-08T19:26:14.797626",
+    "4cbf23585f28c40f8d29fcd53b0f21d3": "2026-06-08T19:26:14.803499"
   },
   "listings": [
     {
@@ -1695,6 +1698,45 @@
       "ai_score": 5,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-06-07T18:10:37.496680"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3430143848-277-9284",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "ec8d9fbc2692",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-08T19:26:14.791541"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Flexible Gewerbefläche in der Olgastraße – ideal für Büro, Praxis",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/flexible-gewerbeflaeche-in-der-olgastrasse-ideal-fuer-buero-praxis/3430129361-277-9287",
+      "price_eur": 700.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Ab Juli stehen in einem bestehenden Ladengeschäft in der Olgastraße in Stuttgart-Mitte drei...",
+      "listing_id": "209ab2c30815",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-08T19:26:14.797626"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Sofort beziehbares Einzelzimmer-Büro in Stuttgart-Ost - privat, ruhig",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/sofort-beziehbares-einzelzimmer-buero-in-stuttgart-ost-privat-ruhig/3430380011-277-9285",
+      "price_eur": 380.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 224149 IE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "730edc6701f2",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-08T19:26:14.803499"
     }
   ]
 }
