@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T19:26:18.335923",
-  "total_listings": 124,
+  "last_updated": "2026-06-09T10:36:49.152350",
+  "total_listings": 125,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1635,6 +1635,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-08T19:26:14.803499"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Schreibtischplatz im Grünen & doch zentral im Stuttgarter Norden (befristet)",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/schreibtischplatz-im-gruenen-doch-zentral-im-stuttgarter-norden-befristet-/3190562726-277-9289",
+      "price_eur": 350.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Suchst du einen inspirierenden Arbeitsplatz, der Dir mehr bietet als nur vier Wände und einen...",
+      "listing_id": "dc710761b416",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-09T10:36:44.690187"
     }
   ]
 }
