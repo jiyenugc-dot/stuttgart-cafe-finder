@@ -124,7 +124,8 @@
     "c7ee38bff8ffb39ad445022d43bc6347": "2026-06-08T19:26:14.791541",
     "cf34b6a7402c95bf292572204b60e801": "2026-06-08T19:26:14.797626",
     "4cbf23585f28c40f8d29fcd53b0f21d3": "2026-06-08T19:26:14.803499",
-    "232fed66e5235bb2e065c74d1d2c42ef": "2026-06-09T10:36:44.690187"
+    "232fed66e5235bb2e065c74d1d2c42ef": "2026-06-09T10:36:44.690187",
+    "b356c9646a4c84f9bf5f0f4f1b4e6e6c": "2026-06-10T10:59:50.735170"
   },
   "listings": [
     {
@@ -1751,6 +1752,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-09T10:36:44.690187"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Office mit eigenem Balkon, Blick in's Grüne & Gemeinschaftsküche mitten im Stuttgarter Norden",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/office-mit-eigenem-balkon-blick-in-s-gruene-gemeinschaftskueche-mitten-im-stuttgarter-norden/3431422581-277-9289",
+      "price_eur": 990.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Suchst du einen inspirierenden Arbeitsplatz, der Dir mehr bietet als nur vier Wände und einen...",
+      "listing_id": "6bc762d49a84",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-10T10:59:50.735170"
     }
   ]
 }
