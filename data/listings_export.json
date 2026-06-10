@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T10:59:54.521468",
-  "total_listings": 126,
+  "last_updated": "2026-06-10T19:40:45.735197",
+  "total_listings": 127,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1661,6 +1661,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-10T10:59:50.735170"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro / Laden in Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-laden-in-stuttgart-west/3431979937-277-9290",
+      "price_eur": 1100.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Zu vermieten ist ein Laden Büro in Stuttgart West (Arndtstr 29). Das Büro hat im Erdgeschoss 3...",
+      "listing_id": "2c0682bf6f45",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West. Erdgeschoss.",
+      "found_at": "2026-06-10T19:40:42.195203"
     }
   ]
 }
