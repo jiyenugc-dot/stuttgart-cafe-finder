@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T11:25:46.295521",
-  "total_listings": 130,
+  "last_updated": "2026-06-11T19:38:36.656667",
+  "total_listings": 131,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1713,6 +1713,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-11T11:25:41.752526"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 2 Person in SIGNATURE Schlossplatz",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-signature-schlossplatz/3204515326-277-9283",
+      "price_eur": 889.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\nDieses Angebot umfasst...",
+      "listing_id": "5a444aed820d",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-11T19:38:31.851244"
     }
   ]
 }
