@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T19:40:45.735197",
-  "total_listings": 127,
+  "last_updated": "2026-06-11T11:25:46.295521",
+  "total_listings": 130,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1674,6 +1674,45 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West. Erdgeschoss.",
       "found_at": "2026-06-10T19:40:42.195203"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisbereich  in Stuttgart-Mitte zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisbereich-in-stuttgart-mitte-zur-untermiete/3432145341-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "In unserer wunderschönen 3er Gemeinschaftspraxis (Coaching-Gesundheit-Ernährung-Schönheit) in...",
+      "listing_id": "92a1be76aa41",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-11T11:25:41.747712"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 3 Person in SIGNATURE Schlossplatz",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-3-person-in-signature-schlossplatz/3204515331-277-9283",
+      "price_eur": 889.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Produktiver Arbeitsplatz für drei Personen, bei dem Sie sich um nichts mehr kümmern müssen.\nDieses...",
+      "listing_id": "768f25513796",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-11T11:25:41.750651"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Virtuelles Büro in REGUS Königstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/virtuelles-buero-in-regus-koenigstrasse/3204515097-277-9283",
+      "price_eur": 215.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Bauen Sie Ihre Geschäftspräsenz schnell auf – mit einer sofortigen professionellen...",
+      "listing_id": "29b2f11378c5",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-11T11:25:41.752526"
     }
   ]
 }
