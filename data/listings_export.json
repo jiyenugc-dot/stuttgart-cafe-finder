@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T19:38:36.656667",
-  "total_listings": 131,
+  "last_updated": "2026-06-12T11:05:08.613414",
+  "total_listings": 132,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1726,6 +1726,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-11T19:38:31.851244"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Proberaum in Stuttgart zur Mitbenutzung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/proberaum-in-stuttgart-zur-mitbenutzung/3433075705-277-9291",
+      "price_eur": 60.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Hallo Stuttgarter Bands & Einzelmusiker,\n\n  ich habe in der Stotzstraße in Stuttgart-Ost Proberäume...",
+      "listing_id": "e8e2f3ef2c93",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-12T11:05:04.942901"
     }
   ]
 }
