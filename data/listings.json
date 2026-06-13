@@ -131,7 +131,8 @@
     "f5bd4863d874ab37ee1e977e7ff5d9e0": "2026-06-11T11:25:41.750651",
     "115fe73f85d1cbfa59b73e1ad24d05fd": "2026-06-11T11:25:41.752526",
     "cb1ab13300f26b2d449efc00117fcf25": "2026-06-11T19:38:31.851244",
-    "a91c0c81e332aeb4e55cb0c5f09ecee3": "2026-06-12T11:05:04.942901"
+    "a91c0c81e332aeb4e55cb0c5f09ecee3": "2026-06-12T11:05:04.942901",
+    "081acb5453d6becd25245f9c038697dc": "2026-06-13T18:15:37.770418"
   },
   "listings": [
     {
@@ -1849,6 +1850,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-12T11:05:04.942901"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "3,5 Zi. Wohnung. bei der Musikhochschule",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/3-5-zi-wohnung-bei-der-musikhochschule/3298359543-277-9287",
+      "price_eur": 1500.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nImmo Paradise a73ffd24 c2050195 510590#81\nAusstattung:\nModerne...",
+      "listing_id": "72756cf1c213",
+      "ai_score": 8,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-06-13T18:15:37.770418"
     }
   ]
 }
