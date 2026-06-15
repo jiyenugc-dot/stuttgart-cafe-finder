@@ -133,7 +133,9 @@
     "cb1ab13300f26b2d449efc00117fcf25": "2026-06-11T19:38:31.851244",
     "a91c0c81e332aeb4e55cb0c5f09ecee3": "2026-06-12T11:05:04.942901",
     "081acb5453d6becd25245f9c038697dc": "2026-06-13T18:15:37.770418",
-    "6558b496ed61876b52c58fcb2dc38301": "2026-06-15T13:21:38.852055"
+    "6558b496ed61876b52c58fcb2dc38301": "2026-06-15T13:21:38.852055",
+    "42466e18f0ded04bc64775b18f855056": "2026-06-15T20:29:03.234027",
+    "1605be142f32a3b5705576f6d4f177e3": "2026-06-15T20:29:03.235081"
   },
   "listings": [
     {
@@ -1877,6 +1879,32 @@
       "ai_score": 7,
       "ai_summary": "Fairer Preis. Stuttgart-West.",
       "found_at": "2026-06-15T13:21:38.852055"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helles Atelier im Lehenviertel Stuttgart - Offene Arbeitsplätze 1",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-atelier-im-lehenviertel-stuttgart-offene-arbeitsplaetze-1/3436552559-277-9281",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "(Objekt-Nr.: 220228 EF)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene Arbeitsplätze...",
+      "listing_id": "6ca9539dcd4c",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-15T20:29:03.234027"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Industrie-Flair trifft offene Arbeitsplätze in Stuttgart Ost",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/industrie-flair-trifft-offene-arbeitsplaetze-in-stuttgart-ost/3436552243-277-9282",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 219225 CL)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene...",
+      "listing_id": "0100ae939012",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-15T20:29:03.235081"
     }
   ]
 }
