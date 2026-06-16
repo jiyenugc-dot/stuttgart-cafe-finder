@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T20:29:06.802457",
-  "total_listings": 136,
+  "last_updated": "2026-06-16T12:15:02.524166",
+  "total_listings": 137,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1791,6 +1791,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-15T20:29:03.235081"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Attraktives Schaufenster büro/ Ladenfläche im S-West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/attraktives-schaufenster-buero-ladenflaeche-im-s-west/3436583216-277-9284",
+      "price_eur": 1100.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Attraktives, komplett ausgestattetes Büro mit Schaufenster in Stuttgart-West zu vermieten\n\nZur...",
+      "listing_id": "eba6f45825ca",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-16T12:14:58.940477"
     }
   ]
 }
