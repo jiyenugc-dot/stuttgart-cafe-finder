@@ -139,7 +139,8 @@
     "3db4450f0e99a06c3f45b138f9a814e9": "2026-06-16T12:14:58.940477",
     "f855c5488eb881cf96b2ed44be517cf7": "2026-06-17T11:54:42.342758",
     "4b3970de4e79c09d2dc18973250d0cc3": "2026-06-17T11:54:42.351034",
-    "5562d3cb272b0be7a799dda7d7046a0f": "2026-06-17T11:54:42.355814"
+    "5562d3cb272b0be7a799dda7d7046a0f": "2026-06-17T11:54:42.355814",
+    "7a0ea365bbf677ed66aa1bb88d2db48a": "2026-06-17T19:27:11.725652"
   },
   "listings": [
     {
@@ -1961,6 +1962,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-17T11:54:42.355814"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Platz im Kosmetikstudio zur Untermiete für Nageldesignerin",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/platz-im-kosmetikstudio-zur-untermiete-fuer-nageldesignerin/3437857585-277-9599",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "UNTERMIETERIN AUF SELBSTSTÄNDIGER BASIS GESUCHT (NAGELDESIGNERIN)\n\nStuhlmiete (eigener...",
+      "listing_id": "fa9910b36d6e",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-17T19:27:11.725652"
     }
   ]
 }
