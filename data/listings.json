@@ -136,7 +136,10 @@
     "6558b496ed61876b52c58fcb2dc38301": "2026-06-15T13:21:38.852055",
     "42466e18f0ded04bc64775b18f855056": "2026-06-15T20:29:03.234027",
     "1605be142f32a3b5705576f6d4f177e3": "2026-06-15T20:29:03.235081",
-    "3db4450f0e99a06c3f45b138f9a814e9": "2026-06-16T12:14:58.940477"
+    "3db4450f0e99a06c3f45b138f9a814e9": "2026-06-16T12:14:58.940477",
+    "f855c5488eb881cf96b2ed44be517cf7": "2026-06-17T11:54:42.342758",
+    "4b3970de4e79c09d2dc18973250d0cc3": "2026-06-17T11:54:42.351034",
+    "5562d3cb272b0be7a799dda7d7046a0f": "2026-06-17T11:54:42.355814"
   },
   "listings": [
     {
@@ -1919,6 +1922,45 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-16T12:14:58.940477"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3437401053-277-9290",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "f2781d60591b",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-17T11:54:42.342758"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stilvolles Arbeiten in Bester Lage",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stilvolles-arbeiten-in-bester-lage/3298504682-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nDiese attraktive Ladenfläche befindet sich in einem der angesagtesten...",
+      "listing_id": "d501ccd82ce2",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-17T11:54:42.351034"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Funktionale Büro- / Gewerbefläche in zentraler Lage von Stuttgart (nähe Olgaeck) ab sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/funktionale-buero-gewerbeflaeche-in-zentraler-lage-von-stuttgart-naehe-olgaeck-ab-sofort-verfuegbar/3437599367-277-9287",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Angeboten wird eine sanierte Bürofläche mit insgesamt 2 Arbeitszimmern in einem Wohn- und...",
+      "listing_id": "a98637fe4519",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-17T11:54:42.355814"
     }
   ]
 }
