@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T11:12:19.516124",
-  "total_listings": 141,
+  "last_updated": "2026-06-18T19:33:27.897003",
+  "total_listings": 143,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1856,6 +1856,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-17T19:27:11.725652"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ihr neuer Standort im Herzen von Stuttgart - 130 m² Gewerbefläche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ihr-neuer-standort-im-herzen-von-stuttgart-130-m-gewerbeflaeche/3414419616-277-9291",
+      "price_eur": 1892.0,
+      "area_sqm": 130.0,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche im Herzen von Stuttgart-Mitte. Die...",
+      "listing_id": "d153fa94a19a",
+      "ai_score": 3,
+      "ai_summary": "Am oberen Preislimit.",
+      "found_at": "2026-06-18T19:33:23.044871"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "*Gewerbeeinheit mit moderner Architektur - vielseitig nutzbar!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-gewerbeeinheit-mit-moderner-architektur-vielseitig-nutzbar-/3402100087-277-9599",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "Diese moderne und repräsentative Gewerbefläche befindet sich in gefragter Lage von Stuttgart-Mitte...",
+      "listing_id": "6c7588e1d59d",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-18T19:33:23.045805"
     }
   ]
 }
