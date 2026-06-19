@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T11:39:18.461849",
-  "total_listings": 144,
+  "last_updated": "2026-06-19T19:01:09.954258",
+  "total_listings": 147,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1895,6 +1895,45 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-06-19T11:39:14.776870"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "1–2 Plätze in Bürogemeinschaft in Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-2-plaetze-in-buerogemeinschaft-in-stuttgart-west/3439185687-277-9284",
+      "price_eur": 250.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Wir sind eine Bürogemeinschaft mitten im Stuttgarter Westen. Unser schönes Büro hat eine sehr gute...",
+      "listing_id": "7e802e3bf9d0",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-19T19:01:05.279168"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "DHL Paketshop Partner:in mit eigenem Laden gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/dhl-paketshop-partner-in-mit-eigenem-laden-gesucht/3252236402-277-9295",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Jetzt anrufen unter 0961 3818 2882.\n\nDu hast schon ein Geschäft, z.B. einen Kiosk oder...",
+      "listing_id": "d03d4ebeac9d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-19T19:01:05.290628"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "gutlaufendes Pizza Lifer-Service gegen Ablöse abzugeben",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gutlaufendes-pizza-lifer-service-gegen-abloese-abzugeben/3439399684-277-9285",
+      "price_eur": 1800.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "Zum Verkauf steht ein gutlaufender Pizza-Service in Stuttgart-Gablenberg. Das gepflegte und nahezu...",
+      "listing_id": "74d61cbb8c95",
+      "ai_score": 5,
+      "ai_summary": "Am oberen Preislimit. Achtung: Ablöse erforderlich.",
+      "found_at": "2026-06-19T19:01:05.294065"
     }
   ]
 }

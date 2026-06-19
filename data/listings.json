@@ -143,7 +143,10 @@
     "7a0ea365bbf677ed66aa1bb88d2db48a": "2026-06-17T19:27:11.725652",
     "c0d61b71690817a98e4b6531b2c6a708": "2026-06-18T19:33:23.044871",
     "83bdaa483491649c66c731a59a856080": "2026-06-18T19:33:23.045805",
-    "b537c7ecc001163c22a4e654dbc151ba": "2026-06-19T11:39:14.776870"
+    "b537c7ecc001163c22a4e654dbc151ba": "2026-06-19T11:39:14.776870",
+    "4232edad468da1dbe999973ba6b04b17": "2026-06-19T19:01:05.279168",
+    "0d1405d68ce5512244536e12f031886b": "2026-06-19T19:01:05.290628",
+    "7ec7a6aca4641f99bde7f9f0ae0519f7": "2026-06-19T19:01:05.294065"
   },
   "listings": [
     {
@@ -2017,6 +2020,45 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-06-19T11:39:14.776870"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "1–2 Plätze in Bürogemeinschaft in Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-2-plaetze-in-buerogemeinschaft-in-stuttgart-west/3439185687-277-9284",
+      "price_eur": 250.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Wir sind eine Bürogemeinschaft mitten im Stuttgarter Westen. Unser schönes Büro hat eine sehr gute...",
+      "listing_id": "7e802e3bf9d0",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-19T19:01:05.279168"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "DHL Paketshop Partner:in mit eigenem Laden gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/dhl-paketshop-partner-in-mit-eigenem-laden-gesucht/3252236402-277-9295",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Jetzt anrufen unter 0961 3818 2882.\n\nDu hast schon ein Geschäft, z.B. einen Kiosk oder...",
+      "listing_id": "d03d4ebeac9d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-19T19:01:05.290628"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "gutlaufendes Pizza Lifer-Service gegen Ablöse abzugeben",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gutlaufendes-pizza-lifer-service-gegen-abloese-abzugeben/3439399684-277-9285",
+      "price_eur": 1800.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "Zum Verkauf steht ein gutlaufender Pizza-Service in Stuttgart-Gablenberg. Das gepflegte und nahezu...",
+      "listing_id": "74d61cbb8c95",
+      "ai_score": 5,
+      "ai_summary": "Am oberen Preislimit. Achtung: Ablöse erforderlich.",
+      "found_at": "2026-06-19T19:01:05.294065"
     }
   ]
 }
