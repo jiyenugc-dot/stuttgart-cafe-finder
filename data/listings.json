@@ -146,7 +146,9 @@
     "b537c7ecc001163c22a4e654dbc151ba": "2026-06-19T11:39:14.776870",
     "4232edad468da1dbe999973ba6b04b17": "2026-06-19T19:01:05.279168",
     "0d1405d68ce5512244536e12f031886b": "2026-06-19T19:01:05.290628",
-    "7ec7a6aca4641f99bde7f9f0ae0519f7": "2026-06-19T19:01:05.294065"
+    "7ec7a6aca4641f99bde7f9f0ae0519f7": "2026-06-19T19:01:05.294065",
+    "607bdb08d524926458aaa1f450708be5": "2026-06-20T10:11:03.295169",
+    "a450abd4ec4a4af7de11aca33d4b40a2": "2026-06-20T10:11:03.297055"
   },
   "listings": [
     {
@@ -2059,6 +2061,32 @@
       "ai_score": 5,
       "ai_summary": "Am oberen Preislimit. Achtung: Ablöse erforderlich.",
       "found_at": "2026-06-19T19:01:05.294065"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Bar/Restaurant/Raucherlokal in Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bar-restaurant-raucherlokal-in-stuttgart-mitte/3439670263-277-9291",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Vermittlung im Kundenauftrag.\nGastronomie in Stuttgart Mitte zur Übernahme.\nDerzeit wird der...",
+      "listing_id": "6739214a607e",
+      "ai_score": 7,
+      "ai_summary": "Gastro-Nutzung möglich.",
+      "found_at": "2026-06-20T10:11:03.295169"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "WG in Stuttgart-West frei",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/wg-in-stuttgart-west-frei/3439555618-277-9288",
+      "price_eur": 520.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "2 Zimmer in einer 3-Zimmer-WG in Stuttgart-West frei\n\nReuchlinstraße\n70178 Stuttgart\n\nIn einer...",
+      "listing_id": "c51f0ecbacb2",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-20T10:11:03.297055"
     }
   ]
 }
