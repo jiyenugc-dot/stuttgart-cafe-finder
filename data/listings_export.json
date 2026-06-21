@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T18:18:45.309770",
-  "total_listings": 149,
+  "last_updated": "2026-06-21T10:35:44.392139",
+  "total_listings": 150,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1960,6 +1960,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-20T10:11:03.297055"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Moderner Behandlungsraum in bester Lage – Stuttgart-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/moderner-behandlungsraum-in-bester-lage-stuttgart-mitte/3440597006-277-9283",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Moderner Behandlungsraum in bester Lage – Stuttgart-Mitte\n\nSie suchen einen stilvollen und...",
+      "listing_id": "c49e7fc94def",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-21T10:35:39.719307"
     }
   ]
 }
