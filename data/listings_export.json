@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T10:35:44.392139",
-  "total_listings": 150,
+  "last_updated": "2026-06-21T18:22:55.792472",
+  "total_listings": 151,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1973,6 +1973,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-21T10:35:39.719307"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Raum für Beautydienstleistung zu vermieten-Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raum-fuer-beautydienstleistung-zu-vermieten-stuttgart-mitte/3429849820-277-9283",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Wir suchen eine liebevolle und erfahrene Kosmetiker/in (m/w/d), die sich auf...",
+      "listing_id": "6a8b5de19a1f",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-21T18:22:50.263082"
     }
   ]
 }

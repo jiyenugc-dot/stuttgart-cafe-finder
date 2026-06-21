@@ -149,7 +149,8 @@
     "7ec7a6aca4641f99bde7f9f0ae0519f7": "2026-06-19T19:01:05.294065",
     "607bdb08d524926458aaa1f450708be5": "2026-06-20T10:11:03.295169",
     "a450abd4ec4a4af7de11aca33d4b40a2": "2026-06-20T10:11:03.297055",
-    "12b273530dee747a2d010645f97b7853": "2026-06-21T10:35:39.719307"
+    "12b273530dee747a2d010645f97b7853": "2026-06-21T10:35:39.719307",
+    "480b27eefcffa4807d9f33722400f549": "2026-06-21T18:22:50.263082"
   },
   "listings": [
     {
@@ -2101,6 +2102,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-21T10:35:39.719307"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Raum für Beautydienstleistung zu vermieten-Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raum-fuer-beautydienstleistung-zu-vermieten-stuttgart-mitte/3429849820-277-9283",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Wir suchen eine liebevolle und erfahrene Kosmetiker/in (m/w/d), die sich auf...",
+      "listing_id": "6a8b5de19a1f",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-21T18:22:50.263082"
     }
   ]
 }
