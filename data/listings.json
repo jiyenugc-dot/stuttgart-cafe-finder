@@ -152,7 +152,12 @@
     "12b273530dee747a2d010645f97b7853": "2026-06-21T10:35:39.719307",
     "480b27eefcffa4807d9f33722400f549": "2026-06-21T18:22:50.263082",
     "624fb5e7e6122bcc08029377d030d7b7": "2026-06-22T12:53:43.840928",
-    "0bf6519fc26a0f5850873ec639d533c1": "2026-06-22T12:53:43.849060"
+    "0bf6519fc26a0f5850873ec639d533c1": "2026-06-22T12:53:43.849060",
+    "b55c05622ed49407c2535befec609535": "2026-06-22T20:10:11.854321",
+    "e93a7aac5465f15d918dc4720b62c61c": "2026-06-22T20:10:11.857240",
+    "0ca2d5d933aaa014773a59225960fdd7": "2026-06-22T20:10:11.858151",
+    "0045efb3698494aacb51d2284cdd6438": "2026-06-22T20:10:11.859053",
+    "41fc560bd8950489768d0426f663b517": "2026-06-22T20:10:11.859959"
   },
   "listings": [
     {
@@ -2143,6 +2148,71 @@
       "ai_score": 7,
       "ai_summary": "Am oberen Preislimit. zentrale Lage.",
       "found_at": "2026-06-22T12:53:43.849060"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in Stuttgart am Stöckacht, Abends zur Miete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-am-stoeckacht-abends-zur-miete/3362926288-277-9291",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
+      "listing_id": "9e7d2797e55d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-22T20:10:11.854321"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Offenes Büro-Loft in der Kreativfabrik Stuttgart, ab 250€/Monat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/offenes-buero-loft-in-der-kreativfabrik-stuttgart-ab-250-monat/3441950335-277-19335",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 221250 BF)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "d0f36241e2fc",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-22T20:10:11.857240"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kreativloft in Stuttgart: 1-3 Arbeitsplätze, flexibel, sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kreativloft-in-stuttgart-1-3-arbeitsplaetze-flexibel-sofort-verfuegbar/3441950326-277-19335",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 221250 BE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "e262270838a3",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-22T20:10:11.858151"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kreativfabrik Stuttgart: Offene Lofträume, Community & Highspeed-Internet",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kreativfabrik-stuttgart-offene-loftraeume-community-highspeed-internet/3441950317-277-19335",
+      "price_eur": 550.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 221250 BD)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "6a3c727f87f5",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-22T20:10:11.859053"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Bürofläche 2: Möbliert, 24/7, Stuttgart Mitte – inkl. Meetingraum & Küche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroflaeche-2-moebliert-24-7-stuttgart-mitte-inkl-meetingraum-kueche/3441950078-277-9599",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 221276 AP)\nObjektkategorie: Eigene Bürofläche\nTitel des Angebots: Shared Office...",
+      "listing_id": "6445a803865c",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-22T20:10:11.859959"
     }
   ]
 }
