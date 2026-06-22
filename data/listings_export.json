@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T18:22:55.792472",
-  "total_listings": 151,
+  "last_updated": "2026-06-22T12:53:48.865401",
+  "total_listings": 153,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1986,6 +1986,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-21T18:22:50.263082"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Hobbyraum & Werkstatt in Stuttgart Süd ebenerdig, beheizbar, Wc",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hobbyraum-werkstatt-in-stuttgart-sued-ebenerdig-beheizbar-wc/3441258605-277-9292",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Werkstatt & Hobbyraum in Stuttgart-Süd ebenerdig, beheizt, mit eigenem WC\n\nZur Vermietung stehen...",
+      "listing_id": "c08af2cdd681",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-22T12:53:43.840928"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3441280976-277-9283",
+      "price_eur": 1990.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 ACZ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "eeb4fbc44346",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-06-22T12:53:43.849060"
     }
   ]
 }
