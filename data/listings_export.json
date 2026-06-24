@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T10:25:43.993511",
-  "total_listings": 148,
+  "last_updated": "2026-06-24T18:54:38.998101",
+  "total_listings": 149,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1947,6 +1947,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-24T10:25:39.518755"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Fotostudio & Kursraum zu vermieten – ideal für Yoga",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/fotostudio-kursraum-zu-vermieten-ideal-fuer-yoga/3442961223-277-9291",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Fotostudio & Kursraum zu vermieten – ideal für Yoga, Pilates, Klangschalen, Workshops\n\nHeller,...",
+      "listing_id": "91a732434e7a",
+      "ai_score": 4,
+      "ai_summary": "Prüfe die Anzeige für Details.",
+      "found_at": "2026-06-24T18:54:34.639180"
     }
   ]
 }
