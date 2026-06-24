@@ -159,61 +159,11 @@
     "0045efb3698494aacb51d2284cdd6438": "2026-06-22T20:10:11.859053",
     "41fc560bd8950489768d0426f663b517": "2026-06-22T20:10:11.859959",
     "7e1e1625d927ba7d68c96035220ef2ed": "2026-06-23T10:38:55.591983",
-    "348b1ec2a58802febbaef82df55be384": "2026-06-23T10:38:55.606044"
+    "348b1ec2a58802febbaef82df55be384": "2026-06-23T10:38:55.606044",
+    "592a4d281ece9d5b336730e48f3cac5f": "2026-06-24T10:25:39.517849",
+    "3c183fe5b467b49aeaa1a23f4cdbae93": "2026-06-24T10:25:39.518755"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Trendy Hotspot",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/trendy-hotspot/3298501378-277-9283",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Objektbeschreibung:\nDieses sehr angesagte Shoppingcenter befindet sich in absolut zentraler...",
-      "listing_id": "9b7791a60c93",
-      "ai_score": 7,
-      "ai_summary": "zentrale Lage.",
-      "found_at": "2026-03-25T19:36:48.230780"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "BISTRO in zentraler Lage Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/bistro-in-zentraler-lage-stuttgart/3300256609-277-9281",
-      "price_eur": 1200.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Das Objekt ist voll ausgestattet und ist so zu übergeben. Es kann auch in ein Gastronomieobjekt,...",
-      "listing_id": "3498deb177d5",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
-      "found_at": "2026-03-25T19:36:48.235836"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Räume in Stuttgart-Ost zur Untermiete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-ost-zur-untermiete/3362926288-277-9291",
-      "price_eur": 600.0,
-      "area_sqm": null,
-      "district": "70190 Stuttgart-​Ost",
-      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
-      "listing_id": "46f0ab27abaf",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-03-25T19:36:48.241920"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Top-Lage – Möbliertes Büro mit Balkon, meist allein, All-Incl.",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage-moebliertes-buero-mit-balkon-meist-allein-all-incl-/3363357375-277-9287",
-      "price_eur": 490.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "Helles, abschließbares Büro in Top-Lage Stuttgart-Mitte (Neckartor), Hauptbahnhof & Schlossgarten...",
-      "listing_id": "8c27def72153",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-26T10:15:49.133251"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Top Lage",
@@ -2111,6 +2061,32 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-23T10:38:55.606044"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kreatives Büro-Coworking neben Freibad - Bar, Lounge, inkl. Nebenkosten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kreatives-buero-coworking-neben-freibad-bar-lounge-inkl-nebenkosten/3442881445-277-19335",
+      "price_eur": 1200.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 201335 G)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum 1...",
+      "listing_id": "de93f555ef2d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-24T10:25:39.517849"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kreatives Büro im Fabrik-Charme – flexibel, möbliert, Bar & Lounge nahe Freibad",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kreatives-buero-im-fabrik-charme-flexibel-moebliert-bar-lounge-nahe-freibad/3442881173-277-19335",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "(Objekt-Nr.: 201335 E)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "5be96373c200",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-24T10:25:39.518755"
     }
   ]
 }
