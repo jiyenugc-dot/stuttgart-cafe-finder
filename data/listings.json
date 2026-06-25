@@ -164,7 +164,8 @@
     "3c183fe5b467b49aeaa1a23f4cdbae93": "2026-06-24T10:25:39.518755",
     "829563af8669798c33bd2281c2e85528": "2026-06-24T18:54:34.639180",
     "62f6212e19a3583ba343e0f077ac2575": "2026-06-25T10:17:44.574208",
-    "338ea539bda35408764421f9242ee931": "2026-06-25T10:17:44.579786"
+    "338ea539bda35408764421f9242ee931": "2026-06-25T10:17:44.579786",
+    "b4682010fad9c72241c3daee3a33ddf4": "2026-06-25T19:08:34.407063"
   },
   "listings": [
     {
@@ -2103,6 +2104,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-06-25T10:17:44.579786"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in Stuttgart am Stöckach ab 17:30 Uhr zur Miete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-am-stoeckach-ab-17-30-uhr-zur-miete/3362926288-277-9291",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
+      "listing_id": "4bb4b449b8d0",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-06-25T19:08:34.407063"
     }
   ]
 }
