@@ -162,35 +162,11 @@
     "348b1ec2a58802febbaef82df55be384": "2026-06-23T10:38:55.606044",
     "592a4d281ece9d5b336730e48f3cac5f": "2026-06-24T10:25:39.517849",
     "3c183fe5b467b49aeaa1a23f4cdbae93": "2026-06-24T10:25:39.518755",
-    "829563af8669798c33bd2281c2e85528": "2026-06-24T18:54:34.639180"
+    "829563af8669798c33bd2281c2e85528": "2026-06-24T18:54:34.639180",
+    "62f6212e19a3583ba343e0f077ac2575": "2026-06-25T10:17:44.574208",
+    "338ea539bda35408764421f9242ee931": "2026-06-25T10:17:44.579786"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Top Lage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage/3298502173-277-9283",
-      "price_eur": null,
-      "area_sqm": 91.0,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Weitere Angaben:\nZimmer: 1\nObjektzustand: gepflegt\nLadenfläche: ca. 91 m²\nVerkaufsfläche: ca. 91 m²",
-      "listing_id": "a0745aa16599",
-      "ai_score": 8,
-      "ai_summary": "zentrale Lage.",
-      "found_at": "2026-03-26T19:57:37.889169"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Privater Büroraum für 2 Person in Regus Königstraße",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-koenigstrasse/3204515246-277-9283",
-      "price_eur": 669.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nFinden Sie ein Zuhause für...",
-      "listing_id": "a041305670fb",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-27T10:07:30.446443"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
@@ -2101,6 +2077,32 @@
       "ai_score": 4,
       "ai_summary": "Prüfe die Anzeige für Details.",
       "found_at": "2026-06-24T18:54:34.639180"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Traum-Office mit Dachterrasse, Blick in's Grüne & Gemeinschaftsküche mitten im Stuttgarter Norden",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/traum-office-mit-dachterrasse-blick-in-s-gruene-gemeinschaftskueche-mitten-im-stuttgarter-norden/3370420303-277-9289",
+      "price_eur": 990.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Suchst du einen inspirierenden Arbeitsplatz, der Dir mehr bietet als nur vier Wände und einen...",
+      "listing_id": "c943c7346959",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-06-25T10:17:44.574208"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 1 Person in Regus City Plaza",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-1-person-in-regus-city-plaza/3204514732-277-9596",
+      "price_eur": 559.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Konzentrieren Sie sich mit einem professionellen Büro nur für Sie auf den Erfolg Ihres...",
+      "listing_id": "dee9be822287",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-25T10:17:44.579786"
     }
   ]
 }
