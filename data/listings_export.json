@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T09:31:43.609153",
-  "total_listings": 150,
+  "last_updated": "2026-06-27T18:10:36.833291",
+  "total_listings": 147,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,58 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3364934506-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "daa416efdfea",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-03-27T19:32:48.141294"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büro zur Untermiete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-zur-untermiete/3364628077-277-9289",
-      "price_eur": 575.0,
-      "area_sqm": null,
-      "district": "70174 Stuttgart-​Mitte",
-      "description": "Wir vermieten 2 wunderschöne und helle über Glaswände abgetrennte Arbeitsplätze in unserem Büro im...",
-      "listing_id": "f183e1682c28",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-27T19:32:48.161980"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Untervermietung: Büro 50 m² in Top-Lage Stuttgart beim Gerber",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/untervermietung-buero-50-m-in-top-lage-stuttgart-beim-gerber/3367028054-277-9599",
-      "price_eur": 1200.0,
-      "area_sqm": 50.0,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Als Immobilienmakler mit Schwerpunkt auf Bestandsimmobilien im Wohnbereich biete ich einen Teil...",
-      "listing_id": "1302d262ce0c",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-29T18:03:02.484821"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Make Up Bereich / Kosmetikbereich Untermiete Kosmetikstudio",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/make-up-bereich-kosmetikbereich-untermiete-kosmetikstudio/3366394554-277-9286",
-      "price_eur": 300.0,
-      "area_sqm": null,
-      "district": "70184 Stuttgart-​Ost",
-      "description": "Wir vermieten einen vollständig ausgestatteten Make-up Bereich in unserem Kosmetikstudio.\nKann auch...",
-      "listing_id": "d0d0b934c124",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-03-29T18:03:02.501848"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
@@ -1973,6 +1921,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-06-25T19:08:34.407063"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Lebensmittelladen ca 110qm in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/lebensmittelladen-ca-110qm-in-stuttgart/3445007517-277-9291",
+      "price_eur": 1400.0,
+      "area_sqm": 110.0,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Objektbeschreibung : Lebensmittelladen mit ca 120qm. Nutzfläche, Terrasse, Garten, zwei...",
+      "listing_id": "72e1647762fe",
+      "ai_score": 6,
+      "ai_summary": "Fairer Preis. mit Terrasse.",
+      "found_at": "2026-06-27T18:10:33.342966"
     }
   ]
 }
