@@ -166,7 +166,10 @@
     "62f6212e19a3583ba343e0f077ac2575": "2026-06-25T10:17:44.574208",
     "338ea539bda35408764421f9242ee931": "2026-06-25T10:17:44.579786",
     "b4682010fad9c72241c3daee3a33ddf4": "2026-06-25T19:08:34.407063",
-    "c74156b737232e9ae3c962b39cf7e386": "2026-06-27T18:10:33.342966"
+    "c74156b737232e9ae3c962b39cf7e386": "2026-06-27T18:10:33.342966",
+    "65bb86ef6dd4f46ecc07c341da3fc970": "2026-06-28T18:10:17.804647",
+    "9fc3c364ad1328a6af7357659232a703": "2026-06-28T18:10:17.805906",
+    "a2637973e23ab1e9c32b232e0fb0be45": "2026-06-28T18:10:17.809423"
   },
   "listings": [
     {
@@ -2079,6 +2082,45 @@
       "ai_score": 6,
       "ai_summary": "Fairer Preis. mit Terrasse.",
       "found_at": "2026-06-27T18:10:33.342966"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helles Atelier im Lehenviertel - Offene Arbeitsplätze 1",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-atelier-im-lehenviertel-offene-arbeitsplaetze-1/3441944311-277-9281",
+      "price_eur": 200.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "(Objekt-Nr.: 220228 EJ)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene Arbeitsplätze...",
+      "listing_id": "ca0248589391",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-06-28T18:10:17.804647"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuttgart West: Privates Büro mit Küche, Besprechungszimmer & Kaffee-Flatrate",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuttgart-west-privates-buero-mit-kueche-besprechungszimmer-kaffee-flatrate/3441933697-277-9284",
+      "price_eur": 485.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 223411 CI)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "8c1dc48c213c",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-28T18:10:17.805906"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "50 m² Tagungsraum / Seminarraum langfristig zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/50-m-tagungsraum-seminarraum-langfristig-zu-vermieten/3445729591-277-9284",
+      "price_eur": 50.0,
+      "area_sqm": 50.0,
+      "district": "70176 Stuttgart-​West",
+      "description": "Liebe Interessentinnen und Interessenten,\n\nwir suchen einen zuverlässigen, langfristigen Mieter für...",
+      "listing_id": "462d553561be",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-28T18:10:17.809423"
     }
   ]
 }
