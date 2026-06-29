@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T18:10:22.427451",
-  "total_listings": 150,
+  "last_updated": "2026-06-29T12:03:48.327772",
+  "total_listings": 147,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,71 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3367965189-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "793ece0a4283",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-03-30T19:59:48.505242"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Eventlocation Stuttgart-Ost **Gablenberg**",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/eventlocation-stuttgart-ost-gablenberg-/3026793460-277-9285",
-      "price_eur": 400.0,
-      "area_sqm": null,
-      "district": "70186 Stuttgart-​Ost",
-      "description": "EVENTRAUM STUTTGART – IHRE LOCATION FÜR UNVERGESSLICHE EVENTS\n\nWillkommen im Eventraum Stuttgart,...",
-      "listing_id": "a0822832d9aa",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-03-30T19:59:48.519445"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Privater Büroraum für 2 Person in Regus Friedrichstrasse",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-friedrichstrasse/3204514927-277-9289",
-      "price_eur": 489.0,
-      "area_sqm": null,
-      "district": "70174 Stuttgart-​Mitte",
-      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nUnser dynamischer...",
-      "listing_id": "153b0af7ae6c",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-31T10:35:52.080505"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Stuttgart West: Privates Büro mit Küche, Besprechungszimmer & Kaffee-Flatrate",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/stuttgart-west-privates-buero-mit-kueche-besprechungszimmer-kaffee-flatrate/3368297018-277-9284",
-      "price_eur": 485.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "(Objekt-Nr.: 223411 BW)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
-      "listing_id": "4714a2bbbb91",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-03-31T10:35:52.082731"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Traum-Aussichtsbüro mit Vollausstattung – nette Kollegen inklusive",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/traum-aussichtsbuero-mit-vollausstattung-nette-kollegen-inklusive/3368275651-277-9287",
-      "price_eur": 1100.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "(Objekt-Nr.: 225441 CJ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
-      "listing_id": "a2f37cb59363",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-31T10:35:52.083684"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Exklusiver Studio-/Salonraum im Barbershop zu vermieten",
@@ -1973,6 +1908,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-28T18:10:17.809423"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Shishabar Automatenfrei in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/shishabar-automatenfrei-in-stuttgart/3361097092-277-9287",
+      "price_eur": 2000.0,
+      "area_sqm": 60.0,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Beschreibung\nObjektbeschreibung : Shishabar mit ca 60qm Gastraum. Terrasse, Damen WC, Herren WC,...",
+      "listing_id": "3c8a71fc6e65",
+      "ai_score": 8,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-06-29T12:03:44.063656"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Flex-Arbeitsplatz direkt auf der Königstraße - 24/7, möbliert, Parken, Konferenz",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/flex-arbeitsplatz-direkt-auf-der-koenigstrasse-24-7-moebliert-parken-konferenz/3441933942-277-9283",
+      "price_eur": 299.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 223440 AOO)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Flex...",
+      "listing_id": "4a6444429f64",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-06-29T12:03:44.078343"
     }
   ]
 }
