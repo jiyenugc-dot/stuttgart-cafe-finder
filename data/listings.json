@@ -171,7 +171,8 @@
     "9fc3c364ad1328a6af7357659232a703": "2026-06-28T18:10:17.805906",
     "a2637973e23ab1e9c32b232e0fb0be45": "2026-06-28T18:10:17.809423",
     "6310439ec91904373c15c133207be363": "2026-06-29T12:03:44.063656",
-    "68a64ff1884a6015d4bd083d3f9fbcdf": "2026-06-29T12:03:44.078343"
+    "68a64ff1884a6015d4bd083d3f9fbcdf": "2026-06-29T12:03:44.078343",
+    "6250254b377efed4395780ff7066d09e": "2026-06-29T19:06:44.323879"
   },
   "listings": [
     {
@@ -2084,6 +2085,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-06-29T12:03:44.078343"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum in Stuttgart-West: schön und ruhig",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-in-stuttgart-west-schoen-und-ruhig/3446626610-277-9295",
+      "price_eur": 480.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Vermiete einen Praxisraum in bestehender Praxis - z.B. für Supervision, Coaching, Beratung,...",
+      "listing_id": "e7ca5c62122f",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-29T19:06:44.323879"
     }
   ]
 }
