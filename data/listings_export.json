@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T19:06:49.204163",
-  "total_listings": 148,
+  "last_updated": "2026-06-30T10:34:04.896413",
+  "total_listings": 149,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,32 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Exklusiver Studio-/Salonraum im Barbershop zu vermieten",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusiver-studio-salonraum-im-barbershop-zu-vermieten/3368997692-277-9599",
-      "price_eur": 800.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Exklusiver Studio-/Salonraum im Barbershop zu vermieten\n\nZur Vermietung steht ein hochwertig...",
-      "listing_id": "d38af256011a",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-03-31T19:58:46.504613"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "DHL Paketshop Partner:in mit eigenem Laden gesucht",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/dhl-paketshop-partner-in-mit-eigenem-laden-gesucht/3252398311-277-9284",
-      "price_eur": 1.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "Jetzt anrufen unter 0961 3818 2882.\n\nDu hast schon ein Geschäft, z.B. einen Kiosk oder...",
-      "listing_id": "d8b5b074625f",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-03-31T19:58:46.519352"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Privater Büroraum für 2 Person in Regus City Plaza",
@@ -1947,6 +1921,45 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-06-29T19:06:44.323879"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Provisionsfrei, moderne Bürofläche am Feuersee - Stuttgart-West nutzbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/provisionsfrei-moderne-bueroflaeche-am-feuersee-stuttgart-west-nutzbar/3446930945-277-9284",
+      "price_eur": 900.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 224581 TT)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "ea3624a5b857",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-06-30T10:34:00.000558"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Hochwertiges Büro im historischen Königsbau Stuttgart - flexibel nutzbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hochwertiges-buero-im-historischen-koenigsbau-stuttgart-flexibel-nutzbar/3446299106-277-9283",
+      "price_eur": 1599.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218349 QB)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum M...",
+      "listing_id": "a83bdd8d2ed0",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-06-30T10:34:00.007567"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Stuhlmiete (Friseur)",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-friseur-/3446966197-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Dein eigener Friseursalon – ohne die Risiken eines eigenen Salons\n\nDu träumst von der...",
+      "listing_id": "b5ee6de0a377",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-06-30T10:34:00.023908"
     }
   ]
 }
