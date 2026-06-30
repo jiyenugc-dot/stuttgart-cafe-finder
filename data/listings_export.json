@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T10:34:04.896413",
-  "total_listings": 149,
+  "last_updated": "2026-06-30T18:59:59.526100",
+  "total_listings": 148,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,32 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Privater Büroraum für 2 Person in Regus City Plaza",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-2-person-in-regus-city-plaza/3204514725-277-9599",
-      "price_eur": 709.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Legen Sie jetzt los in einem bezugsfertigen Büroraum für zwei Personen.\n\nBauen Sie Ihr...",
-      "listing_id": "ceadd19493ec",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-04-01T10:38:06.163211"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Bäckerei Produktion",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/baeckerei-produktion/3369296308-277-9287",
-      "price_eur": 1000.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "Es wird ein vollständig ausgestatteter Produktionsplatz für die Herstellung von Backwaren...",
-      "listing_id": "0ef570ec0518",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-04-01T10:38:06.178376"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Büroraum in Stuttgart Mitte",
@@ -1960,6 +1934,19 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-06-30T10:34:00.023908"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "FRISURSALON / KOSMETIK / LADEN",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/frisursalon-kosmetik-laden/3447254106-277-9284",
+      "price_eur": 1750.0,
+      "area_sqm": 40.0,
+      "district": "70176 Stuttgart-​West",
+      "description": "Zu vermieten ist ein Gewerberaum mit ca. 40 m² in sehr guter Lage. Mit extrem hoher...",
+      "listing_id": "ae28b3b8420d",
+      "ai_score": 5,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-West.",
+      "found_at": "2026-06-30T18:59:54.739940"
     }
   ]
 }
