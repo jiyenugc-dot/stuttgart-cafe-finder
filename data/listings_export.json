@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T10:45:12.924463",
+  "last_updated": "2026-07-01T19:01:57.169281",
   "total_listings": 148,
   "search_config": {
     "city": "Stuttgart",
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büroraum in Stuttgart Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-stuttgart-mitte-/3369821088-277-9287",
-      "price_eur": 850.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "Büroraum – flexibel & voll ausgestattet (ab April)\n\nDu suchst einen ruhigen und funktionalen...",
-      "listing_id": "32c60263e6ce",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-04-01T20:01:50.320627"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Modernes 1-zimmer-Apartment in Stuttgart city center ab 01.06.202",
@@ -1947,6 +1934,19 @@
       "ai_score": 5,
       "ai_summary": "Am oberen Preislimit. Stuttgart-West.",
       "found_at": "2026-06-30T18:59:54.739940"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Handyreparaturgeschäft gegen Ablöse",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handyreparaturgeschaeft-gegen-abloese/3447999057-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Bitte nur ernsthafte Interessenten. Anfragen werden ausschließlich beantwortet, wenn ein echtes...",
+      "listing_id": "ae17ace8eaa3",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage. Achtung: Ablöse erforderlich.",
+      "found_at": "2026-07-01T19:01:53.171182"
     }
   ]
 }
