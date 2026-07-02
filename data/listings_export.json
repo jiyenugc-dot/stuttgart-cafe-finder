@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T19:01:57.169281",
+  "last_updated": "2026-07-02T10:12:55.495498",
   "total_listings": 148,
   "search_config": {
     "city": "Stuttgart",
@@ -24,32 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Modernes 1-zimmer-Apartment in Stuttgart city center ab 01.06.202",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/modernes-1-zimmer-apartment-in-stuttgart-city-center-ab-01-06-202/3357502316-277-9295",
-      "price_eur": 900.0,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Modernes 1-Zimmer-Apartment in Stuttgart West | ab 01.06.2026\nBeschreibung:\nIch vermiete ein helles...",
-      "listing_id": "a0d5243745ac",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-04-02T19:53:35.037632"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Cafébar S-Süd: KEINE ABLÖSE – Voll möbliert!",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-bar-s-sued-keine-abloese-voll-moebliert-/3370985970-277-9292",
-      "price_eur": 1300.0,
-      "area_sqm": null,
-      "district": "70199 Stuttgart-​Süd",
-      "description": "Objektbeschreibung:\nNutzen Sie diese seltene Gelegenheit im begehrten Stuttgarter Süden!\nZur...",
-      "listing_id": "ab8b91a623eb",
-      "ai_score": 8,
-      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich. Achtung: Ablöse erforderlich.",
-      "found_at": "2026-04-03T10:02:23.788787"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Ladenfläche In Stuttgart",
@@ -1947,6 +1921,32 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage. Achtung: Ablöse erforderlich.",
       "found_at": "2026-07-01T19:01:53.171182"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Tanz-/Yogaraum mieten Stuttgart Ost",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/tanz-yogaraum-mieten-stuttgart-ost/3448684297-277-9285",
+      "price_eur": 30.0,
+      "area_sqm": 75.0,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "Charmanter Raum, ca 75 qm, im denkmalgeschützten Gebäude stunden-/tageweise zu mieten....",
+      "listing_id": "cc9f9656273d",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-07-02T10:12:51.304229"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Zimmervermietung im Charmanten Altbaubüro",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zimmervermietung-im-charmanten-altbaubuero/3448677064-277-9290",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Objektbeschreibung\n\nDas denkmalgeschützte Gründerzeitgebäude aus dem Jahr 1891 wurde 2023...",
+      "listing_id": "f3961bb54cdc",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-02T10:12:51.311473"
     }
   ]
 }
