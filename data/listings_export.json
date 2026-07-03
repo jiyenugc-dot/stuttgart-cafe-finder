@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T10:08:47.538222",
-  "total_listings": 148,
+  "last_updated": "2026-07-03T18:17:16.265270",
+  "total_listings": 149,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1947,6 +1947,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-02T10:12:51.311473"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Freier Platz in 3-er Bürogemeinschaft in S-West - 230 Euro/Monat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/freier-platz-in-3-er-buerogemeinschaft-in-s-west-230-euro-monat/3414636494-277-9284",
+      "price_eur": 230.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo!\nIn unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "e5e945ac4a30",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-03T18:17:12.719868"
     }
   ]
 }
