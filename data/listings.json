@@ -180,7 +180,8 @@
     "a4b319e3f347dbd03efd5cc14c1db9df": "2026-07-01T19:01:53.171182",
     "c08687d116254f275389264a655d43eb": "2026-07-02T10:12:51.304229",
     "0ac54ab517b1f5502508772678640de7": "2026-07-02T10:12:51.311473",
-    "e74638a782e113e13386083052671ffc": "2026-07-03T18:17:12.719868"
+    "e74638a782e113e13386083052671ffc": "2026-07-03T18:17:12.719868",
+    "d48f405a9c8fa0e1dbe57e4ed1f7f49b": "2026-07-04T18:07:26.068899"
   },
   "listings": [
     {
@@ -2119,6 +2120,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-03T18:17:12.719868"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 230,- Atelier",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-230-atelier/3450242036-277-9284",
+      "price_eur": 230.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "efeedf39ae71",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-04T18:07:26.068899"
     }
   ]
 }
