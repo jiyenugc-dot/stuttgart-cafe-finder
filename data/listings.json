@@ -181,22 +181,11 @@
     "c08687d116254f275389264a655d43eb": "2026-07-02T10:12:51.304229",
     "0ac54ab517b1f5502508772678640de7": "2026-07-02T10:12:51.311473",
     "e74638a782e113e13386083052671ffc": "2026-07-03T18:17:12.719868",
-    "d48f405a9c8fa0e1dbe57e4ed1f7f49b": "2026-07-04T18:07:26.068899"
+    "d48f405a9c8fa0e1dbe57e4ed1f7f49b": "2026-07-04T18:07:26.068899",
+    "1931c2ebb8f7117bd002f5f5041ae1c1": "2026-07-05T18:09:55.885007",
+    "cb80c063f1b95102a8733e91b7b90e0f": "2026-07-05T18:09:55.908217"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Ladenfläche In Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche-in-stuttgart/3373584588-277-9290",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70197 Stuttgart-​West",
-      "description": "Hochwertiger Friseursalon in Stuttgart sucht Nachmieter.\n\n- Verfügbar ab Juli oder August 2026\n-...",
-      "listing_id": "eba1d7c953e2",
-      "ai_score": 6,
-      "ai_summary": "Stuttgart-West.",
-      "found_at": "2026-04-06T10:40:38.951157"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
@@ -2133,6 +2122,32 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-04T18:07:26.068899"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Heller, ruhiger Büroraum Alte Weinsteige – Strom & Internet inkl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/heller-ruhiger-bueroraum-alte-weinsteige-strom-internet-inkl-/3419140668-277-9281",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Zur Vermietung steht ein freier Büroraum in einer ruhigen 3er-Bürogemeinschaft in der Alten...",
+      "listing_id": "b8bd07fa1371",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-07-05T18:09:55.885007"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro, Event, Film,Foto Location ab 50qm, stunden/monatsw. S-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-event-film-foto-location-ab-50qm-stunden-monatsw-s-mitte/3451088805-277-9289",
+      "price_eur": null,
+      "area_sqm": 50.0,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "www.workshophaus-stuttgart.de\n\nFlexibel arbeiten – genau so, wie Sie es brauchen!\nSie suchen...",
+      "listing_id": "cea52eaf79fb",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-07-05T18:09:55.908217"
     }
   ]
 }
