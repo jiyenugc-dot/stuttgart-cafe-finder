@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T11:41:03.861730",
+  "last_updated": "2026-07-06T19:01:04.339074",
   "total_listings": 151,
   "search_config": {
     "city": "Stuttgart",
@@ -24,45 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3373614906-277-9283",
-      "price_eur": 1990.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "(Objekt-Nr.: 224397 ZE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
-      "listing_id": "018f6c02f363",
-      "ai_score": 7,
-      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
-      "found_at": "2026-04-07T10:38:08.396707"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3374742450-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "807c8622f5ee",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-07T10:38:08.401478"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Praxisraum zur Untermiete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete/3374679536-277-9290",
-      "price_eur": 450.0,
-      "area_sqm": null,
-      "district": "70197 Stuttgart-​West",
-      "description": "In unserer neu gegründeten Praxisgemeinschaft für Psychotherapie ist ab dem 15.04. ein Raum zur...",
-      "listing_id": "7b88e075d14c",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-04-07T10:38:08.412800"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Wohnung / Gewerbefläche",
@@ -1986,6 +1947,45 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-07-05T18:09:55.908217"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 5 Person in Regus City Plaza",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-5-person-in-regus-city-plaza/3204514735-277-9596",
+      "price_eur": 1679.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Erhalten Sie Zugang zu einem hellen und inspirierenden Büroraum, der darauf ausgelegt ist, Teams...",
+      "listing_id": "b7f5a0844147",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
+      "found_at": "2026-07-06T19:00:59.057898"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helle Gewerbefläche 64qm Nähe Feuersee, Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-gewerbeflaeche-64qm-naehe-feuersee-stuttgart-west/3452615985-277-9284",
+      "price_eur": 1650.0,
+      "area_sqm": 64.0,
+      "district": "70176 Stuttgart-​West",
+      "description": "Helle Gewerbefläche mit Schaufenstern in Stuttgart-West – 64 m² – Nähe Feuersee\nSenefelderstraße...",
+      "listing_id": "d11d9fe1cb21",
+      "ai_score": 8,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-West.",
+      "found_at": "2026-07-06T19:00:59.063550"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in Stuttgart-Ost am Stöckach ab 17:30 Uhr zur Miete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-stuttgart-ost-am-stoeckach-ab-17-30-uhr-zur-miete/3362926288-277-9291",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "In unserer Einrichtung in Stuttgart-Ost am Stöckach vermieten wir 4 gepflegte Räume zur...",
+      "listing_id": "830b35870eec",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-07-06T19:00:59.077402"
     }
   ]
 }
