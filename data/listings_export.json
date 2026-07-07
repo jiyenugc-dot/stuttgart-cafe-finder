@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T19:01:04.339074",
+  "last_updated": "2026-07-07T10:28:52.825618",
   "total_listings": 151,
   "search_config": {
     "city": "Stuttgart",
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Wohnung / Gewerbefläche",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-gewerbeflaeche-/3375312750-277-9295",
-      "price_eur": 1600.0,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Zur Vermietung steht eine hochwertig sanierte und vielseitig nutzbare Einheit im Herzen von...",
-      "listing_id": "1b2fb8ecf8e5",
-      "ai_score": 7,
-      "ai_summary": "Fairer Preis. Stuttgart-West.",
-      "found_at": "2026-04-07T20:00:18.136569"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Privater Büroraum für 4 Person in Regus Königstraße",
@@ -1986,6 +1973,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-07-06T19:00:59.077402"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kursraum Stundenweise Anmieten Stuttgart Ost",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kursraum-stundenweise-anmieten-stuttgart-ost-/3453042694-277-9282",
+      "price_eur": 30.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Liebe Interessenten,\n\nwir vermieten unseren komplett NEU renovierten Kursraum/...",
+      "listing_id": "10d94621d819",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-07-07T10:28:47.483800"
     }
   ]
 }
