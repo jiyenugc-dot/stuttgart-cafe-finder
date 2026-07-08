@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T19:06:36.928060",
-  "total_listings": 151,
+  "last_updated": "2026-07-08T09:29:31.313802",
+  "total_listings": 157,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -1986,6 +1986,84 @@
       "ai_score": 6,
       "ai_summary": "Stuttgart-Süd.",
       "found_at": "2026-07-07T19:06:32.797564"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Heller Schreibtischplatz im Industrie-Loft für Kreative in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/heller-schreibtischplatz-im-industrie-loft-fuer-kreative-in-stuttgart/3452750043-277-9289",
+      "price_eur": 300.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 209619 EB)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Ein heller...",
+      "listing_id": "f2d04b8a6644",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-07-08T09:29:27.234372"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Helles Büro im Zentrum Stuttgart - bis zu 7 Arbeitsplätze inklusive Küche",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-buero-im-zentrum-stuttgart-bis-zu-7-arbeitsplaetze-inklusive-kueche/3452747995-277-9596",
+      "price_eur": 930.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "(Objekt-Nr.: 223235 WW)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "7fc659e0bf5c",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-07-08T09:29:27.235619"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Insel für zwei: Moderner Flexdesk in Stuttgart-West - 24/7 Zugang, 2 Monitore",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/insel-fuer-zwei-moderner-flexdesk-in-stuttgart-west-24-7-zugang-2-monitore/3452744049-277-9284",
+      "price_eur": 299.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 225931 DJ)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Insel für...",
+      "listing_id": "f5550130d4eb",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-08T09:29:27.236871"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Behandlungsraum zur Miete im Kosmetikstudio",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/behandlungsraum-zur-miete-im-kosmetikstudio/3453729449-277-9281",
+      "price_eur": 10.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Sind Sie auf der Suche nach einem gemütlichen und hervorragend gelegenen Raum, um Ihre Kundinnen...",
+      "listing_id": "76fd907889ea",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-07-08T09:29:27.239299"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusives Büro 1-2 Personen mit Rathausblick - Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusives-buero-1-2-personen-mit-rathausblick-stuttgart/3451994652-277-9283",
+      "price_eur": 1290.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 ADP)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Exklusives...",
+      "listing_id": "74ac1015cad6",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-07-08T09:29:27.241734"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Ihre Marke im Mittelpunkt",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ihre-marke-im-mittelpunkt/3312654158-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Objektbeschreibung:\nIn einem der angesagtesten und sehr strak frequentierten Shoppingcenter der...",
+      "listing_id": "7ff89235b0d5",
+      "ai_score": 7,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-07-08T09:29:27.250252"
     }
   ]
 }
