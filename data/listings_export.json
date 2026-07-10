@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T18:52:49.395859",
-  "total_listings": 157,
+  "last_updated": "2026-07-10T10:26:50.893222",
+  "total_listings": 154,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,58 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Privater Büroraum für 4 Person in Regus City Plaza",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-4-person-in-regus-city-plaza/3204514746-277-9599",
-      "price_eur": 1289.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Buchen Sie ein voll ausgestattetes Büro für vier Personen und wir stellen sicher, dass alles...",
-      "listing_id": "c5f273b1a259",
-      "ai_score": 9,
-      "ai_summary": "Fairer Preis. zentrale Lage.",
-      "found_at": "2026-04-09T10:46:42.565975"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Helle Büros in Stuttgart ALL IN MIETE nur noch 2 verfügbar",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-bueros-in-stuttgart-all-in-miete-nur-noch-2-verfuegbar/3376419053-277-9282",
-      "price_eur": 595.0,
-      "area_sqm": null,
-      "district": "70188 Stuttgart-​Ost",
-      "description": "Helle Büros in Stuttgart-Zuffenhausen – All-in-Miete | Nur noch 2 verfügbar!\n\nJetzt schnell sein:...",
-      "listing_id": "939da4cab2fa",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-04-09T10:46:42.596972"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Stuhlmiete in Stuttgart-West",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-in-stuttgart-west/3376807865-277-9290",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70197 Stuttgart-​West",
-      "description": "Friseurstuhl zu vermieten - Kreatives Kollektiv\nim Herzen von Stuttgart .\nDu bist Friseur*in,...",
-      "listing_id": "942e937f0ecb",
-      "ai_score": 6,
-      "ai_summary": "Stuttgart-West.",
-      "found_at": "2026-04-09T20:09:11.335299"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3377369667-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "12cfb65ae70a",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-10T10:35:32.503878"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
@@ -2064,6 +2012,19 @@
       "ai_score": 7,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-07-08T09:29:27.250252"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum in Bürogemeinschaft in zentraler Lage in Stuttgart-West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-buerogemeinschaft-in-zentraler-lage-in-stuttgart-west/3455288849-277-9288",
+      "price_eur": 570.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "In unserer Bürogemeinschaft im Stuttgarter Westen (Haltestelle S-Bahn Feuersee in unmittelbarer...",
+      "listing_id": "3e3fd87f0256",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-10T10:26:46.409176"
     }
   ]
 }
