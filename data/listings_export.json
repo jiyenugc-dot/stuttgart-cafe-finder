@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T18:25:41.600442",
-  "total_listings": 154,
+  "last_updated": "2026-07-11T08:52:35.100777",
+  "total_listings": 155,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2025,6 +2025,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-10T10:26:46.409176"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerbefläche / Tattoo Studio zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerbeflaeche-tattoo-studio-zur-untermiete/3456005367-277-9295",
+      "price_eur": 680.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Gewerblich nutzbarer Raum zur Untermiete.\n\nWir sind ein kleiner Secondhand Laden in Stuttgart West...",
+      "listing_id": "14d2381062c9",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-11T08:52:30.476304"
     }
   ]
 }
