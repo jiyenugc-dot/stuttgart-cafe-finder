@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T10:32:20.700304",
+  "last_updated": "2026-07-13T18:46:34.187986",
   "total_listings": 154,
   "search_config": {
     "city": "Stuttgart",
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3381346391-277-9288",
-      "price_eur": 595.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​West",
-      "description": "(Objekt-Nr.: 223235 UB)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
-      "listing_id": "d0342ba62aa5",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-04-14T10:52:11.843747"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Kellerraum in Stuttgart Ost zu vermieten!",
@@ -2025,6 +2012,19 @@
       "ai_score": 6,
       "ai_summary": "Stuttgart-Süd.",
       "found_at": "2026-07-13T10:32:16.153865"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "GÜNSTIGER ATELIER- / BÜRO- ODER STUDIORAUM zur MIETE in S-WEST.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/guenstiger-atelier-buero-oder-studioraum-zur-miete-in-s-west-/3458224207-277-9284",
+      "price_eur": 575.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Du bist auf der Suche nach einem Raum wo Du konzentriert an Deiner Musik, Kunst oder sonstigen...",
+      "listing_id": "93f99b17c613",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-13T18:46:30.676953"
     }
   ]
 }
