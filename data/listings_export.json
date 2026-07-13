@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T18:02:52.582459",
-  "total_listings": 155,
+  "last_updated": "2026-07-13T10:32:20.700304",
+  "total_listings": 154,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,32 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3380372112-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "92fabfec54d7",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-12T19:28:40.876475"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Kosmetikstudio zu übernehmen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetikstudio-zu-uebernehmen/3375817557-277-9286",
-      "price_eur": 1.0,
-      "area_sqm": null,
-      "district": "70184 Stuttgart-​Ost",
-      "description": "Kosmetikstudio im Zentrum von Stuttgart zur Übernahme(mit Mietvertrag).\n\nAufgrund eines Umzugs wird...",
-      "listing_id": "77ce7c7e0963",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-04-12T19:28:40.882391"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
@@ -2038,6 +2012,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-11T08:52:30.476304"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kiosk in Stuttgart-Süd sofort abzugeben",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kiosk-in-stuttgart-sued-sofort-abzugeben/3457644847-277-9596",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Beschreibung\nNachfolger für etablierten Kiosk mit Lottoannahmestelle in Gute-Lage gesucht\n\nZum...",
+      "listing_id": "b516994f295f",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-Süd.",
+      "found_at": "2026-07-13T10:32:16.153865"
     }
   ]
 }
