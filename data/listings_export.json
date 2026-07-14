@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T18:46:34.187986",
-  "total_listings": 154,
+  "last_updated": "2026-07-14T09:09:26.465462",
+  "total_listings": 155,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Kellerraum in Stuttgart Ost zu vermieten!",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/kellerraum-in-stuttgart-ost-zu-vermieten-/3382010043-277-9282",
-      "price_eur": 50.0,
-      "area_sqm": null,
-      "district": "70188 Stuttgart-​Ost",
-      "description": "Ich vermiete einen sehr kleinen Kellerraum,\nin Stuttgart-Ost (Nähe Ostendplatz).\n\nDer Raum eignet...",
-      "listing_id": "e2ac44215c5d",
-      "ai_score": 6,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-04-14T20:15:40.293645"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "ladenfläche",
@@ -2025,6 +2012,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-13T18:46:30.676953"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "2er Tischinsel im ruhigen Loftbüro Stuttgart - Bürogemeinschaft Gerberviertel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2er-tischinsel-im-ruhigen-loftbuero-stuttgart-buerogemeinschaft-gerberviertel/3458378376-277-9288",
+      "price_eur": 660.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 215927 CU)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 2er...",
+      "listing_id": "e6eff5a63a5d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-14T09:09:22.573604"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum S ab: 5. Etage, private Terrasse, All-Inclusive, sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-s-ab-5-etage-private-terrasse-all-inclusive-sofort-verfuegbar/3457677860-277-9283",
+      "price_eur": 909.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218337 ARI)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
+      "listing_id": "4edee414290f",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-07-14T09:09:22.580987"
     }
   ]
 }

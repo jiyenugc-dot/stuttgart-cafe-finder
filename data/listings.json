@@ -199,22 +199,11 @@
     "7c63e04e517d622f3e283075d86fd33e": "2026-07-10T10:26:46.409176",
     "aef39366024a842f3b23c97699a017fb": "2026-07-11T08:52:30.476304",
     "5e93aed1fad98a8d960508d001aa1109": "2026-07-13T10:32:16.153865",
-    "2016f668699b33cf53888123de6cdad8": "2026-07-13T18:46:30.676953"
+    "2016f668699b33cf53888123de6cdad8": "2026-07-13T18:46:30.676953",
+    "df1ced60b199434db99107c8edfea861": "2026-07-14T09:09:22.573604",
+    "c5082ee6096aaff1fe994eda3c6e6c6f": "2026-07-14T09:09:22.580987"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Kellerraum in Stuttgart Ost zu vermieten!",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/kellerraum-in-stuttgart-ost-zu-vermieten-/3382010043-277-9282",
-      "price_eur": 50.0,
-      "area_sqm": null,
-      "district": "70188 Stuttgart-​Ost",
-      "description": "Ich vermiete einen sehr kleinen Kellerraum,\nin Stuttgart-Ost (Nähe Ostendplatz).\n\nDer Raum eignet...",
-      "listing_id": "e2ac44215c5d",
-      "ai_score": 6,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-04-14T20:15:40.293645"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "ladenfläche",
@@ -2203,6 +2192,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-13T18:46:30.676953"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "2er Tischinsel im ruhigen Loftbüro Stuttgart - Bürogemeinschaft Gerberviertel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/2er-tischinsel-im-ruhigen-loftbuero-stuttgart-buerogemeinschaft-gerberviertel/3458378376-277-9288",
+      "price_eur": 660.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 215927 CU)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 2er...",
+      "listing_id": "e6eff5a63a5d",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-14T09:09:22.573604"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum S ab: 5. Etage, private Terrasse, All-Inclusive, sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-s-ab-5-etage-private-terrasse-all-inclusive-sofort-verfuegbar/3457677860-277-9283",
+      "price_eur": 909.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218337 ARI)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
+      "listing_id": "4edee414290f",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-07-14T09:09:22.580987"
     }
   ]
 }
