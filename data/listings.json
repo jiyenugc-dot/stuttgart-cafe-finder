@@ -201,7 +201,8 @@
     "5e93aed1fad98a8d960508d001aa1109": "2026-07-13T10:32:16.153865",
     "2016f668699b33cf53888123de6cdad8": "2026-07-13T18:46:30.676953",
     "df1ced60b199434db99107c8edfea861": "2026-07-14T09:09:22.573604",
-    "c5082ee6096aaff1fe994eda3c6e6c6f": "2026-07-14T09:09:22.580987"
+    "c5082ee6096aaff1fe994eda3c6e6c6f": "2026-07-14T09:09:22.580987",
+    "a7a33cfb40c714def2cfa639aa6ede53": "2026-07-14T18:09:32.740676"
   },
   "listings": [
     {
@@ -2218,6 +2219,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
       "found_at": "2026-07-14T09:09:22.580987"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 3 Person in Regus Königstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-3-person-in-regus-koenigstrasse/3204515233-277-9283",
+      "price_eur": 819.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Produktiver Arbeitsplatz für drei Personen, bei dem Sie sich um nichts mehr kümmern müssen.\nDieses...",
+      "listing_id": "864e32afbf7a",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-07-14T18:09:32.740676"
     }
   ]
 }
