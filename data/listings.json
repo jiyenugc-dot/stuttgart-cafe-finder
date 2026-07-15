@@ -202,22 +202,11 @@
     "2016f668699b33cf53888123de6cdad8": "2026-07-13T18:46:30.676953",
     "df1ced60b199434db99107c8edfea861": "2026-07-14T09:09:22.573604",
     "c5082ee6096aaff1fe994eda3c6e6c6f": "2026-07-14T09:09:22.580987",
-    "a7a33cfb40c714def2cfa639aa6ede53": "2026-07-14T18:09:32.740676"
+    "a7a33cfb40c714def2cfa639aa6ede53": "2026-07-14T18:09:32.740676",
+    "5be2913ea9500235bda8e662c3eecda4": "2026-07-15T18:13:08.404662",
+    "caf444d7363b920e8c34d1c1ae5bea00": "2026-07-15T18:13:08.418660"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "ladenfläche",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenflaeche/3382734941-277-9292",
-      "price_eur": 500.0,
-      "area_sqm": null,
-      "district": "70199 Stuttgart-​Süd",
-      "description": "Vermiete ein Zimmer Raum warm keine Stromkosten und keine Nebenkosten für 400 euro. Für...",
-      "listing_id": "29c917e2d920",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-15T20:11:09.647794"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Gewerbefläche / Kleinbüro kernsaniert erstbezug",
@@ -2232,6 +2221,32 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-07-14T18:09:32.740676"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Komplett eingerichtete Küche , Lieferdienst zur Miete oder übern",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/komplett-eingerichtete-kueche-lieferdienst-zur-miete-oder-uebern/3459555278-277-9287",
+      "price_eur": 2000.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Komplett eingerichtete Küche für Lieferdienst zum Vermieten oder Übernehmen.\nFür nähere...",
+      "listing_id": "d591dd126d90",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-07-15T18:13:08.404662"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Bar Lounge in Stuttgart Mitte zur Miete oder Übernahme",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bar-lounge-in-stuttgart-mitte-zur-miete-oder-uebernahme/3459545167-277-9287",
+      "price_eur": 2000.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Super schöne Bar/Lounge in Stuttgart Mitte zu vermieten oder übernehmen.\nDie Bar ist komplett...",
+      "listing_id": "38631d386f2b",
+      "ai_score": 6,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-07-15T18:13:08.418660"
     }
   ]
 }
