@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T09:20:01.039456",
-  "total_listings": 157,
+  "last_updated": "2026-07-16T18:11:34.175861",
+  "total_listings": 158,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2064,6 +2064,19 @@
       "ai_score": 6,
       "ai_summary": "Am oberen Preislimit. zentrale Lage.",
       "found_at": "2026-07-15T18:13:08.418660"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxis- und Behandlungsraum in Gemeinschaftspraxis am Rotebühlpla",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxis-und-behandlungsraum-in-gemeinschaftspraxis-am-rotebuehlpla/3460500172-277-9288",
+      "price_eur": 730.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Zur Vermietung steht ein moderner und gepflegter Praxis- bzw. Behandlungsraum in einer bestehenden...",
+      "listing_id": "7e12b13dda1e",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-16T18:11:29.831224"
     }
   ]
 }
