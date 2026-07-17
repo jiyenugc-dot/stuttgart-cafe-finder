@@ -206,7 +206,8 @@
     "5be2913ea9500235bda8e662c3eecda4": "2026-07-15T18:13:08.404662",
     "caf444d7363b920e8c34d1c1ae5bea00": "2026-07-15T18:13:08.418660",
     "320bc9aec811710b45a68d01e66c784a": "2026-07-16T18:11:29.831224",
-    "a3932b51ee6ada6321773231545e1b3e": "2026-07-17T09:14:36.709749"
+    "a3932b51ee6ada6321773231545e1b3e": "2026-07-17T09:14:36.709749",
+    "92e00fa7b3c101855d3e725141c6a941": "2026-07-17T18:11:17.676749"
   },
   "listings": [
     {
@@ -2275,6 +2276,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West. Erdgeschoss.",
       "found_at": "2026-07-17T09:14:36.709749"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "** Praxis, Studio oder Büro zu vermieten – flexibel nutzbare, attraktive Gewerbeeinheit **",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-praxis-studio-oder-buero-zu-vermieten-flexibel-nutzbare-attraktive-gewerbeeinheit-/3277050684-277-9295",
+      "price_eur": 1627.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "In einem modernen, 2023 errichteten Gebäude wird eine exklusive Gewerbeeinheit im Erdgeschoss zur...",
+      "listing_id": "dd3232979382",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-West. Erdgeschoss.",
+      "found_at": "2026-07-17T18:11:17.676749"
     }
   ]
 }
