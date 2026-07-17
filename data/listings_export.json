@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T18:11:34.175861",
-  "total_listings": 158,
+  "last_updated": "2026-07-17T09:14:41.771130",
+  "total_listings": 159,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2077,6 +2077,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-16T18:11:29.831224"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "*Bestens etablierter Gewerbestandort* Stilvoller Friseusalon mit besonderem Flair im hippen Westen!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-bestens-etablierter-gewerbestandort-stilvoller-friseusalon-mit-besonderem-flair-im-hippen-westen-/3448951713-277-9290",
+      "price_eur": 1200.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Zur Vermietung kommt eine äußerst attraktive und modernisierte Gewerbeeinheit im Erdgeschoss eines...",
+      "listing_id": "540d8bced6dc",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West. Erdgeschoss.",
+      "found_at": "2026-07-17T09:14:36.709749"
     }
   ]
 }

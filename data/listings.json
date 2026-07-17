@@ -205,7 +205,8 @@
     "a7a33cfb40c714def2cfa639aa6ede53": "2026-07-14T18:09:32.740676",
     "5be2913ea9500235bda8e662c3eecda4": "2026-07-15T18:13:08.404662",
     "caf444d7363b920e8c34d1c1ae5bea00": "2026-07-15T18:13:08.418660",
-    "320bc9aec811710b45a68d01e66c784a": "2026-07-16T18:11:29.831224"
+    "320bc9aec811710b45a68d01e66c784a": "2026-07-16T18:11:29.831224",
+    "a3932b51ee6ada6321773231545e1b3e": "2026-07-17T09:14:36.709749"
   },
   "listings": [
     {
@@ -2261,6 +2262,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-16T18:11:29.831224"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "*Bestens etablierter Gewerbestandort* Stilvoller Friseusalon mit besonderem Flair im hippen Westen!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-bestens-etablierter-gewerbestandort-stilvoller-friseusalon-mit-besonderem-flair-im-hippen-westen-/3448951713-277-9290",
+      "price_eur": 1200.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Zur Vermietung kommt eine äußerst attraktive und modernisierte Gewerbeeinheit im Erdgeschoss eines...",
+      "listing_id": "540d8bced6dc",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West. Erdgeschoss.",
+      "found_at": "2026-07-17T09:14:36.709749"
     }
   ]
 }
