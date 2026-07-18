@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T08:52:30.161421",
-  "total_listings": 160,
+  "last_updated": "2026-07-18T18:00:14.745502",
+  "total_listings": 161,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2103,6 +2103,19 @@
       "ai_score": 7,
       "ai_summary": "Am oberen Preislimit. Stuttgart-West. Erdgeschoss.",
       "found_at": "2026-07-17T18:11:17.676749"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum im Heusteigviertel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-im-heusteigviertel/3462142685-277-9281",
+      "price_eur": 390.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Ich suche ab sofort eine Untermieterin/ einen Untermieter für meinen angemieteten Praxisraum...",
+      "listing_id": "c353667d4cd1",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-07-18T18:00:10.189305"
     }
   ]
 }
