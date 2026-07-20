@@ -210,22 +210,11 @@
     "92e00fa7b3c101855d3e725141c6a941": "2026-07-17T18:11:17.676749",
     "1413a52c34061b19696d66f19640dadb": "2026-07-18T18:00:10.189305",
     "1e399608df88f236b30d212c89222aa7": "2026-07-20T10:17:33.411570",
-    "626c59f2c3345724999337a3db28f95d": "2026-07-20T10:17:33.417701"
+    "626c59f2c3345724999337a3db28f95d": "2026-07-20T10:17:33.417701",
+    "c13b6c146c2662123ad26d5e3f38cfca": "2026-07-20T18:58:03.944551",
+    "56054e6da032c36c7b13e030641466f3": "2026-07-20T18:58:03.951703"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Stuttgart: Moderner Büroraum S ab - All-Inclusive, 24/7 Zugang, Dachterrasse",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/stuttgart-moderner-bueroraum-s-ab-all-inclusive-24-7-zugang-dachterrasse/3386964407-277-9289",
-      "price_eur": 869.0,
-      "area_sqm": null,
-      "district": "70174 Stuttgart-​Mitte",
-      "description": "(Objekt-Nr.: 218355 AGZ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
-      "listing_id": "25186f98bd90",
-      "ai_score": 10,
-      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
-      "found_at": "2026-04-21T10:55:09.351797"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Stuhlmiete (Friseur)",
@@ -2305,6 +2294,32 @@
       "ai_score": 5,
       "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
       "found_at": "2026-07-20T10:17:33.417701"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Arbeiten und Wohnen in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/arbeiten-und-wohnen-in-stuttgart/3463895774-277-9286",
+      "price_eur": 1400.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Wohnungen und Arbeiten an der Gänsheide mit Aussicht über Stuttgart.\nDas Objekt befindet sich im 1....",
+      "listing_id": "23be8907f2f8",
+      "ai_score": 6,
+      "ai_summary": "Fairer Preis.",
+      "found_at": "2026-07-20T18:58:03.944551"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum in einer Praxis-Gemeinschaft im Zentrum Stuttgarts",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-in-einer-praxis-gemeinschaft-im-zentrum-stuttgarts/3463792885-277-9283",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Direkt im Zentrum mit hervorragenden Anbindungen an öffentliche Verkehrsmittel und umliegenden...",
+      "listing_id": "2dcbb5e50161",
+      "ai_score": 8,
+      "ai_summary": "zentrale Lage.",
+      "found_at": "2026-07-20T18:58:03.951703"
     }
   ]
 }
