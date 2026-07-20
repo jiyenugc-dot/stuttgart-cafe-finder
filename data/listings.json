@@ -208,35 +208,11 @@
     "320bc9aec811710b45a68d01e66c784a": "2026-07-16T18:11:29.831224",
     "a3932b51ee6ada6321773231545e1b3e": "2026-07-17T09:14:36.709749",
     "92e00fa7b3c101855d3e725141c6a941": "2026-07-17T18:11:17.676749",
-    "1413a52c34061b19696d66f19640dadb": "2026-07-18T18:00:10.189305"
+    "1413a52c34061b19696d66f19640dadb": "2026-07-18T18:00:10.189305",
+    "1e399608df88f236b30d212c89222aa7": "2026-07-20T10:17:33.411570",
+    "626c59f2c3345724999337a3db28f95d": "2026-07-20T10:17:33.417701"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Gewerbefläche / Kleinbüro kernsaniert erstbezug",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerbeflaeche-kleinbuero-kernsaniert-erstbezug/3387299558-277-9281",
-      "price_eur": 800.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Objektbeschreibung\nDiese modern gestaltete Gewerbeeinheit präsentiert sich nach umfassender...",
-      "listing_id": "d088855d8609",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-20T11:53:50.940949"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Helles Atelier im Lehenviertel Stuttgart - Offene Arbeitsplätze 1",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/helles-atelier-im-lehenviertel-stuttgart-offene-arbeitsplaetze-1/3381342010-277-9281",
-      "price_eur": 200.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "(Objekt-Nr.: 220228 DN)\nObjektkategorie: Schreibtischplatz\nTitel des Angebots: Offene Arbeitsplätze...",
-      "listing_id": "5e9894efaa56",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-04-20T11:53:50.945555"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Stuttgart: Moderner Büroraum S ab - All-Inclusive, 24/7 Zugang, Dachterrasse",
@@ -2303,6 +2279,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-07-18T18:00:10.189305"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "1-Zimmer-Wohnung in Stuttgart-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-stuttgart-mitte/3463620751-277-9287",
+      "price_eur": 1150.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "1-Zimmer-Wohnung in Stuttgart-Mitte zu vermieten (ab Anfang August)\n\nAdresse: Alexanderstraße,...",
+      "listing_id": "8105e8d1a290",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-07-20T10:17:33.411570"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Top Gewerbefläche am Marienplatz",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-gewerbeflaeche-am-marienplatz/3463412685-277-9281",
+      "price_eur": 2000.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Zur Nachmiete biete ich eine repräsentative Gewerbefläche in bester Lage am Marienplatz an. Die...",
+      "listing_id": "bb24d71765f6",
+      "ai_score": 5,
+      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
+      "found_at": "2026-07-20T10:17:33.417701"
     }
   ]
 }
