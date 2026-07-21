@@ -212,7 +212,9 @@
     "1e399608df88f236b30d212c89222aa7": "2026-07-20T10:17:33.411570",
     "626c59f2c3345724999337a3db28f95d": "2026-07-20T10:17:33.417701",
     "c13b6c146c2662123ad26d5e3f38cfca": "2026-07-20T18:58:03.944551",
-    "56054e6da032c36c7b13e030641466f3": "2026-07-20T18:58:03.951703"
+    "56054e6da032c36c7b13e030641466f3": "2026-07-20T18:58:03.951703",
+    "34f4321e7b5eeaaf8d6a7f8bcc426167": "2026-07-21T09:31:31.992211",
+    "be31fcb9ee55ee00a97373a4203a44c1": "2026-07-21T09:31:31.995774"
   },
   "listings": [
     {
@@ -2320,6 +2322,32 @@
       "ai_score": 8,
       "ai_summary": "zentrale Lage.",
       "found_at": "2026-07-20T18:58:03.951703"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Topbüro im Europaviertel Stuttgart – flexibel, möbliert, 24/7",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/topbuero-im-europaviertel-stuttgart-flexibel-moebliert-24-7/3464257104-277-9283",
+      "price_eur": 1290.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 213870 JV)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
+      "listing_id": "eccc5a84876f",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-07-21T09:31:31.992211"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusives Büro 1-2 Personen mit Rathausblick - Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusives-buero-1-2-personen-mit-rathausblick-stuttgart/3463505318-277-9283",
+      "price_eur": 1290.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AEH)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Exklusives...",
+      "listing_id": "244d9488c2d0",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-07-21T09:31:31.995774"
     }
   ]
 }
