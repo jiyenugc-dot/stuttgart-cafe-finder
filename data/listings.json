@@ -214,22 +214,10 @@
     "c13b6c146c2662123ad26d5e3f38cfca": "2026-07-20T18:58:03.944551",
     "56054e6da032c36c7b13e030641466f3": "2026-07-20T18:58:03.951703",
     "34f4321e7b5eeaaf8d6a7f8bcc426167": "2026-07-21T09:31:31.992211",
-    "be31fcb9ee55ee00a97373a4203a44c1": "2026-07-21T09:31:31.995774"
+    "be31fcb9ee55ee00a97373a4203a44c1": "2026-07-21T09:31:31.995774",
+    "5aacb09cc3a7081883bfeed9a0750a8d": "2026-07-22T09:31:30.874166"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Stuhlmiete (Friseur)",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/stuhlmiete-friseur-/3389215541-277-9283",
-      "price_eur": 999.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Ich biete dir die Möglichkeit, einen Stuhl in meinem Friseurstudio zu mieten. Das Studio ist seit...",
-      "listing_id": "10232016f7ef",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-04-22T20:14:30.154917"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
@@ -2348,6 +2336,19 @@
       "ai_score": 9,
       "ai_summary": "Fairer Preis. zentrale Lage.",
       "found_at": "2026-07-21T09:31:31.995774"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Charmantes Altbaubüro - Ideal für Praxen, Kosmetik und Co.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/charmantes-altbaubuero-ideal-fuer-praxen-kosmetik-und-co-/3465273856-277-9290",
+      "price_eur": 1500.0,
+      "area_sqm": null,
+      "district": "70197 Stuttgart-​West",
+      "description": "Objektbeschreibung\n\nDas denkmalgeschützte Gründerzeitgebäude aus dem Jahr 1891 wurde 2023...",
+      "listing_id": "e7abbcf2eb2c",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-07-22T09:31:30.874166"
     }
   ]
 }
