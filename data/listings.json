@@ -215,7 +215,8 @@
     "56054e6da032c36c7b13e030641466f3": "2026-07-20T18:58:03.951703",
     "34f4321e7b5eeaaf8d6a7f8bcc426167": "2026-07-21T09:31:31.992211",
     "be31fcb9ee55ee00a97373a4203a44c1": "2026-07-21T09:31:31.995774",
-    "5aacb09cc3a7081883bfeed9a0750a8d": "2026-07-22T09:31:30.874166"
+    "5aacb09cc3a7081883bfeed9a0750a8d": "2026-07-22T09:31:30.874166",
+    "d2718b855248daadcf9e069182428eb3": "2026-07-22T18:13:40.628438"
   },
   "listings": [
     {
@@ -2349,6 +2350,19 @@
       "ai_score": 7,
       "ai_summary": "Fairer Preis. Stuttgart-West.",
       "found_at": "2026-07-22T09:31:30.874166"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kreative Büro- & Studioräume in Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kreative-buero-studioraeume-in-stuttgart-mitte/3465661656-277-9288",
+      "price_eur": 500.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Moderne, voll möblierte Büro- & Studioräume in zentraler Lage in Stuttgart.\nMehrere Räume verfügbar...",
+      "listing_id": "f1d510f108fe",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-22T18:13:40.628438"
     }
   ]
 }
