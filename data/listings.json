@@ -218,22 +218,10 @@
     "5aacb09cc3a7081883bfeed9a0750a8d": "2026-07-22T09:31:30.874166",
     "d2718b855248daadcf9e069182428eb3": "2026-07-22T18:13:40.628438",
     "a5d66cd6ecc1d2e165ea15d28e8b2266": "2026-07-24T09:25:47.762460",
-    "c812444a55a0f5039bd4267dbc5c92cb": "2026-07-27T10:48:34.661557"
+    "c812444a55a0f5039bd4267dbc5c92cb": "2026-07-27T10:48:34.661557",
+    "5f1d7cf3a39f7cd97ce70d1b95a6189e": "2026-07-27T18:26:48.599743"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Ladenlokal Reisebüro zu übergeben",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ladenlokal-reisebuero-zu-uebergeben-/3394478384-277-9283",
-      "price_eur": 1.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Preis: VHB\nOrt: Stuttgart-Plieningen\n\nBeschreibung\n\nNach über 30 Jahren Betrieb gebe ich mein...",
-      "listing_id": "4c3a5c7a172b",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-04-28T18:21:57.826609"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Cafébar in Stuttgart-Süd zu vermieten",
@@ -2248,6 +2236,19 @@
       "ai_score": 6,
       "ai_summary": "Am oberen Preislimit. zentrale Lage.",
       "found_at": "2026-07-27T10:48:34.661557"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Freier Platz in 3-er Bürogemeinschaft in S-West - 230 Euro/Monat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/freier-platz-in-3-er-buerogemeinschaft-in-s-west-230-euro-monat/3469799682-277-9284",
+      "price_eur": 230.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Hallo! \nIn unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
+      "listing_id": "0367f7e5349b",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-27T18:26:48.599743"
     }
   ]
 }
