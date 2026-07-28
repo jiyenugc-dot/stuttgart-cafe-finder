@@ -219,7 +219,8 @@
     "d2718b855248daadcf9e069182428eb3": "2026-07-22T18:13:40.628438",
     "a5d66cd6ecc1d2e165ea15d28e8b2266": "2026-07-24T09:25:47.762460",
     "c812444a55a0f5039bd4267dbc5c92cb": "2026-07-27T10:48:34.661557",
-    "5f1d7cf3a39f7cd97ce70d1b95a6189e": "2026-07-27T18:26:48.599743"
+    "5f1d7cf3a39f7cd97ce70d1b95a6189e": "2026-07-27T18:26:48.599743",
+    "30599d0cf84c988e83fa17e3a30e5860": "2026-07-28T09:39:52.702187"
   },
   "listings": [
     {
@@ -2249,6 +2250,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-27T18:26:48.599743"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Flexibles, voll ausgestattetes Büro S in Stuttgart – sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/flexibles-voll-ausgestattetes-buero-s-in-stuttgart-sofort-verfuegbar/3470199261-277-9288",
+      "price_eur": 869.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "(Objekt-Nr.: 218351 AGE)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
+      "listing_id": "314d3cb6e0fe",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-28T09:39:52.702187"
     }
   ]
 }
