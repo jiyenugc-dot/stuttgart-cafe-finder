@@ -220,22 +220,10 @@
     "a5d66cd6ecc1d2e165ea15d28e8b2266": "2026-07-24T09:25:47.762460",
     "c812444a55a0f5039bd4267dbc5c92cb": "2026-07-27T10:48:34.661557",
     "5f1d7cf3a39f7cd97ce70d1b95a6189e": "2026-07-27T18:26:48.599743",
-    "30599d0cf84c988e83fa17e3a30e5860": "2026-07-28T09:39:52.702187"
+    "30599d0cf84c988e83fa17e3a30e5860": "2026-07-28T09:39:52.702187",
+    "3d7b08ffba979b3bb6d865af8ca7e8ab": "2026-07-29T09:42:36.623577"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Cafébar in Stuttgart-Süd zu vermieten",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-bar-in-stuttgart-sued-zu-vermieten/3395690904-277-9292",
-      "price_eur": 1350.0,
-      "area_sqm": null,
-      "district": "70199 Stuttgart-​Süd",
-      "description": "Objektbeschreibung:\nNutzen Sie diese seltene Gelegenheit im begehrten Stuttgarter Süden!\nZur...",
-      "listing_id": "5e636b161588",
-      "ai_score": 9,
-      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
-      "found_at": "2026-04-30T09:21:02.006606"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Mieter in Bürogemeinschaft gesucht",
@@ -2263,6 +2251,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-28T09:39:52.702187"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum Stuttgart-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-stuttgart-mitte/3471172793-277-9287",
+      "price_eur": 145.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Ich suche eine Nachmieterin oder einen Nachmieter für einen wunderschönen Therapieraum in Stuttgart...",
+      "listing_id": "006c66e2cf0b",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-07-29T09:42:36.623577"
     }
   ]
 }
