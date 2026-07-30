@@ -224,7 +224,8 @@
     "3d7b08ffba979b3bb6d865af8ca7e8ab": "2026-07-29T09:42:36.623577",
     "7f23f68c56dee6e912e8b8e5cea3b5c0": "2026-07-29T18:11:04.338441",
     "ac68e89225da5864496bfbeea5bb5db7": "2026-07-30T09:34:26.052021",
-    "62d2695ddc9ace8de14720d1468e68b7": "2026-07-30T09:34:26.074835"
+    "62d2695ddc9ace8de14720d1468e68b7": "2026-07-30T09:34:26.074835",
+    "cb47fcfa51b262d9a79b4bd970ddcf4b": "2026-07-30T18:22:06.340974"
   },
   "listings": [
     {
@@ -2293,6 +2294,19 @@
       "ai_score": 6,
       "ai_summary": "Stuttgart-Süd.",
       "found_at": "2026-07-30T09:34:26.074835"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 3 Person in Regus Friedrichstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-3-person-in-regus-friedrichstrasse/3204514920-277-9289",
+      "price_eur": 769.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Produktiver Arbeitsplatz für drei Personen, bei dem Sie sich um nichts mehr kümmern müssen.\nDieses...",
+      "listing_id": "46349dcc6ebb",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-07-30T18:22:06.340974"
     }
   ]
 }
