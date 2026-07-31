@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T09:49:12.901291",
-  "total_listings": 161,
+  "last_updated": "2026-07-31T18:24:04.618068",
+  "total_listings": 162,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Kosmetikraum zur Zwischenmiete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetikraum-zur-zwischenmiete/3397697400-277-9597",
-      "price_eur": 625.0,
-      "area_sqm": null,
-      "district": "70184 Stuttgart-​Süd",
-      "description": "Hallo Zusammen, aufgrund meiner baldigen Babypause suche ich eine nette Dame, welche für circa 6...",
-      "listing_id": "5ffb91f6db39",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-02T17:52:15.646854"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Top Lage in Stuttgart West - nähe Zentrum, ideal für Studenten",
@@ -2116,6 +2103,32 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-07-31T09:49:08.760106"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum in Stuttgart-West: hell und ruhig",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-in-stuttgart-west-hell-und-ruhig/3472965714-277-9295",
+      "price_eur": 360.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Vermiete Praxisraum, für Beratung, Psychotherapie HP, Supervision, Coaching o.ä.\nDie Praxis mit...",
+      "listing_id": "a4d9b185b27a",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-31T18:24:00.709780"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerberaum Stuttgart-West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerberaum-stuttgart-west/3472781180-277-9284",
+      "price_eur": 595.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Wir suchen einen Nachmieter für unseren Gewerberaum in der Johannesstraße in Stuttgart-West -...",
+      "listing_id": "0b55f938525f",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-07-31T18:24:00.715871"
     }
   ]
 }
