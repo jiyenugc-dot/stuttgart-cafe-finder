@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T18:22:10.087984",
-  "total_listings": 160,
+  "last_updated": "2026-07-31T09:49:12.901291",
+  "total_listings": 161,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2103,6 +2103,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-07-30T18:22:06.340974"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Heller Büroraum Alte Weinsteige Stuttgart-Süd",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/heller-bueroraum-alte-weinsteige-stuttgart-sued/3472666125-277-9281",
+      "price_eur": 350.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Zur Vermietung steht ein heller Büroraum in einer ruhigen 3er-Bürogemeinschaft in der Alten...",
+      "listing_id": "47d35462f598",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-07-31T09:49:08.760106"
     }
   ]
 }
