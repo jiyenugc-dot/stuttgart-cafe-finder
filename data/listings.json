@@ -228,7 +228,8 @@
     "cb47fcfa51b262d9a79b4bd970ddcf4b": "2026-07-30T18:22:06.340974",
     "c4c8fea957972892a88295640f5dfcdc": "2026-07-31T09:49:08.760106",
     "1b15fec826bdd41347d3632c382a5fe7": "2026-07-31T18:24:00.709780",
-    "1f732f303b8533320351df97d84f0ddc": "2026-07-31T18:24:00.715871"
+    "1f732f303b8533320351df97d84f0ddc": "2026-07-31T18:24:00.715871",
+    "45daeffcb07a521cfdb8952a655a8ef8": "2026-08-01T09:10:40.714396"
   },
   "listings": [
     {
@@ -2336,6 +2337,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-07-31T18:24:00.715871"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "CoWorking - Arbeitsplatz/ Geschäftsadresse/ Büro Stuttgart Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-buero-stuttgart-mitte/3473278212-277-9281",
+      "price_eur": 159.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
+      "listing_id": "1cccf081033a",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-01T09:10:40.714396"
     }
   ]
 }
