@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:03:44.588322",
+  "last_updated": "2026-08-02T09:14:18.319937",
   "total_listings": 163,
   "search_config": {
     "city": "Stuttgart",
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Top Lage in Stuttgart West - nähe Zentrum, ideal für Studenten",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/top-lage-in-stuttgart-west-naehe-zentrum-ideal-fuer-studenten/3398822480-277-9284",
-      "price_eur": 700.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "Einzug: 15.05.\n\n1-Zimmer-Wohnung in Bestlage direkt am Berliner Platz, vollständig möbliert und...",
-      "listing_id": "da6ea3f0359c",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-03T17:52:19.814164"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Helle Gewerbefläche / Büro / Showroom Ludwigsburg /Weststadt",
@@ -2142,6 +2129,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-08-01T09:10:40.714396"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Privater Büroraum für 1 Person in Regus Königstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/privater-bueroraum-fuer-1-person-in-regus-koenigstrasse/3204515245-277-9283",
+      "price_eur": 699.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Konzentrieren Sie sich mit einem professionellen Büro nur für Sie auf den Erfolg Ihres...",
+      "listing_id": "5711c4de7b0b",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-02T09:14:14.663110"
     }
   ]
 }
