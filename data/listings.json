@@ -230,22 +230,10 @@
     "1b15fec826bdd41347d3632c382a5fe7": "2026-07-31T18:24:00.709780",
     "1f732f303b8533320351df97d84f0ddc": "2026-07-31T18:24:00.715871",
     "45daeffcb07a521cfdb8952a655a8ef8": "2026-08-01T09:10:40.714396",
-    "a2947fa5b395ba6c7f2a21ab83fb89ca": "2026-08-02T09:14:14.663110"
+    "a2947fa5b395ba6c7f2a21ab83fb89ca": "2026-08-02T09:14:14.663110",
+    "a51703c3d0a34ae2365b9937d7372cda": "2026-08-02T18:04:05.141917"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Helle Gewerbefläche / Büro / Showroom Ludwigsburg /Weststadt",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-gewerbeflaeche-buero-showroom-ludwigsburg-weststadt/3399251294-277-9598",
-      "price_eur": 1850.0,
-      "area_sqm": null,
-      "district": "70569 Stuttgart-​Süd",
-      "description": "Ich biete hier attraktive Gewerberäume zur Untermiete oder kompletten Übernahme an. Die Räume sind...",
-      "listing_id": "d7ab8939775b",
-      "ai_score": 5,
-      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd.",
-      "found_at": "2026-05-04T09:27:47.645496"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Praxisraum Stuttgart",
@@ -2351,6 +2339,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-02T09:14:14.663110"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Arbeitsplätze Stuttgart-Mitte",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/arbeitsplaetze-stuttgart-mitte/3474729166-277-9288",
+      "price_eur": 600.0,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Ehemalige Druckerei, Tübingerstraße/ Ecke Paulinenstrasse , 2. Reihe, sehr ruhiger Innenhof,...",
+      "listing_id": "7d6e41bef7a1",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-08-02T18:04:05.141917"
     }
   ]
 }
