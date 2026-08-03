@@ -231,48 +231,11 @@
     "1f732f303b8533320351df97d84f0ddc": "2026-07-31T18:24:00.715871",
     "45daeffcb07a521cfdb8952a655a8ef8": "2026-08-01T09:10:40.714396",
     "a2947fa5b395ba6c7f2a21ab83fb89ca": "2026-08-02T09:14:14.663110",
-    "a51703c3d0a34ae2365b9937d7372cda": "2026-08-02T18:04:05.141917"
+    "a51703c3d0a34ae2365b9937d7372cda": "2026-08-02T18:04:05.141917",
+    "4c5d8cb5183886267e75e2f83c1b2aee": "2026-08-03T10:49:04.825668",
+    "1a19451cfd285ac57c36e30d2ab0e6fb": "2026-08-03T10:49:04.839899"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Praxisraum Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-stuttgart/3399493208-277-9599",
-      "price_eur": 650.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Heller Praxisraum in Stuttgart Zentrum zu vermieten geeignet für Tätigkeiten im Bereich Kosmetik,...",
-      "listing_id": "9bf543a05f61",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-04T18:21:38.664013"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Exklusive Bürolösungen mit Dachterrasse für 1-2 Arbeitsplätze in Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-bueroloesungen-mit-dachterrasse-fuer-1-2-arbeitsplaetze-in-stuttgart/3399179557-277-9283",
-      "price_eur": 1490.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "(Objekt-Nr.: 224397 AAN)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
-      "listing_id": "0ef13aefd6d3",
-      "ai_score": 10,
-      "ai_summary": "Fairer Preis. zentrale Lage. mit Terrasse.",
-      "found_at": "2026-05-05T09:11:57.608090"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Mieter in Bürogemeinschaft gesucht",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/mieter-in-buerogemeinschaft-gesucht/3400018006-277-9596",
-      "price_eur": 650.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Süd",
-      "description": "Für unsere Büroräumlichkeiten in der Tübinger Str. suchen wir Interessenten zur Miete ab...",
-      "listing_id": "4594632cc7d2",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-05T09:11:57.614094"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Café / Bäckerei zu Vermieten (Bad Cannstatt / Anna Klinik )",
@@ -2352,6 +2315,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-08-02T18:04:05.141917"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Repräsentative Gewerbefläche in Bestlage am Bihlplatz – Erstbezug",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/repraesentative-gewerbeflaeche-in-bestlage-am-bihlplatz-erstbezug/3475283413-277-9292",
+      "price_eur": 1300.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Liebe Interessentinnen,\n\nModerne und Altbaucharakter treffen aufeinander. Hell, sichtbar, flexibel...",
+      "listing_id": "7a8cf9cf160b",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-03T10:49:04.825668"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Nachmieter/in für Stuhlmiete gesucht",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-in-fuer-stuhlmiete-gesucht/3475107014-277-9286",
+      "price_eur": 400.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Ost",
+      "description": "Nachmieter/in für Stuhlmiete gesucht – 400 € warm/Monat\n\nIch suche ab sofort oder nach...",
+      "listing_id": "66fb0a95dd07",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-08-03T10:49:04.839899"
     }
   ]
 }
