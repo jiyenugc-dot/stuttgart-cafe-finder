@@ -233,7 +233,8 @@
     "a2947fa5b395ba6c7f2a21ab83fb89ca": "2026-08-02T09:14:14.663110",
     "a51703c3d0a34ae2365b9937d7372cda": "2026-08-02T18:04:05.141917",
     "4c5d8cb5183886267e75e2f83c1b2aee": "2026-08-03T10:49:04.825668",
-    "1a19451cfd285ac57c36e30d2ab0e6fb": "2026-08-03T10:49:04.839899"
+    "1a19451cfd285ac57c36e30d2ab0e6fb": "2026-08-03T10:49:04.839899",
+    "f509e4b328e34bc3b097185fb03ff7e1": "2026-08-03T18:52:57.463303"
   },
   "listings": [
     {
@@ -2341,6 +2342,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-08-03T10:49:04.839899"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Räume in etabliertem Studio zu vermieten -Tattoo,Friseur,Kosmetik",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-in-etabliertem-studio-zu-vermieten-tattoo-friseur-kosmetik/3475559560-277-9596",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Wir vermieten mehrere gepflegte und helle Räume in unserem etablierten Studio in...",
+      "listing_id": "ed7140474275",
+      "ai_score": 7,
+      "ai_summary": "Stuttgart-Süd.",
+      "found_at": "2026-08-03T18:52:57.463303"
     }
   ]
 }
