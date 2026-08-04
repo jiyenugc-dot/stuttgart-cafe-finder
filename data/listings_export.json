@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T09:42:07.121471",
-  "total_listings": 164,
+  "last_updated": "2026-08-04T18:42:19.168889",
+  "total_listings": 162,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,45 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Café / Bäckerei zu Vermieten (Bad Cannstatt / Anna Klinik )",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/caf-baeckerei-zu-vermieten-bad-cannstatt-anna-klinik-/3401522519-277-9292",
-      "price_eur": 1300.0,
-      "area_sqm": 65.0,
-      "district": "70199 Stuttgart-​Süd",
-      "description": "TOP Lage in Stuttgart – Voll ausgestatteter Laden (65 m²) – Perfekt für Café/Bäckerei oder...",
-      "listing_id": "0988e9ad4795",
-      "ai_score": 9,
-      "ai_summary": "Fairer Preis. Stuttgart-Süd. Gastro-Nutzung möglich.",
-      "found_at": "2026-05-06T18:23:52.780323"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Praxisraum zur Untermiete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-zur-untermiete/3401515428-277-9295",
-      "price_eur": 650.0,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Ich suche eine/n Untermieter/in für unsere psychotherapeutische...",
-      "listing_id": "6e4af4cd4f24",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-06T18:23:52.787069"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-bueroetage-mit-aufzug-in-der-marienstrasse-top-lage/3401340529-277-9288",
-      "price_eur": 1150.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​West",
-      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche in bester Lage.\n\nDie Einheit befindet...",
-      "listing_id": "1ae652792ac3",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-06T18:23:52.800665"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Lieferservice Restaurant Gastronomie  in Top Lage",
@@ -2155,6 +2116,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-08-04T09:42:02.419737"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxisraum Stuttgart Ost",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxisraum-stuttgart-ost/3476469977-277-9285",
+      "price_eur": 150.0,
+      "area_sqm": null,
+      "district": "70186 Stuttgart-​Ost",
+      "description": "Ab dem 01.08.2026 entsteht in Stuttgart-Ost eine hochwertige Praxisgemeinschaft für Therapie,...",
+      "listing_id": "46b58acc4a27",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-08-04T18:42:14.577767"
     }
   ]
 }
