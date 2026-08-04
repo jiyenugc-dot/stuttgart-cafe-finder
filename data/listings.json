@@ -234,7 +234,8 @@
     "a51703c3d0a34ae2365b9937d7372cda": "2026-08-02T18:04:05.141917",
     "4c5d8cb5183886267e75e2f83c1b2aee": "2026-08-03T10:49:04.825668",
     "1a19451cfd285ac57c36e30d2ab0e6fb": "2026-08-03T10:49:04.839899",
-    "f509e4b328e34bc3b097185fb03ff7e1": "2026-08-03T18:52:57.463303"
+    "f509e4b328e34bc3b097185fb03ff7e1": "2026-08-03T18:52:57.463303",
+    "56576182094d958f5e89a346dc31baff": "2026-08-04T09:42:02.419737"
   },
   "listings": [
     {
@@ -2355,6 +2356,19 @@
       "ai_score": 7,
       "ai_summary": "Stuttgart-Süd.",
       "found_at": "2026-08-03T18:52:57.463303"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro und Praxisräume zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-und-praxisraeume-zu-vermieten/3476057959-277-9282",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Teilbare Büroräume , sehr schön gelegen mit terasse und Garten Mitbenutzung",
+      "listing_id": "77b00a2add06",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-08-04T09:42:02.419737"
     }
   ]
 }

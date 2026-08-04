@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T18:53:01.426175",
-  "total_listings": 163,
+  "last_updated": "2026-08-04T09:42:07.121471",
+  "total_listings": 164,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2142,6 +2142,19 @@
       "ai_score": 7,
       "ai_summary": "Stuttgart-Süd.",
       "found_at": "2026-08-03T18:52:57.463303"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro und Praxisräume zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-und-praxisraeume-zu-vermieten/3476057959-277-9282",
+      "price_eur": 750.0,
+      "area_sqm": null,
+      "district": "70188 Stuttgart-​Ost",
+      "description": "Teilbare Büroräume , sehr schön gelegen mit terasse und Garten Mitbenutzung",
+      "listing_id": "77b00a2add06",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-08-04T09:42:02.419737"
     }
   ]
 }
