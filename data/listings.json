@@ -238,35 +238,10 @@
     "56576182094d958f5e89a346dc31baff": "2026-08-04T09:42:02.419737",
     "956916fb4590e123ad422aa8391de904": "2026-08-04T18:42:14.577767",
     "26152936c4968c6d9281731110a24d8d": "2026-08-05T18:26:58.033647",
-    "ebd1d1ef1608f98f3eeb9539532ae67e": "2026-08-05T18:26:58.035122"
+    "ebd1d1ef1608f98f3eeb9539532ae67e": "2026-08-05T18:26:58.035122",
+    "4291798335277bd460d47cb96c467b84": "2026-08-06T09:43:50.416763"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Lieferservice Restaurant Gastronomie  in Top Lage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/lieferservice-restaurant-gastronomie-in-top-lage/3402228512-277-9598",
-      "price_eur": 1800.0,
-      "area_sqm": null,
-      "district": "70569 Stuttgart-​Süd",
-      "description": "Wir vermieten unseren erfolgreichen Restaurant-Lieferservice in sehr guter Lage mit großem...",
-      "listing_id": "45e5fc6a2203",
-      "ai_score": 8,
-      "ai_summary": "Am oberen Preislimit. Stuttgart-Süd. Gastro-Nutzung möglich.",
-      "found_at": "2026-05-07T18:49:06.695029"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Junglez: Etablierte Schankwirtschaft zur Übernahme",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/junglez-etablierte-schankwirtschaft-zur-uebernahme/3402067740-277-9295",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Ich verkaufe meinen Laden, das Junglez in der Bebelstraße 83. Seit Oktober 2023 führe ich den...",
-      "listing_id": "6eca542eba20",
-      "ai_score": 6,
-      "ai_summary": "Stuttgart-West.",
-      "found_at": "2026-05-07T18:49:06.706318"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Platz in Atelier in Stuttgart West",
@@ -2372,6 +2347,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-08-05T18:26:58.035122"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Virtuelles Büro in Regus Friedrichstraße",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/virtuelles-buero-in-regus-friedrichstrasse/3204514914-277-9289",
+      "price_eur": 175.0,
+      "area_sqm": null,
+      "district": "70174 Stuttgart-​Mitte",
+      "description": "Bauen Sie Ihre Geschäftspräsenz schnell auf – mit einer sofortigen professionellen...",
+      "listing_id": "772292a82960",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-06T09:43:50.416763"
     }
   ]
 }
