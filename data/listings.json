@@ -239,7 +239,8 @@
     "956916fb4590e123ad422aa8391de904": "2026-08-04T18:42:14.577767",
     "26152936c4968c6d9281731110a24d8d": "2026-08-05T18:26:58.033647",
     "ebd1d1ef1608f98f3eeb9539532ae67e": "2026-08-05T18:26:58.035122",
-    "4291798335277bd460d47cb96c467b84": "2026-08-06T09:43:50.416763"
+    "4291798335277bd460d47cb96c467b84": "2026-08-06T09:43:50.416763",
+    "5d020b64a8c77ea0bb2d3bdfe32c5f92": "2026-08-07T08:18:18.030351"
   },
   "listings": [
     {
@@ -2360,6 +2361,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-06T09:43:50.416763"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Vielseitig nutzbare Gewerbeeinheit mit Lager- und Bürobereich nahe des Marienplatzes",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/vielseitig-nutzbare-gewerbeeinheit-mit-lager-und-buerobereich-nahe-des-marienplatzes/3472798323-277-9292",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Diese attraktive Gewerbeeinheit im Erdgeschoss eines Hinterhauses überzeugt durch eine praktische...",
+      "listing_id": "600993476b03",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd. Erdgeschoss.",
+      "found_at": "2026-08-07T08:18:18.030351"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T09:43:54.111755",
-  "total_listings": 163,
+  "last_updated": "2026-08-07T08:18:22.173042",
+  "total_listings": 164,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2142,6 +2142,19 @@
       "ai_score": 10,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-06T09:43:50.416763"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Vielseitig nutzbare Gewerbeeinheit mit Lager- und Bürobereich nahe des Marienplatzes",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/vielseitig-nutzbare-gewerbeeinheit-mit-lager-und-buerobereich-nahe-des-marienplatzes/3472798323-277-9292",
+      "price_eur": 800.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Diese attraktive Gewerbeeinheit im Erdgeschoss eines Hinterhauses überzeugt durch eine praktische...",
+      "listing_id": "600993476b03",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd. Erdgeschoss.",
+      "found_at": "2026-08-07T08:18:18.030351"
     }
   ]
 }
