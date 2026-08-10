@@ -240,87 +240,10 @@
     "26152936c4968c6d9281731110a24d8d": "2026-08-05T18:26:58.033647",
     "ebd1d1ef1608f98f3eeb9539532ae67e": "2026-08-05T18:26:58.035122",
     "4291798335277bd460d47cb96c467b84": "2026-08-06T09:43:50.416763",
-    "5d020b64a8c77ea0bb2d3bdfe32c5f92": "2026-08-07T08:18:18.030351"
+    "5d020b64a8c77ea0bb2d3bdfe32c5f92": "2026-08-07T08:18:18.030351",
+    "fa33c7aae0451ee755b89e5231deb770": "2026-08-10T17:54:10.339981"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Platz in Atelier in Stuttgart West",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/platz-in-atelier-in-stuttgart-west-/3404671304-277-9284",
-      "price_eur": 300.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "Wir haben ein schönes kleines Atelier im Stuttgarter Westen und suchen eine 3. Person, die einen...",
-      "listing_id": "ad0254440352",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-10T17:57:00.213568"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büroraum für Architekten/IT-Startups - direkt am HBF Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-fuer-architekten-it-startups-direkt-am-hbf-stuttgart/3405251932-277-9281",
-      "price_eur": 350.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Büroraum für Architekten, ITler & Startups 350€ all-in mitten in Stuttgart-Zentrum am...",
-      "listing_id": "d474d01d1e83",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-11T10:40:37.386051"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "SPÄTKAUF / KIOSK STGT WEST",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/spaetkauf-kiosk-stgt-west/3405675667-277-9284",
-      "price_eur": 1500.0,
-      "area_sqm": 40.0,
-      "district": "70176 Stuttgart-​West",
-      "description": "Zu vermieten ist ein kleiner Gewerberaum mit ca. 40 m² in guter Lage.\n\nDas Objekt eignet sich ideal...",
-      "listing_id": "f3b93f3878df",
-      "ai_score": 6,
-      "ai_summary": "Fairer Preis. Stuttgart-West.",
-      "found_at": "2026-05-11T19:02:22.357575"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Untermieterin für Beautydienstleistungen gesucht",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/untermieterin-fuer-beautydienstleistungen-gesucht/3405532588-277-9599",
-      "price_eur": 550.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Arbeitsplatz im Beauty Studio in Stuttgart zu vermieten\n\nFür mein Beauty Studio Senem Beauty in der...",
-      "listing_id": "2422578b08fb",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-11T19:02:22.377731"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3405077914-277-9283",
-      "price_eur": 1990.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "(Objekt-Nr.: 224397 AAX)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
-      "listing_id": "40f11c55a8f3",
-      "ai_score": 7,
-      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
-      "found_at": "2026-05-12T09:45:39.567329"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Coworking - Arbeitsplatz / Geschäftsadresse in  Büro in S-Mitte",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-s-mitte/3406090904-277-9281",
-      "price_eur": 159.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "576f06fb8576",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-12T09:45:39.582305"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "KOSMETIK STUDIO STUTTGART ZUR UNTERMIETE",
@@ -2374,6 +2297,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd. Erdgeschoss.",
       "found_at": "2026-08-07T08:18:18.030351"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Schöner Praxisraum zur Untermiete",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/schoener-praxisraum-zur-untermiete/3481456620-277-9281",
+      "price_eur": 150.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Wunderschöner heller Praxisraum / Yogastudio unterzuvermieten in Stuttgart Süd (Nähe...",
+      "listing_id": "82a8fe4d0e9d",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-10T17:54:10.339981"
     }
   ]
 }
