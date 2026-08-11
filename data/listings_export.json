@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T08:12:17.948109",
-  "total_listings": 159,
+  "last_updated": "2026-08-11T17:59:52.141164",
+  "total_listings": 160,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2090,6 +2090,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-08-10T17:54:10.339981"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "1-2 schöne Räume in Bürogemeinschaft zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-2-schoene-raeume-in-buerogemeinschaft-zu-vermieten/3481961202-277-9597",
+      "price_eur": 650.0,
+      "area_sqm": null,
+      "district": "70184 Stuttgart-​Süd",
+      "description": "in unserer Bürogemeinschaft im Stuttgarter Süden vermieten wir 1-2 schöne Räume für eine...",
+      "listing_id": "e3564f9525c1",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-11T17:59:48.668675"
     }
   ]
 }
