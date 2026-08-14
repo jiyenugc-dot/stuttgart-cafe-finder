@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T08:21:11.051020",
-  "total_listings": 160,
+  "last_updated": "2026-08-14T17:55:39.137501",
+  "total_listings": 158,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,45 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "KOSMETIK STUDIO STUTTGART ZUR UNTERMIETE",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/kosmetik-studio-stuttgart-zur-untermiete/3407202216-277-9295",
-      "price_eur": 650.0,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Modern, gepflegt und in einer top Lage mitten in Stuttgart-West! Super angebunden mit öffentlichen...",
-      "listing_id": "4e47cbcd0e7e",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-13T19:00:36.401127"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Studiofläche mit 65 m² in Stuttgart Süd",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/studioflaeche-mit-65-m-in-stuttgart-sued/3407133006-277-9281",
-      "price_eur": 990.0,
-      "area_sqm": 65.0,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Um uns zu vergrößern verlassen wir unseren geliebten Strohberg und suchen Nachmieter für diese...",
-      "listing_id": "11a14d870025",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-13T19:00:36.407990"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Top Gewerbefläche in Stuttgart-Stöckach-komplett kernsaniert!",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/top-gewerbeflaeche-in-stuttgart-stoeckach-komplett-kernsaniert-/3407862367-277-9291",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70190 Stuttgart-​Ost",
-      "description": "Zur Übernahme steht eine hochwertige und komplett kernsanierte Ladenfläche in absoluter Top-Lage in...",
-      "listing_id": "cebdf1e9e57b",
-      "ai_score": 5,
-      "ai_summary": "Prüfe die Anzeige für Details.",
-      "found_at": "2026-05-14T18:58:10.081944"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Partner für eine Bürogemeinschaft in Stuttgart im Zentrum gesucht",
@@ -2103,6 +2064,19 @@
       "ai_score": 7,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-08-11T17:59:48.668675"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Indoorspielplatz zum verkaufen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/indoorspielplatz-zum-verkaufen/3484501376-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Zum Verkauf steht ein bestehendes Geschäftskonzept im Bereich Indoorspielplatz mit Kinderbetreuung....",
+      "listing_id": "44254f41b49f",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-14T17:55:34.896628"
     }
   ]
 }
