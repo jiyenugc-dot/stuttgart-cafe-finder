@@ -243,22 +243,10 @@
     "5d020b64a8c77ea0bb2d3bdfe32c5f92": "2026-08-07T08:18:18.030351",
     "fa33c7aae0451ee755b89e5231deb770": "2026-08-10T17:54:10.339981",
     "cf933dca8be2d81ac0ab74e13cdbaf76": "2026-08-11T17:59:48.668675",
-    "f836cbbccfd896d0503390f3d6513071": "2026-08-14T17:55:34.896628"
+    "f836cbbccfd896d0503390f3d6513071": "2026-08-14T17:55:34.896628",
+    "a2669752bf6347407f32b7095e158e8c": "2026-08-16T07:36:34.147988"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Partner für eine Bürogemeinschaft in Stuttgart im Zentrum gesucht",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/partner-fuer-eine-buerogemeinschaft-in-stuttgart-im-zentrum-gesucht/3410865326-277-9283",
-      "price_eur": 350.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Gesucht: Unternehmer / Selbständiger zur Bürogemeinschaft in Stuttgart Zentrum\n\nIch suche...",
-      "listing_id": "84d6c8219900",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-17T18:01:51.855904"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Büroräume in zentraler Innenstadtlage",
@@ -2299,6 +2287,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-14T17:55:34.896628"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "HOTEL zur Pachtübernahme — Großraum Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hotel-zur-pachtuebernahme-grossraum-stuttgart/3485453301-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Etablierter Hotelbetrieb mit ca. 40 Zimmern in zentraler, verkehrsgünstig angebundener Lage sucht...",
+      "listing_id": "7351d147eda6",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-16T07:36:34.147988"
     }
   ]
 }
