@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T17:32:42.880054",
-  "total_listings": 158,
+  "last_updated": "2026-08-18T07:43:51.935304",
+  "total_listings": 154,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,71 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büroräume in zentraler Innenstadtlage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraeume-in-zentraler-innenstadtlage/3316550673-277-9596",
-      "price_eur": 535.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Süd",
-      "description": "In unserem Büro sind ab Juni Flächen zur Untervermietung verfügbar. Es handelt sich um moderne...",
-      "listing_id": "785950809a09",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-18T11:10:11.516158"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Zentrales Büro in Stuttgart mit Glaswänden – Platz für bis zu 7 Arbeitsplätze",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/zentrales-buero-in-stuttgart-mit-glaswaenden-platz-fuer-bis-zu-7-arbeitsplaetze/3412580900-277-9288",
-      "price_eur": 595.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​West",
-      "description": "(Objekt-Nr.: 223235 VF)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum...",
-      "listing_id": "2ebccdacc000",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-19T10:39:33.216844"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Lagerräume mit XXL Garage & Starkstrom + hohe Decke - 40 qm",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/lagerraeume-mit-xxl-garage-starkstrom-hohe-decke-40-qm/3412869575-277-9286",
-      "price_eur": 700.0,
-      "area_sqm": 40.0,
-      "district": "70184 Stuttgart-​Ost",
-      "description": "Die voll ausgestattete Basis für Ihr „Stilles Gewerbe“ – Sicher, Renoviert, Kraftvoll. In der...",
-      "listing_id": "27bc7d23a893",
-      "ai_score": 6,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-05-19T10:39:33.221554"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Toplage Stgt.-Mitte–möbl. Büro m.Balkon, All-Incl. allein. Nutzg.",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/toplage-stgt-mitte-moebl-buero-m-balkon-all-incl-allein-nutzg-/3413338247-277-9287",
-      "price_eur": 750.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "Stuttgart-Mitte (Neckartor) – Voll ausgestattetes Büro zur alleinigen Nutzung\nIn zentraler Lage von...",
-      "listing_id": "687d8d5eead6",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-19T19:08:00.034909"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büro in Bürogemeinschaft-Gemeinsam Arbeiten im Stuttgarter Westen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-in-buerogemeinschaft-gemeinsam-arbeiten-im-stuttgarter-westen/3413210835-277-9599",
-      "price_eur": 1400.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Gemeinsam Arbeiten im Stuttgarter Westen\n\nWir sind eine kleine Bürogemeinschaft aus einem...",
-      "listing_id": "f076b166c9eb",
-      "ai_score": 7,
-      "ai_summary": "Fairer Preis. zentrale Lage.",
-      "found_at": "2026-05-19T19:08:00.040857"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Raumvermietung",
@@ -2077,6 +2012,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-16T07:36:34.147988"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Raum in Gewerbegemeinschaft zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raum-in-gewerbegemeinschaft-zu-vermieten/3487470307-277-9295",
+      "price_eur": 620.0,
+      "area_sqm": null,
+      "district": "70193 Stuttgart-​West",
+      "description": "Raum in Gewerbegemeinschaft in Stuttgart West zu vermieten\n\nAb dem 1. Oktober wird in unserem...",
+      "listing_id": "dbc8a84c59c6",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-08-18T07:43:48.055508"
     }
   ]
 }
