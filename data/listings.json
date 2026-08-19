@@ -245,7 +245,8 @@
     "cf933dca8be2d81ac0ab74e13cdbaf76": "2026-08-11T17:59:48.668675",
     "f836cbbccfd896d0503390f3d6513071": "2026-08-14T17:55:34.896628",
     "a2669752bf6347407f32b7095e158e8c": "2026-08-16T07:36:34.147988",
-    "946e80fba668f47224fbb8e26397a3e7": "2026-08-18T07:43:48.055508"
+    "946e80fba668f47224fbb8e26397a3e7": "2026-08-18T07:43:48.055508",
+    "d33568ecbf21538047b762cc20c24b3b": "2026-08-19T07:44:45.248883"
   },
   "listings": [
     {
@@ -2249,6 +2250,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-08-18T07:43:48.055508"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Charmantes Altbaubüro in Stuttgart-West – 100 m²",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/charmantes-altbaubuero-in-stuttgart-west-100-m-/3488499957-277-9290",
+      "price_eur": 1500.0,
+      "area_sqm": 100.0,
+      "district": "70197 Stuttgart-​West",
+      "description": "Objektbeschreibung\nDas denkmalgeschützte Gründerzeitgebäude aus dem Jahr 1891 wurde 2023...",
+      "listing_id": "2db5e2f4af27",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-08-19T07:44:45.248883"
     }
   ]
 }

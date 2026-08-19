@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T17:33:28.193935",
-  "total_listings": 154,
+  "last_updated": "2026-08-19T07:44:50.217538",
+  "total_listings": 155,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2025,6 +2025,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-08-18T07:43:48.055508"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Charmantes Altbaubüro in Stuttgart-West – 100 m²",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/charmantes-altbaubuero-in-stuttgart-west-100-m-/3488499957-277-9290",
+      "price_eur": 1500.0,
+      "area_sqm": 100.0,
+      "district": "70197 Stuttgart-​West",
+      "description": "Objektbeschreibung\nDas denkmalgeschützte Gründerzeitgebäude aus dem Jahr 1891 wurde 2023...",
+      "listing_id": "2db5e2f4af27",
+      "ai_score": 7,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-08-19T07:44:45.248883"
     }
   ]
 }
