@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T07:44:50.217538",
-  "total_listings": 155,
+  "last_updated": "2026-08-19T17:31:57.235282",
+  "total_listings": 156,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Raumvermietung",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/raumvermietung/3414241044-277-9295",
-      "price_eur": 60.0,
-      "area_sqm": null,
-      "district": "70193 Stuttgart-​West",
-      "description": "Infos siehe Foto slides.\n\nDu hast Interesse?\n\nwww.coame.de/studio",
-      "listing_id": "b141b4acbe15",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-21T10:42:56.388705"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
@@ -2038,6 +2025,32 @@
       "ai_score": 7,
       "ai_summary": "Fairer Preis. Stuttgart-West.",
       "found_at": "2026-08-19T07:44:45.248883"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "MANIKÜRE-ARBEITSPLATZ ZU VERMIETEN",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/manikuere-arbeitsplatz-zu-vermieten/3488983306-277-9287",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "STUTTGART MITTE · TOP-LAGE\n\nNur 7 Minuten zu Fuß zum Schlossplatz.\nBars, Restaurants & Cafés direkt...",
+      "listing_id": "45a312e5c024",
+      "ai_score": 9,
+      "ai_summary": "zentrale Lage. Gastro-Nutzung möglich.",
+      "found_at": "2026-08-19T17:31:52.598787"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Praxis- oder Beratungsraum in Stuttgart West",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/praxis-oder-beratungsraum-in-stuttgart-west/3488674153-277-9284",
+      "price_eur": 150.0,
+      "area_sqm": null,
+      "district": "70176 Stuttgart-​West",
+      "description": "Du suchst einen professionellen, ruhigen Raum für deine selbstständige Tätigkeit – ohne gleich eine...",
+      "listing_id": "16865402af02",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-West.",
+      "found_at": "2026-08-19T17:31:52.620128"
     }
   ]
 }
