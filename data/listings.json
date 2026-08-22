@@ -248,61 +248,10 @@
     "946e80fba668f47224fbb8e26397a3e7": "2026-08-18T07:43:48.055508",
     "d33568ecbf21538047b762cc20c24b3b": "2026-08-19T07:44:45.248883",
     "3e74809cee295e0d78c0c27f696c5f48": "2026-08-19T17:31:52.598787",
-    "d0ba5708e2e3cad32e8f081153fedfcd": "2026-08-19T17:31:52.620128"
+    "d0ba5708e2e3cad32e8f081153fedfcd": "2026-08-19T17:31:52.620128",
+    "2032990019c63af536938adcfaac51d7": "2026-08-22T07:36:43.076719"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Sanierte Büroetage mit Aufzug in der Marienstrasse - Top Lage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/sanierte-bueroetage-mit-aufzug-in-der-marienstrasse-top-lage/3414855578-277-9599",
-      "price_eur": 1250.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Zur Vermietung steht eine vielseitig nutzbare Gewerbefläche in bester Lage.\n\nDie Einheit befindet...",
-      "listing_id": "ba1de2bee1fc",
-      "ai_score": 8,
-      "ai_summary": "Fairer Preis. zentrale Lage.",
-      "found_at": "2026-05-21T19:03:44.255914"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Freier Platz in 3-er Bürogemeinschaft in S-West - 220 Euro/Monat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/freier-platz-in-3-er-buerogemeinschaft-in-s-west-220-euro-monat/3414636494-277-9284",
-      "price_eur": 220.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "Hallo!\nIn unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
-      "listing_id": "f8a5e1c11e4e",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-21T19:03:44.262894"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Helle Büro Räume Stuttgart Zuffenhausen All-inclusive-Miete",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/helle-buero-raeume-stuttgart-zuffenhausen-all-inclusive-miete/3415208787-277-9282",
-      "price_eur": 595.0,
-      "area_sqm": null,
-      "district": "70188 Stuttgart-​Ost",
-      "description": "All-inclusive-Miete\n\nSie suchen einen professionellen Standort für Ihr Unternehmen, Startup oder...",
-      "listing_id": "b725147dd4fc",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-05-22T10:26:56.514237"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Büroraum in Bürogemeinschaft in zentraler Lage in Stuttgart-West",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-in-buerogemeinschaft-in-zentraler-lage-in-stuttgart-west/3415061466-277-9288",
-      "price_eur": 570.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​West",
-      "description": "In unserer Bürogemeinschaft im Stuttgarter Westen (Haltestelle S-Bahn Feuersee in unmittelbarer...",
-      "listing_id": "4a70d33bfef9",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-22T10:26:56.527049"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Gewerberaum - Büro in Stuttgarter Zentrallage",
@@ -2278,6 +2227,19 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-West.",
       "found_at": "2026-08-19T17:31:52.620128"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Etabliertes asiatisches Restaurant in Stuttgart zu übergeben",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/etabliertes-asiatisches-restaurant-in-stuttgart-zu-uebergeben/3491014263-277-9288",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​West",
+      "description": "Etabliertes asiatisches Restaurant in attraktiver Lage aus privaten Gründen zu...",
+      "listing_id": "599079e392b5",
+      "ai_score": 7,
+      "ai_summary": "Stuttgart-West. Gastro-Nutzung möglich.",
+      "found_at": "2026-08-22T07:36:43.076719"
     }
   ]
 }
