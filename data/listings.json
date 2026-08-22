@@ -249,7 +249,8 @@
     "d33568ecbf21538047b762cc20c24b3b": "2026-08-19T07:44:45.248883",
     "3e74809cee295e0d78c0c27f696c5f48": "2026-08-19T17:31:52.598787",
     "d0ba5708e2e3cad32e8f081153fedfcd": "2026-08-19T17:31:52.620128",
-    "2032990019c63af536938adcfaac51d7": "2026-08-22T07:36:43.076719"
+    "2032990019c63af536938adcfaac51d7": "2026-08-22T07:36:43.076719",
+    "f1e13fc1278c562bd9dd4004f21eb1e0": "2026-08-22T17:26:20.860148"
   },
   "listings": [
     {
@@ -2240,6 +2241,19 @@
       "ai_score": 7,
       "ai_summary": "Stuttgart-West. Gastro-Nutzung möglich.",
       "found_at": "2026-08-22T07:36:43.076719"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerbe Stuttgart Mitte (Atelier, Tattoo-Studio, Physiotherapie…)",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerbe-stuttgart-mitte-atelier-tattoo-studio-physiotherapie-/3491277605-277-9291",
+      "price_eur": 1750.0,
+      "area_sqm": null,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Gewerbe zentral in Stuttgart ab 1.10 zu vermieten. Ideal für Joga-Kurse/Physiotherapie,...",
+      "listing_id": "f0b072b6e5cf",
+      "ai_score": 4,
+      "ai_summary": "Am oberen Preislimit.",
+      "found_at": "2026-08-22T17:26:20.860148"
     }
   ]
 }
