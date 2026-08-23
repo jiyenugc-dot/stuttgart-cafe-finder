@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T07:38:49.427815",
+  "last_updated": "2026-08-23T17:25:58.521427",
   "total_listings": 154,
   "search_config": {
     "city": "Stuttgart",
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Gewerberaum - Büro in Stuttgarter Zentrallage",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerberaum-buero-in-stuttgarter-zentrallage/3416694505-277-9287",
-      "price_eur": 375.0,
-      "area_sqm": null,
-      "district": "70182 Stuttgart-​Mitte",
-      "description": "Vielseitig als Gewerbe- oder Büroraum (z.b. homeoffice) nutzbar. Zentrallage unweit des...",
-      "listing_id": "4bad46c7363f",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-24T18:03:27.352941"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Schreibtischplätze mit Weinbergblick in Toplage Stuttgart – All-In",
@@ -2025,6 +2012,19 @@
       "ai_score": 4,
       "ai_summary": "Am oberen Preislimit.",
       "found_at": "2026-08-22T17:26:20.860148"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "1-2 Büros mit Klimaanlage in Bürogemeinschaft für je 1-2  Pers. ab 550,- +MwSt. all inkl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/1-2-bueros-mit-klimaanlage-in-buerogemeinschaft-fuer-je-1-2-pers-ab-550-mwst-all-inkl-/3492578985-277-19335",
+      "price_eur": 450.0,
+      "area_sqm": null,
+      "district": "70327 Stuttgart-​Ost",
+      "description": "Das schöne Büro mit Loftfeeling in unserem historischen Fabrikgebäude teilt sich unsere...",
+      "listing_id": "e8c860cbb971",
+      "ai_score": 6,
+      "ai_summary": "Günstiger Preis.",
+      "found_at": "2026-08-23T17:25:54.739162"
     }
   ]
 }
