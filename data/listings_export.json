@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T17:25:58.521427",
-  "total_listings": 154,
+  "last_updated": "2026-08-24T08:00:13.546095",
+  "total_listings": 155,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -2025,6 +2025,19 @@
       "ai_score": 6,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-08-23T17:25:54.739162"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Gewerberäume",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gewerberaeume/3493288303-277-9287",
+      "price_eur": 1150.0,
+      "area_sqm": null,
+      "district": "70182 Stuttgart-​Mitte",
+      "description": "Es gibt ein Gewölberaum mit tolle Akustik und Ambiente.\nGroße Küche für eine Gastronomie oder...",
+      "listing_id": "a93f79d327f7",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. Gastro-Nutzung möglich.",
+      "found_at": "2026-08-24T08:00:09.688234"
     }
   ]
 }
