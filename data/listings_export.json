@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T19:08:49.064886",
-  "total_listings": 161,
+  "last_updated": "2026-08-27T18:11:49.771419",
+  "total_listings": 159,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,58 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Moderne Büroflächen & Content Studios zentral in Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-bueroflaechen-content-studios-zentral-in-stuttgart/3419556913-277-9596",
-      "price_eur": 500.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Süd",
-      "description": "Moderne, voll möblierte Büro- & Studioräume in zentraler Lage in Stuttgart.\nMehrere Räume verfügbar...",
-      "listing_id": "19cf8961d938",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-05-27T19:29:29.072105"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "NACHMIETER GESUCHT KIOSK AM MARIENPLATZ STUTTGART",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-kiosk-am-marienplatz-stuttgart/3419535594-277-9599",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Einmalige Chance!\nKiosk in absoluter Bestlage direkt am Marienplatz Stuttgart-Süd abzugeben –...",
-      "listing_id": "200a29c4678a",
-      "ai_score": 7,
-      "ai_summary": "zentrale Lage.",
-      "found_at": "2026-05-27T19:29:29.076745"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Raum für Inspiration",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/raum-fuer-inspiration/3298505609-277-9283",
-      "price_eur": null,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Diese attraktive Ladenfläche befindet sich in einem angesagten, zentral gelegenen Einkaufscenter...",
-      "listing_id": "a7d750c0c464",
-      "ai_score": 8,
-      "ai_summary": "zentrale Lage.",
-      "found_at": "2026-05-28T10:59:16.269190"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Beratungsbüro / Büroraum  Stuttgart Mitte an der Königstraße",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/beratungsbuero-bueroraum-stuttgart-mitte-an-der-koenigstrasse/3420698030-277-9283",
-      "price_eur": 390.0,
-      "area_sqm": null,
-      "district": "70173 Stuttgart-​Mitte",
-      "description": "Ich suche eine passende Person oder ein kleines Unternehmen zur Untermiete für ein zentral...",
-      "listing_id": "3b527ec1dfc8",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-29T10:51:17.111003"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
@@ -2116,6 +2064,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis.",
       "found_at": "2026-08-25T17:36:28.020917"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "RÄUME BEI ZEITLOS ZU VERMIETEN",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/raeume-bei-zeitlos-zu-vermieten/3496169740-277-9596",
+      "price_eur": null,
+      "area_sqm": null,
+      "district": "70178 Stuttgart-​Süd",
+      "description": "Wir haben bei ZEITLOS #1 in Stuttgart aktuell Räumlichkeiten zur Vermietung frei und sind bei der...",
+      "listing_id": "447b38696b9d",
+      "ai_score": 6,
+      "ai_summary": "Stuttgart-Süd.",
+      "found_at": "2026-08-27T18:11:44.902094"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Vielseitig nutzbare Gewerbefläche mit historischem Charme in Stuttgart-Süd",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/vielseitig-nutzbare-gewerbeflaeche-mit-historischem-charme-in-stuttgart-sued/3470546301-277-9292",
+      "price_eur": 1056.0,
+      "area_sqm": null,
+      "district": "70199 Stuttgart-​Süd",
+      "description": "Diese individuell geschnittene Gewerbeeinheit überzeugt durch ihr flexibles Raumkonzept und eignet...",
+      "listing_id": "ece75a3cadeb",
+      "ai_score": 8,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-27T18:11:44.905364"
     }
   ]
 }
