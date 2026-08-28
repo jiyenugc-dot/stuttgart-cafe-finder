@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T18:11:49.771419",
-  "total_listings": 159,
+  "last_updated": "2026-08-28T19:21:57.138757",
+  "total_listings": 158,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,45 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Ein Büroplatz, Arbeitsplatz in gemeinschaftl. Büro ca. 200,- mtl.",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ein-bueroplatz-arbeitsplatz-in-gemeinschaftl-buero-ca-200-mtl-/3420896360-277-9284",
-      "price_eur": 220.0,
-      "area_sqm": null,
-      "district": "70176 Stuttgart-​West",
-      "description": "Hallo! In unserer Bürogemeinschaft in S-West (Ludwigstraße, Nähe Feuersee) ist ein ruhiger und...",
-      "listing_id": "ecac5289846e",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-29T19:35:31.156351"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Abstell-/Kellerraum 82qm mit sep. Zugang, Toilette Stuttgart West",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/abstell-kellerraum-82qm-mit-sep-zugang-toilette-stuttgart-west/3420892063-277-9295",
-      "price_eur": 800.0,
-      "area_sqm": 82.0,
-      "district": "70193 Stuttgart-​West",
-      "description": "Zur Vermietung kommt ein geräumiger Kellerraum mit 82qm in der Forststraße 191 in Stuttgart West....",
-      "listing_id": "9f1fe0f8f6a6",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-West.",
-      "found_at": "2026-05-29T19:35:31.162053"
-    },
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Untermieter im zentralen Stuttgart West",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/untermieter-im-zentralen-stuttgart-west/3421448016-277-9291",
-      "price_eur": 800.0,
-      "area_sqm": null,
-      "district": "70190 Stuttgart-​Ost",
-      "description": "Ich suche für mein Kosmetikstudio ein Untermieter. Die Fläche kann als Massage Raum, Kosmetik...",
-      "listing_id": "2995d11f59a0",
-      "ai_score": 7,
-      "ai_summary": "Günstiger Preis.",
-      "found_at": "2026-05-30T18:06:30.015079"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Friseurstuhl für selbstständige Tätigkeit zu vermieten",
@@ -2090,6 +2051,32 @@
       "ai_score": 8,
       "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
       "found_at": "2026-08-27T18:11:44.905364"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büro Arbeitsplatz zur Mitnutzung möbliert im Loft Charakter",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/buero-arbeitsplatz-zur-mitnutzung-moebliert-im-loft-charakter/3496983992-277-9284",
+      "price_eur": 1250.0,
+      "area_sqm": 65.0,
+      "district": "70176 Stuttgart-​West",
+      "description": "Kreatives & inspirierendes Loft mit Industrieflair im Herzen des Stuttgarter Westens. Die 65m²...",
+      "listing_id": "24bffa9e6409",
+      "ai_score": 8,
+      "ai_summary": "Fairer Preis. Stuttgart-West.",
+      "found_at": "2026-08-28T19:21:51.691794"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Nachfolger Indoorspielplatz",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/nachfolger-indoorspielplatz/3496870339-277-9283",
+      "price_eur": 1.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "Zum Verkauf steht ein bestehendes Geschäftskonzept im Bereich Indoorspielplatz mit Kinderbetreuung....",
+      "listing_id": "0676e379d0a5",
+      "ai_score": 9,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-28T19:21:51.692750"
     }
   ]
 }
