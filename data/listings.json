@@ -267,22 +267,10 @@
     "dfada06044985b3e3112010887897d5a": "2026-08-27T18:11:44.902094",
     "82c3473b93af2c2f5a2162bf7d654da0": "2026-08-27T18:11:44.905364",
     "c9f95b69f7dad4aa1afdc466f6fd375f": "2026-08-28T19:21:51.691794",
-    "7dce8b6f16f40a38ce3bf14ca4c415c7": "2026-08-28T19:21:51.692750"
+    "7dce8b6f16f40a38ce3bf14ca4c415c7": "2026-08-28T19:21:51.692750",
+    "68d3f8bfaf8b8b97ee368a8152dc8433": "2026-08-29T19:39:05.712404"
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "Friseurstuhl für selbstständige Tätigkeit zu vermieten",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/friseurstuhl-fuer-selbststaendige-taetigkeit-zu-vermieten/3422632301-277-9599",
-      "price_eur": 800.0,
-      "area_sqm": null,
-      "district": "70178 Stuttgart-​Mitte",
-      "description": "Friseurstuhl zu vermieten ab sofort in Stuttgart-Mitte, bitte bei seriösem Interesse, einen...",
-      "listing_id": "589172e67b0e",
-      "ai_score": 9,
-      "ai_summary": "Günstiger Preis. zentrale Lage.",
-      "found_at": "2026-05-31T18:08:22.284708"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "CoWorking - Arbeitsplatz / Geschäftsadresse in Büro in Stuttgart",
@@ -2323,6 +2311,19 @@
       "ai_score": 9,
       "ai_summary": "Günstiger Preis. zentrale Lage.",
       "found_at": "2026-08-28T19:21:51.692750"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Supermarkt ca. 110qm in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/supermarkt-ca-110qm-in-stuttgart/3498195129-277-9291",
+      "price_eur": 1400.0,
+      "area_sqm": 110.0,
+      "district": "70190 Stuttgart-​Ost",
+      "description": "Objektbeschreibung : Lebensmittelladen mit ca 120qm. Nutzfläche, Terrasse, Garten, zwei...",
+      "listing_id": "bfe7abf40155",
+      "ai_score": 6,
+      "ai_summary": "Fairer Preis. mit Terrasse.",
+      "found_at": "2026-08-29T19:39:05.712404"
     }
   ]
 }
