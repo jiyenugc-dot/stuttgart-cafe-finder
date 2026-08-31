@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T19:42:26.903953",
-  "total_listings": 158,
+  "last_updated": "2026-08-31T14:59:19.806703",
+  "total_listings": 164,
   "search_config": {
     "city": "Stuttgart",
     "districts": [
@@ -24,19 +24,6 @@
     "max_area_sqm": 100
   },
   "listings": [
-    {
-      "platform": "Kleinanzeigen",
-      "title": "CoWorking - Arbeitsplatz / Geschäftsadresse in Büro in Stuttgart",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/coworking-arbeitsplatz-geschaeftsadresse-in-buero-in-stuttgart/3423260985-277-9281",
-      "price_eur": 155.0,
-      "area_sqm": null,
-      "district": "70180 Stuttgart-​Süd",
-      "description": "Wir haben einen Schreibtisch/Arbeitsplatz für Euch.\n\nIn unserem leicht zugängigen Ladenbüro im...",
-      "listing_id": "88408ef6c136",
-      "ai_score": 8,
-      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
-      "found_at": "2026-06-01T12:43:25.813169"
-    },
     {
       "platform": "Kleinanzeigen",
       "title": "Ladenlokal in Stuttgart-Stöckach – Top Lage, 40 m zur U-Bahn",
@@ -2077,6 +2064,97 @@
       "ai_score": 6,
       "ai_summary": "Fairer Preis. mit Terrasse.",
       "found_at": "2026-08-29T19:39:05.712404"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Kellerraum in Stuttgart Süd (Liststraße) zu vermieten",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/kellerraum-in-stuttgart-sued-liststrasse-zu-vermieten/3499611503-277-9281",
+      "price_eur": 50.0,
+      "area_sqm": null,
+      "district": "70180 Stuttgart-​Süd",
+      "description": "Kellerraum in Stuttgart Süd (Liststraße) zu vermieten – ideal als Wein- oder Lagerkeller\n\nVermietet...",
+      "listing_id": "9f8ce4c3f016",
+      "ai_score": 7,
+      "ai_summary": "Günstiger Preis. Stuttgart-Süd.",
+      "found_at": "2026-08-31T14:59:14.723926"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Chef-Eckbüro-Lösung mit Blick auf Stuttgart – zentral & flexibel",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-chef-eckbuero-loesung-mit-blick-auf-stuttgart-zentral-flexibel/3499517874-277-9283",
+      "price_eur": 1990.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AGL)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "291df985c23d",
+      "ai_score": 7,
+      "ai_summary": "Am oberen Preislimit. zentrale Lage.",
+      "found_at": "2026-08-31T14:59:14.726142"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusive Bürolösungen mit Dachterrasse für 1-2 Arbeitsplätze in Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusive-bueroloesungen-mit-dachterrasse-fuer-1-2-arbeitsplaetze-in-stuttgart/3499517853-277-9283",
+      "price_eur": 1490.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AGK)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: 1x...",
+      "listing_id": "808f71fa3c20",
+      "ai_score": 10,
+      "ai_summary": "Fairer Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-08-31T14:59:14.727231"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusives Büro 1-2 Personen mit Rathausblick - Stuttgart",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusives-buero-1-2-personen-mit-rathausblick-stuttgart/3499517838-277-9283",
+      "price_eur": 1290.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 224397 AGJ)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Exklusives...",
+      "listing_id": "559857b2d440",
+      "ai_score": 9,
+      "ai_summary": "Fairer Preis. zentrale Lage.",
+      "found_at": "2026-08-31T14:59:14.729382"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Exklusiver XS-Büroraum im Königsbau - flexibel, möbliert, 24/7",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/exklusiver-xs-bueroraum-im-koenigsbau-flexibel-moebliert-24-7/3499517174-277-9283",
+      "price_eur": 999.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218349 RO)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum XS...",
+      "listing_id": "3610e5230494",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage.",
+      "found_at": "2026-08-31T14:59:14.735889"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "XS-Büroraum mit privater Terrasse in Stuttgart – flexibel, voll möbliert, inkl.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/xs-bueroraum-mit-privater-terrasse-in-stuttgart-flexibel-voll-moebliert-inkl-/3499517168-277-9283",
+      "price_eur": 839.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218337 ASV)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum XS...",
+      "listing_id": "046876684ebb",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-08-31T14:59:14.736980"
+    },
+    {
+      "platform": "Kleinanzeigen",
+      "title": "Büroraum S ab: 5. Etage, private Terrasse, All-Inclusive, sofort verfügbar",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/bueroraum-s-ab-5-etage-private-terrasse-all-inclusive-sofort-verfuegbar/3499517056-277-9283",
+      "price_eur": 909.0,
+      "area_sqm": null,
+      "district": "70173 Stuttgart-​Mitte",
+      "description": "(Objekt-Nr.: 218337 ASR)\nObjektkategorie: Abgeschlossener Büroraum\nTitel des Angebots: Büroraum S...",
+      "listing_id": "38071072798b",
+      "ai_score": 10,
+      "ai_summary": "Günstiger Preis. zentrale Lage. mit Terrasse.",
+      "found_at": "2026-08-31T14:59:14.740199"
     }
   ]
 }
